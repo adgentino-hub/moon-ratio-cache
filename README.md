@@ -1,3 +1,3 @@
-# moon-ratio-cache
+# cache
 
-Cache de datos históricos de ratios para moonarg.vercel.app
+Cache de datos históricos
