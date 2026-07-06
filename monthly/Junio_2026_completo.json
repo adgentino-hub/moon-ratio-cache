@@ -25,7 +25,7 @@
   ],
   "total_dias_procesados": 21,
   "dias_sin_data": [],
-  "total_tickers": 628,
+  "total_tickers": 624,
   "ranking_mensual": {
     "top_compradores_netos": [
       {
@@ -4712,106 +4712,6 @@
       },
       "variacion_mensual_pct": 2.46,
       "poc_pct_promedio": 99.1
-    },
-    "LMS8D-24hs": {
-      "operaciones": {
-        "compra": 56,
-        "venta": 36,
-        "desconocido": 10
-      },
-      "total_operaciones": 102,
-      "volumen_nominal": {
-        "compra": 47086,
-        "venta": 27721
-      },
-      "flujo_neto_nominal": 19365,
-      "dias_operado": 15,
-      "dias_comprador": 7,
-      "dias_vendedor": 8,
-      "dias_neutro": 3,
-      "poc_dominante_mes": 105.85,
-      "poc_dominante_nominales": 14128,
-      "rango_precio_mes": {
-        "min": 76.38,
-        "max": 108.55
-      },
-      "variacion_mensual_pct": -26.23,
-      "poc_pct_promedio": 69.18
-    },
-    "LMS8D-CI": {
-      "operaciones": {
-        "compra": 8,
-        "venta": 2,
-        "desconocido": 0
-      },
-      "total_operaciones": 10,
-      "volumen_nominal": {
-        "compra": 4960,
-        "venta": 48240
-      },
-      "flujo_neto_nominal": -43280,
-      "dias_operado": 2,
-      "dias_comprador": 1,
-      "dias_vendedor": 1,
-      "dias_neutro": 16,
-      "poc_dominante_mes": 77.7,
-      "poc_dominante_nominales": 48000,
-      "rango_precio_mes": {
-        "min": 77.7,
-        "max": 104.0
-      },
-      "variacion_mensual_pct": -25.29,
-      "poc_pct_promedio": 100.0
-    },
-    "LMS8O-24hs": {
-      "operaciones": {
-        "compra": 46,
-        "venta": 44,
-        "desconocido": 1
-      },
-      "total_operaciones": 91,
-      "volumen_nominal": {
-        "compra": 43478,
-        "venta": 41828
-      },
-      "flujo_neto_nominal": 1650,
-      "dias_operado": 15,
-      "dias_comprador": 8,
-      "dias_vendedor": 7,
-      "dias_neutro": 3,
-      "poc_dominante_mes": 153120.0,
-      "poc_dominante_nominales": 30000,
-      "rango_precio_mes": {
-        "min": 116660.0,
-        "max": 158280.0
-      },
-      "variacion_mensual_pct": -24.39,
-      "poc_pct_promedio": 78.49
-    },
-    "LMS8O-CI": {
-      "operaciones": {
-        "compra": 3,
-        "venta": 1,
-        "desconocido": 0
-      },
-      "total_operaciones": 4,
-      "volumen_nominal": {
-        "compra": 81,
-        "venta": 1
-      },
-      "flujo_neto_nominal": 80,
-      "dias_operado": 2,
-      "dias_comprador": 1,
-      "dias_vendedor": 0,
-      "dias_neutro": 17,
-      "poc_dominante_mes": 159000.0,
-      "poc_dominante_nominales": 80,
-      "rango_precio_mes": {
-        "min": 154230.0,
-        "max": 159000.0
-      },
-      "variacion_mensual_pct": 2.9,
-      "poc_pct_promedio": 100.0
     },
     "LOC5D-24hs": {
       "operaciones": {
@@ -16725,26 +16625,6 @@
         "dias_loser": 8
       }
     },
-    "LMS8D": {
-      "frecuencia_rankings": {
-        "dias_comprador_neto": 7,
-        "dias_vendedor_neto": 7,
-        "dias_distressed": 1,
-        "dias_premium": 10,
-        "dias_gainer": 5,
-        "dias_loser": 8
-      }
-    },
-    "LMS8O": {
-      "frecuencia_rankings": {
-        "dias_comprador_neto": 8,
-        "dias_vendedor_neto": 7,
-        "dias_distressed": 1,
-        "dias_premium": 11,
-        "dias_gainer": 7,
-        "dias_loser": 8
-      }
-    },
     "LOC5D": {
       "frecuencia_rankings": {
         "dias_comprador_neto": 6,
@@ -19147,10 +19027,6 @@
       "divergencia_ars_usd_promedio_pct": -0.21,
       "dias_con_dato": 19
     },
-    "LMS8": {
-      "divergencia_ars_usd_promedio_pct": -0.2,
-      "dias_con_dato": 14
-    },
     "LOC5": {
       "divergencia_ars_usd_promedio_pct": -0.02,
       "dias_con_dato": 19
@@ -19671,16 +19547,6 @@
         "LMS7O-24hs",
         "LMS7D-CI",
         "LMS7O-CI"
-      ]
-    },
-    "ON ALUAR S.8 V21/03/27 U$S CG (LMS8D)": {
-      "flujo_neto_nominal": -22185,
-      "total_operaciones": 207,
-      "tickers": [
-        "LMS8O-24hs",
-        "LMS8D-24hs",
-        "LMS8D-CI",
-        "LMS8O-CI"
       ]
     },
     "ON ARCOR CL.2 06/10/26 USD (RC2CD)": {
