@@ -1,0 +1,2893 @@
+{
+  "mes": "2026-06",
+  "dias_procesados": [
+    "2026-06-01",
+    "2026-06-02",
+    "2026-06-03",
+    "2026-06-04",
+    "2026-06-05",
+    "2026-06-08",
+    "2026-06-09",
+    "2026-06-10",
+    "2026-06-11",
+    "2026-06-12",
+    "2026-06-16",
+    "2026-06-17",
+    "2026-06-18",
+    "2026-06-19",
+    "2026-06-22",
+    "2026-06-23",
+    "2026-06-24",
+    "2026-06-25"
+  ],
+  "total_dias_procesados": 18,
+  "total_tickers": 278,
+  "ranking_mensual": {
+    "top_compradores_netos": [
+      {
+        "ticker": "OLC7D",
+        "flujo_neto_nominal": 3487140
+      },
+      {
+        "ticker": "TTC8O",
+        "flujo_neto_nominal": 2796000
+      },
+      {
+        "ticker": "DNCAD",
+        "flujo_neto_nominal": 2005500
+      },
+      {
+        "ticker": "VSCXD",
+        "flujo_neto_nominal": 1667000
+      },
+      {
+        "ticker": "LDCGD",
+        "flujo_neto_nominal": 1590153
+      },
+      {
+        "ticker": "MGCRO",
+        "flujo_neto_nominal": 1580000
+      },
+      {
+        "ticker": "MCC3D",
+        "flujo_neto_nominal": 1544132
+      },
+      {
+        "ticker": "VSCVO",
+        "flujo_neto_nominal": 1542000
+      },
+      {
+        "ticker": "YM34D",
+        "flujo_neto_nominal": 1444680
+      },
+      {
+        "ticker": "PLC4D",
+        "flujo_neto_nominal": 1421000
+      }
+    ],
+    "top_vendedores_netos": [
+      {
+        "ticker": "PLC6D",
+        "flujo_neto_nominal": -690170
+      },
+      {
+        "ticker": "RC2CD",
+        "flujo_neto_nominal": -625440
+      },
+      {
+        "ticker": "YMCID",
+        "flujo_neto_nominal": -598371
+      },
+      {
+        "ticker": "YFCJO",
+        "flujo_neto_nominal": -585000
+      },
+      {
+        "ticker": "VBC2O",
+        "flujo_neto_nominal": -579332
+      },
+      {
+        "ticker": "HJCID",
+        "flujo_neto_nominal": -563135
+      },
+      {
+        "ticker": "YM38D",
+        "flujo_neto_nominal": -528212
+      },
+      {
+        "ticker": "RCCRD",
+        "flujo_neto_nominal": -516982
+      },
+      {
+        "ticker": "YM35D",
+        "flujo_neto_nominal": -472181
+      },
+      {
+        "ticker": "LOC5D",
+        "flujo_neto_nominal": -453950
+      }
+    ]
+  },
+  "tickers": {
+    "AERBD": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 7,
+      "nominales_compra": 96040,
+      "nominales_venta": 149403,
+      "flujo_neto_nominal": -53363,
+      "ratio_compra_pct": 39.1,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 8
+    },
+    "AERBO": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 0,
+      "nominales_compra": 109773,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 109773,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "AFCID": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 3,
+      "nominales_compra": 137740,
+      "nominales_venta": 62045,
+      "flujo_neto_nominal": 75695,
+      "ratio_compra_pct": 68.9,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 4
+    },
+    "AFCIO": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 0,
+      "nominales_compra": 50000,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 50000,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "AFCKD": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 2,
+      "nominales_compra": 0,
+      "nominales_venta": 42600,
+      "flujo_neto_nominal": -42600,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 1
+    },
+    "AFCKO": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 0,
+      "nominales_compra": 27500,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 27500,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "ARC1D": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 13,
+      "nominales_compra": 120000,
+      "nominales_venta": 229000,
+      "flujo_neto_nominal": -109000,
+      "ratio_compra_pct": 34.4,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 7
+    },
+    "ARC1O": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 5,
+      "nominales_compra": 74000,
+      "nominales_venta": 81000,
+      "flujo_neto_nominal": -7000,
+      "ratio_compra_pct": 47.7,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 6
+    },
+    "BACGD": {
+      "operaciones_compra": 20,
+      "operaciones_venta": 34,
+      "nominales_compra": 486000,
+      "nominales_venta": 583000,
+      "flujo_neto_nominal": -97000,
+      "ratio_compra_pct": 45.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 15
+    },
+    "BACGO": {
+      "operaciones_compra": 21,
+      "operaciones_venta": 12,
+      "nominales_compra": 406000,
+      "nominales_venta": 196000,
+      "flujo_neto_nominal": 210000,
+      "ratio_compra_pct": 67.4,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 12
+    },
+    "BACHD": {
+      "operaciones_compra": 26,
+      "operaciones_venta": 24,
+      "nominales_compra": 499000,
+      "nominales_venta": 490000,
+      "flujo_neto_nominal": 9000,
+      "ratio_compra_pct": 50.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 13
+    },
+    "BACHO": {
+      "operaciones_compra": 21,
+      "operaciones_venta": 14,
+      "nominales_compra": 441000,
+      "nominales_venta": 232000,
+      "flujo_neto_nominal": 209000,
+      "ratio_compra_pct": 65.5,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 12
+    },
+    "BF37D": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 6,
+      "nominales_compra": 0,
+      "nominales_venta": 143800,
+      "flujo_neto_nominal": -143800,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 4
+    },
+    "BF37O": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 1,
+      "nominales_compra": 70740,
+      "nominales_venta": 15370,
+      "flujo_neto_nominal": 55370,
+      "ratio_compra_pct": 82.2,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "BGC4D": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 8,
+      "nominales_compra": 0,
+      "nominales_venta": 243798,
+      "flujo_neto_nominal": -243798,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 3
+    },
+    "BYCHD": {
+      "operaciones_compra": 8,
+      "operaciones_venta": 8,
+      "nominales_compra": 124963,
+      "nominales_venta": 165689,
+      "flujo_neto_nominal": -40726,
+      "ratio_compra_pct": 43.0,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 8
+    },
+    "BYCHO": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 4,
+      "nominales_compra": 39000,
+      "nominales_venta": 88563,
+      "flujo_neto_nominal": -49563,
+      "ratio_compra_pct": 30.6,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "BYCVD": {
+      "operaciones_compra": 8,
+      "operaciones_venta": 32,
+      "nominales_compra": 474000,
+      "nominales_venta": 757000,
+      "flujo_neto_nominal": -283000,
+      "ratio_compra_pct": 38.5,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 12
+    },
+    "BYCVO": {
+      "operaciones_compra": 22,
+      "operaciones_venta": 3,
+      "nominales_compra": 1008000,
+      "nominales_venta": 111000,
+      "flujo_neto_nominal": 897000,
+      "ratio_compra_pct": 90.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 8
+    },
+    "CAC5D": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 2,
+      "nominales_compra": 64083,
+      "nominales_venta": 33576,
+      "flujo_neto_nominal": 30507,
+      "ratio_compra_pct": 65.6,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 4
+    },
+    "CAC5O": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 1,
+      "nominales_compra": 15000,
+      "nominales_venta": 19000,
+      "flujo_neto_nominal": -4000,
+      "ratio_compra_pct": 44.1,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 2
+    },
+    "CACBD": {
+      "operaciones_compra": 13,
+      "operaciones_venta": 4,
+      "nominales_compra": 269143,
+      "nominales_venta": 90565,
+      "flujo_neto_nominal": 178578,
+      "ratio_compra_pct": 74.8,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 7
+    },
+    "CACBO": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 0,
+      "nominales_compra": 13311,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 13311,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "CICAD": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 4,
+      "nominales_compra": 20676,
+      "nominales_venta": 54257,
+      "flujo_neto_nominal": -33581,
+      "ratio_compra_pct": 27.6,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "CICAO": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 0,
+      "nominales_compra": 17124,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 17124,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "CP36D": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 5,
+      "nominales_compra": 69642,
+      "nominales_venta": 74006,
+      "flujo_neto_nominal": -4364,
+      "ratio_compra_pct": 48.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 5
+    },
+    "CP37D": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 4,
+      "nominales_compra": 20000,
+      "nominales_venta": 75497,
+      "flujo_neto_nominal": -55497,
+      "ratio_compra_pct": 20.9,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 3
+    },
+    "CP37O": {
+      "operaciones_compra": 8,
+      "operaciones_venta": 0,
+      "nominales_compra": 97829,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 97829,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "CP38D": {
+      "operaciones_compra": 13,
+      "operaciones_venta": 19,
+      "nominales_compra": 192800,
+      "nominales_venta": 256600,
+      "flujo_neto_nominal": -63800,
+      "ratio_compra_pct": 42.9,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 14
+    },
+    "CP38O": {
+      "operaciones_compra": 46,
+      "operaciones_venta": 6,
+      "nominales_compra": 685700,
+      "nominales_venta": 142800,
+      "flujo_neto_nominal": 542900,
+      "ratio_compra_pct": 82.8,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 14
+    },
+    "CS44D": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 10,
+      "nominales_compra": 47853,
+      "nominales_venta": 179028,
+      "flujo_neto_nominal": -131175,
+      "ratio_compra_pct": 21.1,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "CS44O": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 1,
+      "nominales_compra": 40367,
+      "nominales_venta": 14000,
+      "flujo_neto_nominal": 26367,
+      "ratio_compra_pct": 74.2,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 3
+    },
+    "CS47D": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 5,
+      "nominales_compra": 89503,
+      "nominales_venta": 69381,
+      "flujo_neto_nominal": 20122,
+      "ratio_compra_pct": 56.3,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 6
+    },
+    "CS47O": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 2,
+      "nominales_compra": 13103,
+      "nominales_venta": 22619,
+      "flujo_neto_nominal": -9516,
+      "ratio_compra_pct": 36.7,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 3
+    },
+    "CS48D": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 2,
+      "nominales_compra": 86939,
+      "nominales_venta": 23387,
+      "flujo_neto_nominal": 63552,
+      "ratio_compra_pct": 78.8,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 4
+    },
+    "CS48O": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 2,
+      "nominales_compra": 19920,
+      "nominales_venta": 24177,
+      "flujo_neto_nominal": -4257,
+      "ratio_compra_pct": 45.2,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 2
+    },
+    "CS49D": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 12,
+      "nominales_compra": 59000,
+      "nominales_venta": 261247,
+      "flujo_neto_nominal": -202247,
+      "ratio_compra_pct": 18.4,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 6
+    },
+    "CS49O": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 3,
+      "nominales_compra": 42746,
+      "nominales_venta": 35581,
+      "flujo_neto_nominal": 7165,
+      "ratio_compra_pct": 54.6,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 3
+    },
+    "CS50D": {
+      "operaciones_compra": 20,
+      "operaciones_venta": 6,
+      "nominales_compra": 574708,
+      "nominales_venta": 102175,
+      "flujo_neto_nominal": 472533,
+      "ratio_compra_pct": 84.9,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 10
+    },
+    "CS50O": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 0,
+      "nominales_compra": 103277,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 103277,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "CS51D": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 4,
+      "nominales_compra": 0,
+      "nominales_venta": 212920,
+      "flujo_neto_nominal": -212920,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 3
+    },
+    "CS51O": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 1,
+      "nominales_compra": 0,
+      "nominales_venta": 10911,
+      "flujo_neto_nominal": -10911,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 1
+    },
+    "DEC2D": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 6,
+      "nominales_compra": 105127,
+      "nominales_venta": 80123,
+      "flujo_neto_nominal": 25004,
+      "ratio_compra_pct": 56.7,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 6
+    },
+    "DEC2O": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 0,
+      "nominales_compra": 10116,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 10116,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "DNC3D": {
+      "operaciones_compra": 28,
+      "operaciones_venta": 13,
+      "nominales_compra": 498149,
+      "nominales_venta": 229699,
+      "flujo_neto_nominal": 268450,
+      "ratio_compra_pct": 68.4,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 12
+    },
+    "DNC3O": {
+      "operaciones_compra": 18,
+      "operaciones_venta": 6,
+      "nominales_compra": 345237,
+      "nominales_venta": 91140,
+      "flujo_neto_nominal": 254097,
+      "ratio_compra_pct": 79.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 14
+    },
+    "DNC5D": {
+      "operaciones_compra": 18,
+      "operaciones_venta": 11,
+      "nominales_compra": 268035,
+      "nominales_venta": 160631,
+      "flujo_neto_nominal": 107404,
+      "ratio_compra_pct": 62.5,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 11
+    },
+    "DNC5O": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 2,
+      "nominales_compra": 35285,
+      "nominales_venta": 40464,
+      "flujo_neto_nominal": -5179,
+      "ratio_compra_pct": 46.6,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 4
+    },
+    "DNC7D": {
+      "operaciones_compra": 62,
+      "operaciones_venta": 17,
+      "nominales_compra": 1015400,
+      "nominales_venta": 371600,
+      "flujo_neto_nominal": 643800,
+      "ratio_compra_pct": 73.2,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 14
+    },
+    "DNC7O": {
+      "operaciones_compra": 16,
+      "operaciones_venta": 13,
+      "nominales_compra": 248000,
+      "nominales_venta": 232500,
+      "flujo_neto_nominal": 15500,
+      "ratio_compra_pct": 51.6,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 12
+    },
+    "DNCAD": {
+      "operaciones_compra": 100,
+      "operaciones_venta": 34,
+      "nominales_compra": 2632600,
+      "nominales_venta": 627100,
+      "flujo_neto_nominal": 2005500,
+      "ratio_compra_pct": 80.8,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 17
+    },
+    "DNCAO": {
+      "operaciones_compra": 67,
+      "operaciones_venta": 30,
+      "nominales_compra": 1283600,
+      "nominales_venta": 536100,
+      "flujo_neto_nominal": 747500,
+      "ratio_compra_pct": 70.5,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 14
+    },
+    "EAC4D": {
+      "operaciones_compra": 9,
+      "operaciones_venta": 1,
+      "nominales_compra": 139435,
+      "nominales_venta": 22946,
+      "flujo_neto_nominal": 116489,
+      "ratio_compra_pct": 85.9,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 4
+    },
+    "EAC4O": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 1,
+      "nominales_compra": 101974,
+      "nominales_venta": 13373,
+      "flujo_neto_nominal": 88601,
+      "ratio_compra_pct": 88.4,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 3
+    },
+    "EMC1D": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 9,
+      "nominales_compra": 35000,
+      "nominales_venta": 133800,
+      "flujo_neto_nominal": -98800,
+      "ratio_compra_pct": 20.7,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 6
+    },
+    "GN47D": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 1,
+      "nominales_compra": 66440,
+      "nominales_venta": 14861,
+      "flujo_neto_nominal": 51579,
+      "ratio_compra_pct": 81.7,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 5
+    },
+    "GN47O": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 0,
+      "nominales_compra": 23908,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 23908,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "GN49D": {
+      "operaciones_compra": 17,
+      "operaciones_venta": 14,
+      "nominales_compra": 238000,
+      "nominales_venta": 335000,
+      "flujo_neto_nominal": -97000,
+      "ratio_compra_pct": 41.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 11
+    },
+    "GN49O": {
+      "operaciones_compra": 11,
+      "operaciones_venta": 10,
+      "nominales_compra": 432000,
+      "nominales_venta": 188000,
+      "flujo_neto_nominal": 244000,
+      "ratio_compra_pct": 69.7,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 10
+    },
+    "HJCFD": {
+      "operaciones_compra": 14,
+      "operaciones_venta": 2,
+      "nominales_compra": 245648,
+      "nominales_venta": 109787,
+      "flujo_neto_nominal": 135861,
+      "ratio_compra_pct": 69.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 8
+    },
+    "HJCFO": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 0,
+      "nominales_compra": 132000,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 132000,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "HJCGD": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 3,
+      "nominales_compra": 0,
+      "nominales_venta": 61600,
+      "flujo_neto_nominal": -61600,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 2
+    },
+    "HJCHD": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 3,
+      "nominales_compra": 54432,
+      "nominales_venta": 64454,
+      "flujo_neto_nominal": -10022,
+      "ratio_compra_pct": 45.8,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 6
+    },
+    "HJCHO": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 0,
+      "nominales_compra": 79856,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 79856,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "HJCID": {
+      "operaciones_compra": 13,
+      "operaciones_venta": 39,
+      "nominales_compra": 209770,
+      "nominales_venta": 772905,
+      "flujo_neto_nominal": -563135,
+      "ratio_compra_pct": 21.3,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 16
+    },
+    "HJCIO": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 14,
+      "nominales_compra": 168148,
+      "nominales_venta": 195128,
+      "flujo_neto_nominal": -26980,
+      "ratio_compra_pct": 46.3,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 6
+    },
+    "HJCKD": {
+      "operaciones_compra": 16,
+      "operaciones_venta": 5,
+      "nominales_compra": 320000,
+      "nominales_venta": 231000,
+      "flujo_neto_nominal": 89000,
+      "ratio_compra_pct": 58.1,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 10
+    },
+    "HJCKO": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 2,
+      "nominales_compra": 180000,
+      "nominales_venta": 22000,
+      "flujo_neto_nominal": 158000,
+      "ratio_compra_pct": 89.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 3
+    },
+    "IRCFD": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 4,
+      "nominales_compra": 49151,
+      "nominales_venta": 62912,
+      "flujo_neto_nominal": -13761,
+      "ratio_compra_pct": 43.9,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 4
+    },
+    "IRCFO": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 2,
+      "nominales_compra": 37713,
+      "nominales_venta": 22449,
+      "flujo_neto_nominal": 15264,
+      "ratio_compra_pct": 62.7,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 4
+    },
+    "IRCJD": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 2,
+      "nominales_compra": 127129,
+      "nominales_venta": 36437,
+      "flujo_neto_nominal": 90692,
+      "ratio_compra_pct": 77.7,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 4
+    },
+    "IRCJO": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 3,
+      "nominales_compra": 12904,
+      "nominales_venta": 63393,
+      "flujo_neto_nominal": -50489,
+      "ratio_compra_pct": 16.9,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 3
+    },
+    "IRCND": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 3,
+      "nominales_compra": 31489,
+      "nominales_venta": 70237,
+      "flujo_neto_nominal": -38748,
+      "ratio_compra_pct": 31.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 4
+    },
+    "IRCOD": {
+      "operaciones_compra": 10,
+      "operaciones_venta": 5,
+      "nominales_compra": 163938,
+      "nominales_venta": 78156,
+      "flujo_neto_nominal": 85782,
+      "ratio_compra_pct": 67.7,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 5
+    },
+    "IRCOO": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 8,
+      "nominales_compra": 110600,
+      "nominales_venta": 94821,
+      "flujo_neto_nominal": 15779,
+      "ratio_compra_pct": 53.8,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 4
+    },
+    "IRCPD": {
+      "operaciones_compra": 33,
+      "operaciones_venta": 17,
+      "nominales_compra": 615492,
+      "nominales_venta": 262533,
+      "flujo_neto_nominal": 352959,
+      "ratio_compra_pct": 70.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 15
+    },
+    "IRCPO": {
+      "operaciones_compra": 29,
+      "operaciones_venta": 13,
+      "nominales_compra": 475636,
+      "nominales_venta": 357047,
+      "flujo_neto_nominal": 118589,
+      "ratio_compra_pct": 57.1,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 13
+    },
+    "LDCGD": {
+      "operaciones_compra": 33,
+      "operaciones_venta": 6,
+      "nominales_compra": 1787376,
+      "nominales_venta": 197223,
+      "flujo_neto_nominal": 1590153,
+      "ratio_compra_pct": 90.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 10
+    },
+    "LDCGO": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 1,
+      "nominales_compra": 0,
+      "nominales_venta": 10174,
+      "flujo_neto_nominal": -10174,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 1
+    },
+    "LMS7D": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 0,
+      "nominales_compra": 182575,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 182575,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 5
+    },
+    "LMS7O": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 0,
+      "nominales_compra": 152731,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 152731,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 3
+    },
+    "LMS8D": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 1,
+      "nominales_compra": 13051,
+      "nominales_venta": 48000,
+      "flujo_neto_nominal": -34949,
+      "ratio_compra_pct": 21.4,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 2
+    },
+    "LMS8O": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 0,
+      "nominales_compra": 13051,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 13051,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "LOC5D": {
+      "operaciones_compra": 16,
+      "operaciones_venta": 35,
+      "nominales_compra": 315800,
+      "nominales_venta": 769750,
+      "flujo_neto_nominal": -453950,
+      "ratio_compra_pct": 29.1,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 16
+    },
+    "LOC5O": {
+      "operaciones_compra": 12,
+      "operaciones_venta": 10,
+      "nominales_compra": 181250,
+      "nominales_venta": 231350,
+      "flujo_neto_nominal": -50100,
+      "ratio_compra_pct": 43.9,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 12
+    },
+    "LOC6D": {
+      "operaciones_compra": 8,
+      "operaciones_venta": 4,
+      "nominales_compra": 400781,
+      "nominales_venta": 48195,
+      "flujo_neto_nominal": 352586,
+      "ratio_compra_pct": 89.3,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 4
+    },
+    "LOC6O": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 3,
+      "nominales_compra": 80000,
+      "nominales_venta": 67021,
+      "flujo_neto_nominal": 12979,
+      "ratio_compra_pct": 54.4,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 4
+    },
+    "LUC5D": {
+      "operaciones_compra": 8,
+      "operaciones_venta": 0,
+      "nominales_compra": 166730,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 166730,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 5
+    },
+    "LUC5O": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 0,
+      "nominales_compra": 187002,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 187002,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 5
+    },
+    "MCC1D": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 2,
+      "nominales_compra": 38790,
+      "nominales_venta": 30891,
+      "flujo_neto_nominal": 7899,
+      "ratio_compra_pct": 55.7,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 4
+    },
+    "MCC2D": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 4,
+      "nominales_compra": 33650,
+      "nominales_venta": 66000,
+      "flujo_neto_nominal": -32350,
+      "ratio_compra_pct": 33.8,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "MCC2O": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 0,
+      "nominales_compra": 23150,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 23150,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "MCC3D": {
+      "operaciones_compra": 106,
+      "operaciones_venta": 52,
+      "nominales_compra": 2513897,
+      "nominales_venta": 969765,
+      "flujo_neto_nominal": 1544132,
+      "ratio_compra_pct": 72.2,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 18
+    },
+    "MCC3O": {
+      "operaciones_compra": 60,
+      "operaciones_venta": 29,
+      "nominales_compra": 1135954,
+      "nominales_venta": 427586,
+      "flujo_neto_nominal": 708368,
+      "ratio_compra_pct": 72.7,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 18
+    },
+    "MGCMD": {
+      "operaciones_compra": 75,
+      "operaciones_venta": 78,
+      "nominales_compra": 1012000,
+      "nominales_venta": 1186000,
+      "flujo_neto_nominal": -174000,
+      "ratio_compra_pct": 46.0,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 18
+    },
+    "MGCMO": {
+      "operaciones_compra": 61,
+      "operaciones_venta": 45,
+      "nominales_compra": 805000,
+      "nominales_venta": 528000,
+      "flujo_neto_nominal": 277000,
+      "ratio_compra_pct": 60.4,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 17
+    },
+    "MGCND": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 7,
+      "nominales_compra": 169940,
+      "nominales_venta": 174581,
+      "flujo_neto_nominal": -4641,
+      "ratio_compra_pct": 49.3,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 8
+    },
+    "MGCNO": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 4,
+      "nominales_compra": 49424,
+      "nominales_venta": 125482,
+      "flujo_neto_nominal": -76058,
+      "ratio_compra_pct": 28.3,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 3
+    },
+    "MGCOD": {
+      "operaciones_compra": 236,
+      "operaciones_venta": 187,
+      "nominales_compra": 3028000,
+      "nominales_venta": 2537000,
+      "flujo_neto_nominal": 491000,
+      "ratio_compra_pct": 54.4,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 18
+    },
+    "MGCOO": {
+      "operaciones_compra": 177,
+      "operaciones_venta": 102,
+      "nominales_compra": 2195000,
+      "nominales_venta": 1469000,
+      "flujo_neto_nominal": 726000,
+      "ratio_compra_pct": 59.9,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 18
+    },
+    "MGCQD": {
+      "operaciones_compra": 13,
+      "operaciones_venta": 8,
+      "nominales_compra": 299128,
+      "nominales_venta": 133131,
+      "flujo_neto_nominal": 165997,
+      "ratio_compra_pct": 69.2,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 7
+    },
+    "MGCQO": {
+      "operaciones_compra": 8,
+      "operaciones_venta": 3,
+      "nominales_compra": 113751,
+      "nominales_venta": 57916,
+      "flujo_neto_nominal": 55835,
+      "ratio_compra_pct": 66.3,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 6
+    },
+    "MGCRD": {
+      "operaciones_compra": 208,
+      "operaciones_venta": 129,
+      "nominales_compra": 2518000,
+      "nominales_venta": 1350000,
+      "flujo_neto_nominal": 1168000,
+      "ratio_compra_pct": 65.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 5
+    },
+    "MGCRO": {
+      "operaciones_compra": 298,
+      "operaciones_venta": 135,
+      "nominales_compra": 3477000,
+      "nominales_venta": 1897000,
+      "flujo_neto_nominal": 1580000,
+      "ratio_compra_pct": 64.7,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 5
+    },
+    "MGCTD": {
+      "operaciones_compra": 33,
+      "operaciones_venta": 32,
+      "nominales_compra": 561000,
+      "nominales_venta": 479000,
+      "flujo_neto_nominal": 82000,
+      "ratio_compra_pct": 53.9,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 15
+    },
+    "MGCTO": {
+      "operaciones_compra": 13,
+      "operaciones_venta": 27,
+      "nominales_compra": 224000,
+      "nominales_venta": 404000,
+      "flujo_neto_nominal": -180000,
+      "ratio_compra_pct": 35.7,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 14
+    },
+    "MIC4D": {
+      "operaciones_compra": 26,
+      "operaciones_venta": 14,
+      "nominales_compra": 784528,
+      "nominales_venta": 341364,
+      "flujo_neto_nominal": 443164,
+      "ratio_compra_pct": 69.7,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 7
+    },
+    "MIC4O": {
+      "operaciones_compra": 30,
+      "operaciones_venta": 8,
+      "nominales_compra": 571931,
+      "nominales_venta": 152860,
+      "flujo_neto_nominal": 419071,
+      "ratio_compra_pct": 78.9,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 9
+    },
+    "MSSFD": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 0,
+      "nominales_compra": 63357,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 63357,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 4
+    },
+    "NPCCD": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 11,
+      "nominales_compra": 145094,
+      "nominales_venta": 184499,
+      "flujo_neto_nominal": -39405,
+      "ratio_compra_pct": 44.0,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 8
+    },
+    "NPCCO": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 5,
+      "nominales_compra": 0,
+      "nominales_venta": 118816,
+      "flujo_neto_nominal": -118816,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "NPCDD": {
+      "operaciones_compra": 19,
+      "operaciones_venta": 8,
+      "nominales_compra": 508319,
+      "nominales_venta": 181907,
+      "flujo_neto_nominal": 326412,
+      "ratio_compra_pct": 73.6,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 10
+    },
+    "NPCDO": {
+      "operaciones_compra": 18,
+      "operaciones_venta": 1,
+      "nominales_compra": 291674,
+      "nominales_venta": 18818,
+      "flujo_neto_nominal": 272856,
+      "ratio_compra_pct": 93.9,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 10
+    },
+    "OLC6D": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 21,
+      "nominales_compra": 177266,
+      "nominales_venta": 358926,
+      "flujo_neto_nominal": -181660,
+      "ratio_compra_pct": 33.1,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 13
+    },
+    "OLC6O": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 11,
+      "nominales_compra": 0,
+      "nominales_venta": 138510,
+      "flujo_neto_nominal": -138510,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "OLC7D": {
+      "operaciones_compra": 68,
+      "operaciones_venta": 29,
+      "nominales_compra": 4260542,
+      "nominales_venta": 773402,
+      "flujo_neto_nominal": 3487140,
+      "ratio_compra_pct": 84.6,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 14
+    },
+    "OLC7O": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 14,
+      "nominales_compra": 70595,
+      "nominales_venta": 253623,
+      "flujo_neto_nominal": -183028,
+      "ratio_compra_pct": 21.8,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 6
+    },
+    "OT41D": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 1,
+      "nominales_compra": 0,
+      "nominales_venta": 18114,
+      "flujo_neto_nominal": -18114,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 1
+    },
+    "OT42D": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 4,
+      "nominales_compra": 10000,
+      "nominales_venta": 72666,
+      "flujo_neto_nominal": -62666,
+      "ratio_compra_pct": 12.1,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 4
+    },
+    "OTS2D": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 2,
+      "nominales_compra": 60729,
+      "nominales_venta": 25056,
+      "flujo_neto_nominal": 35673,
+      "ratio_compra_pct": 70.8,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 3
+    },
+    "OTS3D": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 2,
+      "nominales_compra": 0,
+      "nominales_venta": 43739,
+      "flujo_neto_nominal": -43739,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 2
+    },
+    "OTS3O": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 1,
+      "nominales_compra": 0,
+      "nominales_venta": 10768,
+      "flujo_neto_nominal": -10768,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 1
+    },
+    "OTS5D": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 13,
+      "nominales_compra": 86632,
+      "nominales_venta": 494958,
+      "flujo_neto_nominal": -408326,
+      "ratio_compra_pct": 14.9,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 8
+    },
+    "OTS5O": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 2,
+      "nominales_compra": 33804,
+      "nominales_venta": 41668,
+      "flujo_neto_nominal": -7864,
+      "ratio_compra_pct": 44.8,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 3
+    },
+    "OTS6D": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 7,
+      "nominales_compra": 24500,
+      "nominales_venta": 99685,
+      "flujo_neto_nominal": -75185,
+      "ratio_compra_pct": 19.7,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 7
+    },
+    "OTS6O": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 1,
+      "nominales_compra": 12500,
+      "nominales_venta": 12700,
+      "flujo_neto_nominal": -200,
+      "ratio_compra_pct": 49.6,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 2
+    },
+    "OZC3D": {
+      "operaciones_compra": 34,
+      "operaciones_venta": 25,
+      "nominales_compra": 636719,
+      "nominales_venta": 605569,
+      "flujo_neto_nominal": 31150,
+      "ratio_compra_pct": 51.3,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 15
+    },
+    "OZC3O": {
+      "operaciones_compra": 10,
+      "operaciones_venta": 5,
+      "nominales_compra": 204035,
+      "nominales_venta": 56390,
+      "flujo_neto_nominal": 147645,
+      "ratio_compra_pct": 78.3,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 5
+    },
+    "PECND": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 8,
+      "nominales_compra": 98787,
+      "nominales_venta": 126024,
+      "flujo_neto_nominal": -27237,
+      "ratio_compra_pct": 43.9,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 9
+    },
+    "PECNO": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 4,
+      "nominales_compra": 0,
+      "nominales_venta": 49114,
+      "flujo_neto_nominal": -49114,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 2
+    },
+    "PFC2D": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 1,
+      "nominales_compra": 0,
+      "nominales_venta": 12000,
+      "flujo_neto_nominal": -12000,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 1
+    },
+    "PFC2O": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 0,
+      "nominales_compra": 35963,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 35963,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "PLC1D": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 7,
+      "nominales_compra": 16386,
+      "nominales_venta": 144536,
+      "flujo_neto_nominal": -128150,
+      "ratio_compra_pct": 10.2,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "PLC1O": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 3,
+      "nominales_compra": 21258,
+      "nominales_venta": 30000,
+      "flujo_neto_nominal": -8742,
+      "ratio_compra_pct": 41.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 3
+    },
+    "PLC2D": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 9,
+      "nominales_compra": 168107,
+      "nominales_venta": 173226,
+      "flujo_neto_nominal": -5119,
+      "ratio_compra_pct": 49.3,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 8
+    },
+    "PLC2O": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 6,
+      "nominales_compra": 60696,
+      "nominales_venta": 237837,
+      "flujo_neto_nominal": -177141,
+      "ratio_compra_pct": 20.3,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 4
+    },
+    "PLC3D": {
+      "operaciones_compra": 13,
+      "operaciones_venta": 22,
+      "nominales_compra": 352736,
+      "nominales_venta": 566045,
+      "flujo_neto_nominal": -213309,
+      "ratio_compra_pct": 38.4,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 11
+    },
+    "PLC3O": {
+      "operaciones_compra": 5,
+      "operaciones_venta": 7,
+      "nominales_compra": 65332,
+      "nominales_venta": 81646,
+      "flujo_neto_nominal": -16314,
+      "ratio_compra_pct": 44.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 9
+    },
+    "PLC4D": {
+      "operaciones_compra": 154,
+      "operaciones_venta": 93,
+      "nominales_compra": 2986000,
+      "nominales_venta": 1565000,
+      "flujo_neto_nominal": 1421000,
+      "ratio_compra_pct": 65.6,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 18
+    },
+    "PLC4O": {
+      "operaciones_compra": 80,
+      "operaciones_venta": 82,
+      "nominales_compra": 1251000,
+      "nominales_venta": 1560000,
+      "flujo_neto_nominal": -309000,
+      "ratio_compra_pct": 44.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 18
+    },
+    "PLC5D": {
+      "operaciones_compra": 35,
+      "operaciones_venta": 31,
+      "nominales_compra": 695000,
+      "nominales_venta": 766000,
+      "flujo_neto_nominal": -71000,
+      "ratio_compra_pct": 47.6,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 17
+    },
+    "PLC5O": {
+      "operaciones_compra": 16,
+      "operaciones_venta": 18,
+      "nominales_compra": 254000,
+      "nominales_venta": 305000,
+      "flujo_neto_nominal": -51000,
+      "ratio_compra_pct": 45.4,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 16
+    },
+    "PLC6D": {
+      "operaciones_compra": 11,
+      "operaciones_venta": 30,
+      "nominales_compra": 190326,
+      "nominales_venta": 880496,
+      "flujo_neto_nominal": -690170,
+      "ratio_compra_pct": 17.8,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 15
+    },
+    "PLC6O": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 6,
+      "nominales_compra": 83764,
+      "nominales_venta": 185998,
+      "flujo_neto_nominal": -102234,
+      "ratio_compra_pct": 31.1,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 6
+    },
+    "PN34D": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 3,
+      "nominales_compra": 58067,
+      "nominales_venta": 88315,
+      "flujo_neto_nominal": -30248,
+      "ratio_compra_pct": 39.7,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 4
+    },
+    "PN35D": {
+      "operaciones_compra": 42,
+      "operaciones_venta": 31,
+      "nominales_compra": 1395736,
+      "nominales_venta": 943150,
+      "flujo_neto_nominal": 452586,
+      "ratio_compra_pct": 59.7,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 14
+    },
+    "PN35O": {
+      "operaciones_compra": 9,
+      "operaciones_venta": 15,
+      "nominales_compra": 258335,
+      "nominales_venta": 445381,
+      "flujo_neto_nominal": -187046,
+      "ratio_compra_pct": 36.7,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 10
+    },
+    "PN36D": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 14,
+      "nominales_compra": 106159,
+      "nominales_venta": 257144,
+      "flujo_neto_nominal": -150985,
+      "ratio_compra_pct": 29.2,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 10
+    },
+    "PN36O": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 11,
+      "nominales_compra": 94150,
+      "nominales_venta": 372148,
+      "flujo_neto_nominal": -277998,
+      "ratio_compra_pct": 20.2,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 8
+    },
+    "PN37D": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 8,
+      "nominales_compra": 77270,
+      "nominales_venta": 312700,
+      "flujo_neto_nominal": -235430,
+      "ratio_compra_pct": 19.8,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 7
+    },
+    "PN37O": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 3,
+      "nominales_compra": 78791,
+      "nominales_venta": 44449,
+      "flujo_neto_nominal": 34342,
+      "ratio_compra_pct": 63.9,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 4
+    },
+    "PN38D": {
+      "operaciones_compra": 16,
+      "operaciones_venta": 13,
+      "nominales_compra": 1025079,
+      "nominales_venta": 362380,
+      "flujo_neto_nominal": 662699,
+      "ratio_compra_pct": 73.9,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 13
+    },
+    "PN38O": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 8,
+      "nominales_compra": 236629,
+      "nominales_venta": 121360,
+      "flujo_neto_nominal": 115269,
+      "ratio_compra_pct": 66.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 9
+    },
+    "PN41D": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 9,
+      "nominales_compra": 189588,
+      "nominales_venta": 136249,
+      "flujo_neto_nominal": 53339,
+      "ratio_compra_pct": 58.2,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 10
+    },
+    "PN41O": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 4,
+      "nominales_compra": 77577,
+      "nominales_venta": 104572,
+      "flujo_neto_nominal": -26995,
+      "ratio_compra_pct": 42.6,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 6
+    },
+    "PN42D": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 10,
+      "nominales_compra": 21000,
+      "nominales_venta": 185415,
+      "flujo_neto_nominal": -164415,
+      "ratio_compra_pct": 10.2,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 7
+    },
+    "PN42O": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 3,
+      "nominales_compra": 91457,
+      "nominales_venta": 47170,
+      "flujo_neto_nominal": 44287,
+      "ratio_compra_pct": 66.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 5
+    },
+    "PN43D": {
+      "operaciones_compra": 39,
+      "operaciones_venta": 11,
+      "nominales_compra": 840000,
+      "nominales_venta": 230000,
+      "flujo_neto_nominal": 610000,
+      "ratio_compra_pct": 78.5,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 17
+    },
+    "PN43O": {
+      "operaciones_compra": 8,
+      "operaciones_venta": 14,
+      "nominales_compra": 117000,
+      "nominales_venta": 218000,
+      "flujo_neto_nominal": -101000,
+      "ratio_compra_pct": 34.9,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 11
+    },
+    "PNXCD": {
+      "operaciones_compra": 26,
+      "operaciones_venta": 12,
+      "nominales_compra": 1149000,
+      "nominales_venta": 267000,
+      "flujo_neto_nominal": 882000,
+      "ratio_compra_pct": 81.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 11
+    },
+    "PNXCO": {
+      "operaciones_compra": 12,
+      "operaciones_venta": 14,
+      "nominales_compra": 219000,
+      "nominales_venta": 238000,
+      "flujo_neto_nominal": -19000,
+      "ratio_compra_pct": 47.9,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 7
+    },
+    "PQCSD": {
+      "operaciones_compra": 19,
+      "operaciones_venta": 13,
+      "nominales_compra": 334475,
+      "nominales_venta": 257529,
+      "flujo_neto_nominal": 76946,
+      "ratio_compra_pct": 56.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 13
+    },
+    "PQCSO": {
+      "operaciones_compra": 5,
+      "operaciones_venta": 5,
+      "nominales_compra": 71446,
+      "nominales_venta": 105724,
+      "flujo_neto_nominal": -34278,
+      "ratio_compra_pct": 40.3,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 8
+    },
+    "PQCTD": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 5,
+      "nominales_compra": 0,
+      "nominales_venta": 64420,
+      "flujo_neto_nominal": -64420,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 4
+    },
+    "RC1CD": {
+      "operaciones_compra": 8,
+      "operaciones_venta": 8,
+      "nominales_compra": 165000,
+      "nominales_venta": 175000,
+      "flujo_neto_nominal": -10000,
+      "ratio_compra_pct": 48.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 6
+    },
+    "RC1CO": {
+      "operaciones_compra": 11,
+      "operaciones_venta": 2,
+      "nominales_compra": 212000,
+      "nominales_venta": 20000,
+      "flujo_neto_nominal": 192000,
+      "ratio_compra_pct": 91.4,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 7
+    },
+    "RC2CD": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 11,
+      "nominales_compra": 0,
+      "nominales_venta": 625440,
+      "flujo_neto_nominal": -625440,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 6
+    },
+    "RC2CO": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 1,
+      "nominales_compra": 0,
+      "nominales_venta": 72000,
+      "flujo_neto_nominal": -72000,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 1
+    },
+    "RCCRD": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 22,
+      "nominales_compra": 93493,
+      "nominales_venta": 610475,
+      "flujo_neto_nominal": -516982,
+      "ratio_compra_pct": 13.3,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 12
+    },
+    "RCCRO": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 2,
+      "nominales_compra": 41459,
+      "nominales_venta": 22400,
+      "flujo_neto_nominal": 19059,
+      "ratio_compra_pct": 64.9,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 4
+    },
+    "RUCDD": {
+      "operaciones_compra": 10,
+      "operaciones_venta": 18,
+      "nominales_compra": 193359,
+      "nominales_venta": 322308,
+      "flujo_neto_nominal": -128949,
+      "ratio_compra_pct": 37.5,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 11
+    },
+    "RUCDO": {
+      "operaciones_compra": 13,
+      "operaciones_venta": 14,
+      "nominales_compra": 215573,
+      "nominales_venta": 254911,
+      "flujo_neto_nominal": -39338,
+      "ratio_compra_pct": 45.8,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 12
+    },
+    "RUCED": {
+      "operaciones_compra": 13,
+      "operaciones_venta": 14,
+      "nominales_compra": 226500,
+      "nominales_venta": 221100,
+      "flujo_neto_nominal": 5400,
+      "ratio_compra_pct": 50.6,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 15
+    },
+    "RUCEO": {
+      "operaciones_compra": 16,
+      "operaciones_venta": 19,
+      "nominales_compra": 317700,
+      "nominales_venta": 368200,
+      "flujo_neto_nominal": -50500,
+      "ratio_compra_pct": 46.3,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 11
+    },
+    "SBC1D": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 6,
+      "nominales_compra": 67000,
+      "nominales_venta": 102792,
+      "flujo_neto_nominal": -35792,
+      "ratio_compra_pct": 39.5,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 4
+    },
+    "SBC1O": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 0,
+      "nominales_compra": 18543,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 18543,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "SBC2D": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 4,
+      "nominales_compra": 10000,
+      "nominales_venta": 40000,
+      "flujo_neto_nominal": -30000,
+      "ratio_compra_pct": 20.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 4
+    },
+    "SBC2O": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 0,
+      "nominales_compra": 42460,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 42460,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "SNEBD": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 0,
+      "nominales_compra": 45682,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 45682,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "SNEBO": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 0,
+      "nominales_compra": 32856,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 32856,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "T641D": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 7,
+      "nominales_compra": 0,
+      "nominales_venta": 187849,
+      "flujo_neto_nominal": -187849,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "T641O": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 1,
+      "nominales_compra": 85000,
+      "nominales_venta": 10000,
+      "flujo_neto_nominal": 75000,
+      "ratio_compra_pct": 89.5,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "T662D": {
+      "operaciones_compra": 29,
+      "operaciones_venta": 21,
+      "nominales_compra": 1637083,
+      "nominales_venta": 1149776,
+      "flujo_neto_nominal": 487307,
+      "ratio_compra_pct": 58.7,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 15
+    },
+    "T662O": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 5,
+      "nominales_compra": 11952,
+      "nominales_venta": 125218,
+      "flujo_neto_nominal": -113266,
+      "ratio_compra_pct": 8.7,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 7
+    },
+    "TLCMD": {
+      "operaciones_compra": 67,
+      "operaciones_venta": 70,
+      "nominales_compra": 938000,
+      "nominales_venta": 1075000,
+      "flujo_neto_nominal": -137000,
+      "ratio_compra_pct": 46.6,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 18
+    },
+    "TLCMO": {
+      "operaciones_compra": 47,
+      "operaciones_venta": 59,
+      "nominales_compra": 1324000,
+      "nominales_venta": 973000,
+      "flujo_neto_nominal": 351000,
+      "ratio_compra_pct": 57.6,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 18
+    },
+    "TLCOD": {
+      "operaciones_compra": 5,
+      "operaciones_venta": 4,
+      "nominales_compra": 163185,
+      "nominales_venta": 128430,
+      "flujo_neto_nominal": 34755,
+      "ratio_compra_pct": 56.0,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 5
+    },
+    "TLCOO": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 3,
+      "nominales_compra": 22986,
+      "nominales_venta": 106612,
+      "flujo_neto_nominal": -83626,
+      "ratio_compra_pct": 17.7,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 4
+    },
+    "TLCPD": {
+      "operaciones_compra": 85,
+      "operaciones_venta": 22,
+      "nominales_compra": 1814757,
+      "nominales_venta": 540587,
+      "flujo_neto_nominal": 1274170,
+      "ratio_compra_pct": 77.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 18
+    },
+    "TLCPO": {
+      "operaciones_compra": 38,
+      "operaciones_venta": 19,
+      "nominales_compra": 829040,
+      "nominales_venta": 330487,
+      "flujo_neto_nominal": 498553,
+      "ratio_compra_pct": 71.5,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 17
+    },
+    "TLCQD": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 10,
+      "nominales_compra": 41755,
+      "nominales_venta": 402966,
+      "flujo_neto_nominal": -361211,
+      "ratio_compra_pct": 9.4,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 9
+    },
+    "TLCQO": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 11,
+      "nominales_compra": 74472,
+      "nominales_venta": 433906,
+      "flujo_neto_nominal": -359434,
+      "ratio_compra_pct": 14.6,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 9
+    },
+    "TLCTD": {
+      "operaciones_compra": 42,
+      "operaciones_venta": 25,
+      "nominales_compra": 841266,
+      "nominales_venta": 732492,
+      "flujo_neto_nominal": 108774,
+      "ratio_compra_pct": 53.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 17
+    },
+    "TLCTO": {
+      "operaciones_compra": 43,
+      "operaciones_venta": 19,
+      "nominales_compra": 1007937,
+      "nominales_venta": 318266,
+      "flujo_neto_nominal": 689671,
+      "ratio_compra_pct": 76.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 15
+    },
+    "TLCUD": {
+      "operaciones_compra": 9,
+      "operaciones_venta": 12,
+      "nominales_compra": 224706,
+      "nominales_venta": 466347,
+      "flujo_neto_nominal": -241641,
+      "ratio_compra_pct": 32.5,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 13
+    },
+    "TLCUO": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 3,
+      "nominales_compra": 33301,
+      "nominales_venta": 32989,
+      "flujo_neto_nominal": 312,
+      "ratio_compra_pct": 50.2,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 5
+    },
+    "TSC3D": {
+      "operaciones_compra": 129,
+      "operaciones_venta": 79,
+      "nominales_compra": 1879000,
+      "nominales_venta": 973000,
+      "flujo_neto_nominal": 906000,
+      "ratio_compra_pct": 65.9,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 18
+    },
+    "TSC3O": {
+      "operaciones_compra": 67,
+      "operaciones_venta": 27,
+      "nominales_compra": 1320000,
+      "nominales_venta": 400000,
+      "flujo_neto_nominal": 920000,
+      "ratio_compra_pct": 76.7,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 17
+    },
+    "TSC4D": {
+      "operaciones_compra": 59,
+      "operaciones_venta": 23,
+      "nominales_compra": 1075000,
+      "nominales_venta": 407000,
+      "flujo_neto_nominal": 668000,
+      "ratio_compra_pct": 72.5,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 17
+    },
+    "TSC4O": {
+      "operaciones_compra": 26,
+      "operaciones_venta": 16,
+      "nominales_compra": 627000,
+      "nominales_venta": 267000,
+      "flujo_neto_nominal": 360000,
+      "ratio_compra_pct": 70.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 13
+    },
+    "TTC8D": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 3,
+      "nominales_compra": 543951,
+      "nominales_venta": 73006,
+      "flujo_neto_nominal": 470945,
+      "ratio_compra_pct": 88.2,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 5
+    },
+    "TTC8O": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 0,
+      "nominales_compra": 2796000,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 2796000,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "TTC9D": {
+      "operaciones_compra": 8,
+      "operaciones_venta": 8,
+      "nominales_compra": 120533,
+      "nominales_venta": 133483,
+      "flujo_neto_nominal": -12950,
+      "ratio_compra_pct": 47.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 8
+    },
+    "TTC9O": {
+      "operaciones_compra": 11,
+      "operaciones_venta": 5,
+      "nominales_compra": 159162,
+      "nominales_venta": 68090,
+      "flujo_neto_nominal": 91072,
+      "ratio_compra_pct": 70.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 7
+    },
+    "TTCAD": {
+      "operaciones_compra": 18,
+      "operaciones_venta": 21,
+      "nominales_compra": 328000,
+      "nominales_venta": 705000,
+      "flujo_neto_nominal": -377000,
+      "ratio_compra_pct": 31.8,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 11
+    },
+    "TTCAO": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 10,
+      "nominales_compra": 106000,
+      "nominales_venta": 266000,
+      "flujo_neto_nominal": -160000,
+      "ratio_compra_pct": 28.5,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "TTCBD": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 16,
+      "nominales_compra": 50000,
+      "nominales_venta": 311301,
+      "flujo_neto_nominal": -261301,
+      "ratio_compra_pct": 13.8,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 11
+    },
+    "TTCBO": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 3,
+      "nominales_compra": 45196,
+      "nominales_venta": 49521,
+      "flujo_neto_nominal": -4325,
+      "ratio_compra_pct": 47.7,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 4
+    },
+    "TTCDD": {
+      "operaciones_compra": 36,
+      "operaciones_venta": 22,
+      "nominales_compra": 720000,
+      "nominales_venta": 474000,
+      "flujo_neto_nominal": 246000,
+      "ratio_compra_pct": 60.3,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 18
+    },
+    "TTCDO": {
+      "operaciones_compra": 20,
+      "operaciones_venta": 20,
+      "nominales_compra": 311000,
+      "nominales_venta": 312000,
+      "flujo_neto_nominal": -1000,
+      "ratio_compra_pct": 49.9,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 15
+    },
+    "VBC1D": {
+      "operaciones_compra": 5,
+      "operaciones_venta": 7,
+      "nominales_compra": 63000,
+      "nominales_venta": 261000,
+      "flujo_neto_nominal": -198000,
+      "ratio_compra_pct": 19.4,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 9
+    },
+    "VBC1O": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 0,
+      "nominales_compra": 71000,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 71000,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "VBC2D": {
+      "operaciones_compra": 32,
+      "operaciones_venta": 6,
+      "nominales_compra": 1380082,
+      "nominales_venta": 114573,
+      "flujo_neto_nominal": 1265509,
+      "ratio_compra_pct": 92.3,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 14
+    },
+    "VBC2O": {
+      "operaciones_compra": 5,
+      "operaciones_venta": 23,
+      "nominales_compra": 158734,
+      "nominales_venta": 738066,
+      "flujo_neto_nominal": -579332,
+      "ratio_compra_pct": 17.7,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 12
+    },
+    "VSCOD": {
+      "operaciones_compra": 14,
+      "operaciones_venta": 12,
+      "nominales_compra": 847779,
+      "nominales_venta": 274596,
+      "flujo_neto_nominal": 573183,
+      "ratio_compra_pct": 75.5,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 12
+    },
+    "VSCOO": {
+      "operaciones_compra": 9,
+      "operaciones_venta": 14,
+      "nominales_compra": 300762,
+      "nominales_venta": 277793,
+      "flujo_neto_nominal": 22969,
+      "ratio_compra_pct": 52.0,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 7
+    },
+    "VSCPD": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 9,
+      "nominales_compra": 252208,
+      "nominales_venta": 186292,
+      "flujo_neto_nominal": 65916,
+      "ratio_compra_pct": 57.5,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 7
+    },
+    "VSCPO": {
+      "operaciones_compra": 5,
+      "operaciones_venta": 5,
+      "nominales_compra": 73049,
+      "nominales_venta": 90462,
+      "flujo_neto_nominal": -17413,
+      "ratio_compra_pct": 44.7,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 6
+    },
+    "VSCRD": {
+      "operaciones_compra": 19,
+      "operaciones_venta": 27,
+      "nominales_compra": 427073,
+      "nominales_venta": 489629,
+      "flujo_neto_nominal": -62556,
+      "ratio_compra_pct": 46.6,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 13
+    },
+    "VSCRO": {
+      "operaciones_compra": 28,
+      "operaciones_venta": 24,
+      "nominales_compra": 443564,
+      "nominales_venta": 533757,
+      "flujo_neto_nominal": -90193,
+      "ratio_compra_pct": 45.4,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 15
+    },
+    "VSCTD": {
+      "operaciones_compra": 97,
+      "operaciones_venta": 139,
+      "nominales_compra": 1407000,
+      "nominales_venta": 1535000,
+      "flujo_neto_nominal": -128000,
+      "ratio_compra_pct": 47.8,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 18
+    },
+    "VSCTO": {
+      "operaciones_compra": 103,
+      "operaciones_venta": 55,
+      "nominales_compra": 1506000,
+      "nominales_venta": 707000,
+      "flujo_neto_nominal": 799000,
+      "ratio_compra_pct": 68.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 18
+    },
+    "VSCUD": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 11,
+      "nominales_compra": 148570,
+      "nominales_venta": 462775,
+      "flujo_neto_nominal": -314205,
+      "ratio_compra_pct": 24.3,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 8
+    },
+    "VSCUO": {
+      "operaciones_compra": 15,
+      "operaciones_venta": 1,
+      "nominales_compra": 204585,
+      "nominales_venta": 12655,
+      "flujo_neto_nominal": 191930,
+      "ratio_compra_pct": 94.2,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 6
+    },
+    "VSCVD": {
+      "operaciones_compra": 68,
+      "operaciones_venta": 75,
+      "nominales_compra": 1300000,
+      "nominales_venta": 1510000,
+      "flujo_neto_nominal": -210000,
+      "ratio_compra_pct": 46.3,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 17
+    },
+    "VSCVO": {
+      "operaciones_compra": 78,
+      "operaciones_venta": 53,
+      "nominales_compra": 2416000,
+      "nominales_venta": 874000,
+      "flujo_neto_nominal": 1542000,
+      "ratio_compra_pct": 73.4,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 17
+    },
+    "VSCWD": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 20,
+      "nominales_compra": 86753,
+      "nominales_venta": 496479,
+      "flujo_neto_nominal": -409726,
+      "ratio_compra_pct": 14.9,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 12
+    },
+    "VSCWO": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 19,
+      "nominales_compra": 0,
+      "nominales_venta": 361783,
+      "flujo_neto_nominal": -361783,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 6
+    },
+    "VSCXD": {
+      "operaciones_compra": 183,
+      "operaciones_venta": 99,
+      "nominales_compra": 3143000,
+      "nominales_venta": 1476000,
+      "flujo_neto_nominal": 1667000,
+      "ratio_compra_pct": 68.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 18
+    },
+    "VSCXO": {
+      "operaciones_compra": 167,
+      "operaciones_venta": 111,
+      "nominales_compra": 4132000,
+      "nominales_venta": 3101000,
+      "flujo_neto_nominal": 1031000,
+      "ratio_compra_pct": 57.1,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 18
+    },
+    "XMC1D": {
+      "operaciones_compra": 5,
+      "operaciones_venta": 9,
+      "nominales_compra": 117210,
+      "nominales_venta": 184581,
+      "flujo_neto_nominal": -67371,
+      "ratio_compra_pct": 38.8,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 7
+    },
+    "XMC1O": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 3,
+      "nominales_compra": 45000,
+      "nominales_venta": 51136,
+      "flujo_neto_nominal": -6136,
+      "ratio_compra_pct": 46.8,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 4
+    },
+    "YCAMD": {
+      "operaciones_compra": 10,
+      "operaciones_venta": 7,
+      "nominales_compra": 140000,
+      "nominales_venta": 96000,
+      "flujo_neto_nominal": 44000,
+      "ratio_compra_pct": 59.3,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 9
+    },
+    "YCAMO": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 0,
+      "nominales_compra": 40000,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 40000,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 2
+    },
+    "YFCGD": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 1,
+      "nominales_compra": 0,
+      "nominales_venta": 13491,
+      "flujo_neto_nominal": -13491,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 1
+    },
+    "YFCJD": {
+      "operaciones_compra": 17,
+      "operaciones_venta": 13,
+      "nominales_compra": 293000,
+      "nominales_venta": 239000,
+      "flujo_neto_nominal": 54000,
+      "ratio_compra_pct": 55.1,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 12
+    },
+    "YFCJO": {
+      "operaciones_compra": 20,
+      "operaciones_venta": 32,
+      "nominales_compra": 296000,
+      "nominales_venta": 881000,
+      "flujo_neto_nominal": -585000,
+      "ratio_compra_pct": 25.1,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 15
+    },
+    "YFCKD": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 6,
+      "nominales_compra": 30952,
+      "nominales_venta": 293000,
+      "flujo_neto_nominal": -262048,
+      "ratio_compra_pct": 9.6,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 4
+    },
+    "YFCKO": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 6,
+      "nominales_compra": 29556,
+      "nominales_venta": 240539,
+      "flujo_neto_nominal": -210983,
+      "ratio_compra_pct": 10.9,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 6
+    },
+    "YFCLD": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 3,
+      "nominales_compra": 18273,
+      "nominales_venta": 55834,
+      "flujo_neto_nominal": -37561,
+      "ratio_compra_pct": 24.7,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 2
+    },
+    "YFCLO": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 1,
+      "nominales_compra": 0,
+      "nominales_venta": 16500,
+      "flujo_neto_nominal": -16500,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 1
+    },
+    "YFCMD": {
+      "operaciones_compra": 23,
+      "operaciones_venta": 11,
+      "nominales_compra": 1502665,
+      "nominales_venta": 310205,
+      "flujo_neto_nominal": 1192460,
+      "ratio_compra_pct": 82.9,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 12
+    },
+    "YFCMO": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 4,
+      "nominales_compra": 28371,
+      "nominales_venta": 71727,
+      "flujo_neto_nominal": -43356,
+      "ratio_compra_pct": 28.3,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "YFCND": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 10,
+      "nominales_compra": 13390,
+      "nominales_venta": 239993,
+      "flujo_neto_nominal": -226603,
+      "ratio_compra_pct": 5.3,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 9
+    },
+    "YFCNO": {
+      "operaciones_compra": 2,
+      "operaciones_venta": 16,
+      "nominales_compra": 33823,
+      "nominales_venta": 296756,
+      "flujo_neto_nominal": -262933,
+      "ratio_compra_pct": 10.2,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 10
+    },
+    "YFCOD": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 7,
+      "nominales_compra": 12892,
+      "nominales_venta": 161353,
+      "flujo_neto_nominal": -148461,
+      "ratio_compra_pct": 7.4,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 6
+    },
+    "YFCOO": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 4,
+      "nominales_compra": 12892,
+      "nominales_venta": 215903,
+      "flujo_neto_nominal": -203011,
+      "ratio_compra_pct": 5.6,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "YM34D": {
+      "operaciones_compra": 154,
+      "operaciones_venta": 83,
+      "nominales_compra": 3167117,
+      "nominales_venta": 1722437,
+      "flujo_neto_nominal": 1444680,
+      "ratio_compra_pct": 64.8,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 18
+    },
+    "YM34O": {
+      "operaciones_compra": 116,
+      "operaciones_venta": 77,
+      "nominales_compra": 2183959,
+      "nominales_venta": 1694718,
+      "flujo_neto_nominal": 489241,
+      "ratio_compra_pct": 56.3,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 18
+    },
+    "YM35D": {
+      "operaciones_compra": 21,
+      "operaciones_venta": 35,
+      "nominales_compra": 765992,
+      "nominales_venta": 1238173,
+      "flujo_neto_nominal": -472181,
+      "ratio_compra_pct": 38.2,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 16
+    },
+    "YM35O": {
+      "operaciones_compra": 11,
+      "operaciones_venta": 12,
+      "nominales_compra": 281395,
+      "nominales_venta": 302754,
+      "flujo_neto_nominal": -21359,
+      "ratio_compra_pct": 48.2,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 10
+    },
+    "YM37D": {
+      "operaciones_compra": 17,
+      "operaciones_venta": 17,
+      "nominales_compra": 931476,
+      "nominales_venta": 473770,
+      "flujo_neto_nominal": 457706,
+      "ratio_compra_pct": 66.3,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 13
+    },
+    "YM37O": {
+      "operaciones_compra": 3,
+      "operaciones_venta": 9,
+      "nominales_compra": 95695,
+      "nominales_venta": 195671,
+      "flujo_neto_nominal": -99976,
+      "ratio_compra_pct": 32.8,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 9
+    },
+    "YM38D": {
+      "operaciones_compra": 24,
+      "operaciones_venta": 52,
+      "nominales_compra": 539423,
+      "nominales_venta": 1067635,
+      "flujo_neto_nominal": -528212,
+      "ratio_compra_pct": 33.6,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 17
+    },
+    "YM38O": {
+      "operaciones_compra": 18,
+      "operaciones_venta": 28,
+      "nominales_compra": 287422,
+      "nominales_venta": 640138,
+      "flujo_neto_nominal": -352716,
+      "ratio_compra_pct": 31.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 13
+    },
+    "YM39D": {
+      "operaciones_compra": 38,
+      "operaciones_venta": 26,
+      "nominales_compra": 848552,
+      "nominales_venta": 416540,
+      "flujo_neto_nominal": 432012,
+      "ratio_compra_pct": 67.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 14
+    },
+    "YM39O": {
+      "operaciones_compra": 15,
+      "operaciones_venta": 25,
+      "nominales_compra": 311070,
+      "nominales_venta": 532486,
+      "flujo_neto_nominal": -221416,
+      "ratio_compra_pct": 36.9,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 14
+    },
+    "YM40D": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 6,
+      "nominales_compra": 62994,
+      "nominales_venta": 73619,
+      "flujo_neto_nominal": -10625,
+      "ratio_compra_pct": 46.1,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 6
+    },
+    "YM40O": {
+      "operaciones_compra": 6,
+      "operaciones_venta": 2,
+      "nominales_compra": 97574,
+      "nominales_venta": 28909,
+      "flujo_neto_nominal": 68665,
+      "ratio_compra_pct": 77.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 6
+    },
+    "YM41D": {
+      "operaciones_compra": 5,
+      "operaciones_venta": 4,
+      "nominales_compra": 109353,
+      "nominales_venta": 183547,
+      "flujo_neto_nominal": -74194,
+      "ratio_compra_pct": 37.3,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 5
+    },
+    "YM41O": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 3,
+      "nominales_compra": 0,
+      "nominales_venta": 179717,
+      "flujo_neto_nominal": -179717,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 3
+    },
+    "YM42D": {
+      "operaciones_compra": 60,
+      "operaciones_venta": 76,
+      "nominales_compra": 2280291,
+      "nominales_venta": 2076533,
+      "flujo_neto_nominal": 203758,
+      "ratio_compra_pct": 52.3,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 17
+    },
+    "YM42O": {
+      "operaciones_compra": 23,
+      "operaciones_venta": 19,
+      "nominales_compra": 557314,
+      "nominales_venta": 557237,
+      "flujo_neto_nominal": 77,
+      "ratio_compra_pct": 50.0,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 13
+    },
+    "YMCID": {
+      "operaciones_compra": 17,
+      "operaciones_venta": 27,
+      "nominales_compra": 277629,
+      "nominales_venta": 876000,
+      "flujo_neto_nominal": -598371,
+      "ratio_compra_pct": 24.1,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 10
+    },
+    "YMCIO": {
+      "operaciones_compra": 15,
+      "operaciones_venta": 12,
+      "nominales_compra": 358088,
+      "nominales_venta": 280562,
+      "flujo_neto_nominal": 77526,
+      "ratio_compra_pct": 56.1,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 12
+    },
+    "YMCJD": {
+      "operaciones_compra": 11,
+      "operaciones_venta": 17,
+      "nominales_compra": 198052,
+      "nominales_venta": 295897,
+      "flujo_neto_nominal": -97845,
+      "ratio_compra_pct": 40.1,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 11
+    },
+    "YMCJO": {
+      "operaciones_compra": 19,
+      "operaciones_venta": 10,
+      "nominales_compra": 559362,
+      "nominales_venta": 206064,
+      "flujo_neto_nominal": 353298,
+      "ratio_compra_pct": 73.1,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 13
+    },
+    "YMCXD": {
+      "operaciones_compra": 108,
+      "operaciones_venta": 69,
+      "nominales_compra": 1893859,
+      "nominales_venta": 1424163,
+      "flujo_neto_nominal": 469696,
+      "ratio_compra_pct": 57.1,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 18
+    },
+    "YMCXO": {
+      "operaciones_compra": 94,
+      "operaciones_venta": 71,
+      "nominales_compra": 2745461,
+      "nominales_venta": 1781182,
+      "flujo_neto_nominal": 964279,
+      "ratio_compra_pct": 60.7,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 18
+    },
+    "YMCYD": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 6,
+      "nominales_compra": 298483,
+      "nominales_venta": 107632,
+      "flujo_neto_nominal": 190851,
+      "ratio_compra_pct": 73.5,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 9
+    },
+    "YMCYO": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 10,
+      "nominales_compra": 0,
+      "nominales_venta": 270682,
+      "flujo_neto_nominal": -270682,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 6
+    },
+    "YMCZD": {
+      "operaciones_compra": 7,
+      "operaciones_venta": 6,
+      "nominales_compra": 206987,
+      "nominales_venta": 228019,
+      "flujo_neto_nominal": -21032,
+      "ratio_compra_pct": 47.6,
+      "tendencia": "NEUTRO",
+      "dias_con_operaciones": 6
+    },
+    "YMCZO": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 0,
+      "nominales_compra": 47000,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 47000,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "ZPC2D": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 0,
+      "nominales_compra": 19431,
+      "nominales_venta": 0,
+      "flujo_neto_nominal": 19431,
+      "ratio_compra_pct": 100.0,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 1
+    },
+    "ZPC3D": {
+      "operaciones_compra": 1,
+      "operaciones_venta": 2,
+      "nominales_compra": 20394,
+      "nominales_venta": 38717,
+      "flujo_neto_nominal": -18323,
+      "ratio_compra_pct": 34.5,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 1
+    },
+    "ZPC3O": {
+      "operaciones_compra": 0,
+      "operaciones_venta": 2,
+      "nominales_compra": 0,
+      "nominales_venta": 45000,
+      "flujo_neto_nominal": -45000,
+      "ratio_compra_pct": 0.0,
+      "tendencia": "DISTRIBUCION",
+      "dias_con_operaciones": 1
+    },
+    "ZZC1D": {
+      "operaciones_compra": 8,
+      "operaciones_venta": 7,
+      "nominales_compra": 201262,
+      "nominales_venta": 117123,
+      "flujo_neto_nominal": 84139,
+      "ratio_compra_pct": 63.2,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 11
+    },
+    "ZZC1O": {
+      "operaciones_compra": 4,
+      "operaciones_venta": 3,
+      "nominales_compra": 101121,
+      "nominales_venta": 33184,
+      "flujo_neto_nominal": 67937,
+      "ratio_compra_pct": 75.3,
+      "tendencia": "ACUMULACION",
+      "dias_con_operaciones": 5
+    }
+  }
+}

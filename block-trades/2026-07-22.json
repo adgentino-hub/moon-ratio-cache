@@ -1,0 +1,6335 @@
+{
+  "fecha": "2026-07-22",
+  "piso_nominal_crudo": 10000,
+  "total_operaciones": 760,
+  "tickers": {
+    "BACGD": [
+      {
+        "fecha_hora": "2026-07-22T16:08:52.951-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.95,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:08:52.952-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.95,
+        "nominales": 14000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:24:55.702-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.5,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "BACHD": [
+      {
+        "fecha_hora": "2026-07-22T14:54:50.936-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 112.5,
+        "nominales": 26000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:08:02.552-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 112.5,
+        "nominales": 11000,
+        "lado": "COMPRA"
+      }
+    ],
+    "BYCVD": [
+      {
+        "fecha_hora": "2026-07-22T12:09:19.807-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.45,
+        "nominales": 217000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:08:10.232-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.45,
+        "nominales": 86000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:44:12.338-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.4,
+        "nominales": 44000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:44:12.344-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.4,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "BYCVO": [
+      {
+        "fecha_hora": "2026-07-22T16:10:41.727-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155650.0,
+        "nominales": 400000,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:23:26.246-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156050.0,
+        "nominales": 100000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:23:26.249-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155650.0,
+        "nominales": 99000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:47:02.794-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155650.0,
+        "nominales": 99000,
+        "lado": "COMPRA"
+      }
+    ],
+    "CP38D": [
+      {
+        "fecha_hora": "2026-07-22T11:37:06.394-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 108.05,
+        "nominales": 10800,
+        "lado": "COMPRA"
+      }
+    ],
+    "CP38O": [
+      {
+        "fecha_hora": "2026-07-22T11:09:01.802-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163210.0,
+        "nominales": 14000,
+        "lado": "COMPRA"
+      }
+    ],
+    "CS50D": [
+      {
+        "fecha_hora": "2026-07-22T14:03:46.095-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.65,
+        "nominales": 12000,
+        "lado": "VENTA"
+      }
+    ],
+    "CS50O": [
+      {
+        "fecha_hora": "2026-07-22T14:03:46.075-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162480.0,
+        "nominales": 12309,
+        "lado": "VENTA"
+      }
+    ],
+    "DNC3D": [
+      {
+        "fecha_hora": "2026-07-22T11:54:18.57-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.1,
+        "nominales": 18000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:06:11.847-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.4,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:05:45.679-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.45,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "DNC3O": [
+      {
+        "fecha_hora": "2026-07-22T11:54:18.575-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155600.0,
+        "nominales": 18000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:05:45.685-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156650.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "DNC7D": [
+      {
+        "fecha_hora": "2026-07-22T12:57:00.762-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.55,
+        "nominales": 39700,
+        "lado": "VENTA"
+      }
+    ],
+    "DNC7O": [
+      {
+        "fecha_hora": "2026-07-22T13:21:01.321-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167100.0,
+        "nominales": 50000,
+        "lado": "COMPRA"
+      }
+    ],
+    "DNCAD": [
+      {
+        "fecha_hora": "2026-07-22T16:03:24.009-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 91100,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:38:37.177-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 77500,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:54:39.177-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 75000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:54:41.719-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 75000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:54:44.556-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 75000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:09:16.376-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 57300,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:54:44.559-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 55300,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:38:15.097-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 42500,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:38:17.154-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 42500,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:38:19.153-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 42500,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:38:21.058-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 42500,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:38:23.023-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 42500,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:38:24.899-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 42500,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:38:26.839-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 42500,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:38:28.847-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 42500,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:24:45.384-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 36500,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:02:30.894-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:54:36.248-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 26100,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:54:33.934-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 20000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:34:16.996-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.45,
+        "nominales": 18200,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:15:42.068-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 16800,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:25:17.287-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.45,
+        "nominales": 15600,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:34:37.15-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.35,
+        "nominales": 15000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:04:47.664-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.45,
+        "nominales": 13600,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:40:22.487-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 11900,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:37:12.384-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 11500,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:34:16.997-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.45,
+        "nominales": 11200,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:30:48.649-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 11100,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:37:45.594-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.4,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "DNCAO": [
+      {
+        "fecha_hora": "2026-07-22T12:24:45.395-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 160890.0,
+        "nominales": 36500,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:15:42.057-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 160950.0,
+        "nominales": 16800,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:34:37.139-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 160800.0,
+        "nominales": 15000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:37:12.374-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 160870.0,
+        "nominales": 11500,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:23:36.569-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 160890.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "EAC4D": [
+      {
+        "fecha_hora": "2026-07-22T14:08:07.679-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.95,
+        "nominales": 17201,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:42:58.925-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 102.15,
+        "nominales": 16899,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:58:52.398-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.65,
+        "nominales": 13550,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:42:58.926-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "EAC4O": [
+      {
+        "fecha_hora": "2026-07-22T13:53:06.003-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156500.0,
+        "nominales": 74326,
+        "lado": "COMPRA"
+      }
+    ],
+    "GN47D": [
+      {
+        "fecha_hora": "2026-07-22T14:22:12.339-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.0,
+        "nominales": 15844,
+        "lado": "VENTA"
+      }
+    ],
+    "GN49O": [
+      {
+        "fecha_hora": "2026-07-22T11:06:59.132-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163050.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "HJCHD": [
+      {
+        "fecha_hora": "2026-07-22T15:57:14.61-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 101.5,
+        "nominales": 20000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:57:19-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 101.5,
+        "nominales": 15860,
+        "lado": "COMPRA"
+      }
+    ],
+    "HJCID": [
+      {
+        "fecha_hora": "2026-07-22T12:20:13.685-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 16421,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:06:10.954-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.5,
+        "nominales": 11960,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:20:13.686-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "IRCFD": [
+      {
+        "fecha_hora": "2026-07-22T16:44:49.489-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 51.4,
+        "nominales": 10600,
+        "lado": "VENTA"
+      }
+    ],
+    "IRCOD": [
+      {
+        "fecha_hora": "2026-07-22T12:23:28.025-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 105.35,
+        "nominales": 11419,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:30:47.432-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 105.55,
+        "nominales": 10871,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:37:22.835-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 108.8,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "IRCOO": [
+      {
+        "fecha_hora": "2026-07-22T12:23:28.042-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 159300.0,
+        "nominales": 11419,
+        "lado": "VENTA"
+      }
+    ],
+    "IRCPD": [
+      {
+        "fecha_hora": "2026-07-22T11:20:56.383-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.4,
+        "nominales": 158292,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:20:56.382-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.4,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:35:50.427-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.5,
+        "nominales": 17581,
+        "lado": "COMPRA"
+      }
+    ],
+    "IRCPO": [
+      {
+        "fecha_hora": "2026-07-22T14:33:02.931-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167400.0,
+        "nominales": 59615,
+        "lado": "VENTA"
+      }
+    ],
+    "LMS7O": [
+      {
+        "fecha_hora": "2026-07-22T15:30:30.252-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 120370.0,
+        "nominales": 37409,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:30:30.859-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 120370.0,
+        "nominales": 37409,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:28:44.768-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 120370.0,
+        "nominales": 37409,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:31:33.759-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 120130.0,
+        "nominales": 15320,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:31:34.395-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 120130.0,
+        "nominales": 15320,
+        "lado": "COMPRA"
+      }
+    ],
+    "LOC5D": [
+      {
+        "fecha_hora": "2026-07-22T14:18:53.301-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.65,
+        "nominales": 22450,
+        "lado": "COMPRA"
+      }
+    ],
+    "LUC5D": [
+      {
+        "fecha_hora": "2026-07-22T12:09:46.537-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 101.45,
+        "nominales": 17515,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:46:41.526-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.5,
+        "nominales": 11417,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:46:41.256-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.5,
+        "nominales": 11416,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:09:46.537-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.5,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "LUC5O": [
+      {
+        "fecha_hora": "2026-07-22T15:46:41.314-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156800.0,
+        "nominales": 11417,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:46:41.589-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156800.0,
+        "nominales": 11417,
+        "lado": "VENTA"
+      }
+    ],
+    "MCC3D": [
+      {
+        "fecha_hora": "2026-07-22T16:11:42.193-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 104.0,
+        "nominales": 17720,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:18:33.309-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.0,
+        "nominales": 14365,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:04:41.05-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.5,
+        "nominales": 12050,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:18:33.309-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "MCC3O": [
+      {
+        "fecha_hora": "2026-07-22T13:44:02.468-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156420.0,
+        "nominales": 12581,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:44:07.25-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:45:47.08-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156000.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "MGCMD": [
+      {
+        "fecha_hora": "2026-07-22T11:25:50.815-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.65,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:29:34.377-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 112.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:49:02.352-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 112.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "MGCMO": [
+      {
+        "fecha_hora": "2026-07-22T12:06:03.244-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 169720.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:15:32.572-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 170060.0,
+        "nominales": 12000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:06:03.243-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 169580.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:12:20.645-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 170000.0,
+        "nominales": 10000,
+        "lado": "DESCONOCIDO"
+      }
+    ],
+    "MGCND": [
+      {
+        "fecha_hora": "2026-07-22T15:10:41.81-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 104.45,
+        "nominales": 13635,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:37:34.42-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 104.3,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "MGCOD": [
+      {
+        "fecha_hora": "2026-07-22T14:55:47.574-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.7,
+        "nominales": 50000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:21:55.71-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.95,
+        "nominales": 33000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:24:00.555-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.6,
+        "nominales": 16000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:18:10.085-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.8,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:54:38.117-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.95,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:31:14.742-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.8,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:42:18.803-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.8,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:43:40.643-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.8,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:46:24.13-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.8,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:37:10.171-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.75,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:38:28.396-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.8,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:38:28.397-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.8,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:42:00.261-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.8,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:47:44.378-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.75,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:53:18.62-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:53:18.647-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:53:19.145-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:53:19.36-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:59:11.051-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:59:41.213-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:01:53.077-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:01:53.102-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:17:40.216-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:10.99-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.55,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:30:26.418-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.8,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "MGCOO": [
+      {
+        "fecha_hora": "2026-07-22T14:53:18.399-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:53:18.399-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 20000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:53:18.471-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 15000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:53:18.492-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 15000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:07:10.942-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165730.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:15:03.006-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165510.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:18:10.109-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165700.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:35:15.204-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165700.0,
+        "nominales": 10000,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:59:12.047-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 166000.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:03:11.722-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 166000.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:37:08.518-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165950.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:38:28.422-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165950.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:42:00.067-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:47:42.617-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:53:18.965-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:53:19.174-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:56:18.396-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:58:15.105-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:59:34.955-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:59:41.232-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165980.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "MGCQD": [
+      {
+        "fecha_hora": "2026-07-22T14:36:27.491-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.0,
+        "nominales": 38483,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:37:20.16-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.0,
+        "nominales": 35000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:37:46.364-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.0,
+        "nominales": 31485,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:39:43.005-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.0,
+        "nominales": 23322,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:37:20.159-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.0,
+        "nominales": 15000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:22:49.859-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.0,
+        "nominales": 13669,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:36:27.491-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.0,
+        "nominales": 12358,
+        "lado": "VENTA"
+      }
+    ],
+    "MGCRD": [
+      {
+        "fecha_hora": "2026-07-22T15:50:30.483-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.85,
+        "nominales": 126000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:45:28.025-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 43000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:45:28.021-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 40000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:31:46.73-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 35000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:29:44.881-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:50:30.481-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.85,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:29:44.88-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 20000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:32:00.548-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 20000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:03:10.539-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.85,
+        "nominales": 20000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:03:13.514-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.5,
+        "nominales": 12000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:27:37.158-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:41:41.992-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.65,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:43:21.91-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.6,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:51:04.849-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:30:11.184-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:30:30.219-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:30:39.204-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:31:02.389-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 107.8,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:41:36.224-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.65,
+        "nominales": 10000,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:42:47.663-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.65,
+        "nominales": 10000,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:45:28.021-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:45:28.023-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:45:39.971-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:45:39.973-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:50:21.669-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:51:28.775-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:51:37.059-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:51:57.166-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:53:44.767-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:57:26.361-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:08:07.761-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:14:48.043-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:29:14.354-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:44:35.662-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:06.147-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:07.828-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:09.383-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.6,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:35.233-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.6,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:57.602-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.6,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:57.553-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.6,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:57.492-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.6,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:57.654-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.6,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:08:22.236-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:10:38.418-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:12:55.121-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:12:55.122-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:32:00.547-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:33:00.843-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 107.55,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:33:13.853-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:02:34.656-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.8,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:47:14.615-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.85,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:59:44.699-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.9,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:59:53.283-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.9,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:02:11.067-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.9,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:02:15.883-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.9,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:02:34.175-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.9,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:02:34.795-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.95,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:02:36.007-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.95,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:08:50.412-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.95,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:24:33.181-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:24:40.078-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:26:12.895-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 10000,
+        "lado": "DESCONOCIDO"
+      }
+    ],
+    "MGCRO": [
+      {
+        "fecha_hora": "2026-07-22T16:03:50.629-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163250.0,
+        "nominales": 100000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:08:29.133-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163250.0,
+        "nominales": 100000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:08:29.151-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163250.0,
+        "nominales": 100000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:32:01.897-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 80000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:57:26.011-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 40000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:57:41.932-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 32000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:33:18.324-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:33:38.847-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:11:57.999-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163150.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:12:04.414-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163150.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:12:08.612-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163150.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:15:19.859-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163170.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:15:32.904-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163170.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:20:38.568-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163120.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:06.131-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162450.0,
+        "nominales": 27000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:32:27.761-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162830.0,
+        "nominales": 20000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:33:12.179-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162830.0,
+        "nominales": 20000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:34:47.141-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162810.0,
+        "nominales": 20000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:58:58.141-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 15000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:00:33.734-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163500.0,
+        "nominales": 15000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:06.131-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162520.0,
+        "nominales": 12000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:02:34.764-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163460.0,
+        "nominales": 12000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:31:50.339-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162810.0,
+        "nominales": 12000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T10:41:01.088-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163500.0,
+        "nominales": 11000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:53:34.6-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162800.0,
+        "nominales": 11000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:23:58.57-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 162900.0,
+        "nominales": 11000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:33:12.966-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 162900.0,
+        "nominales": 11000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:26:39.834-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162450.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:26:39.835-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162450.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:38:18.644-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162400.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:41:39.793-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162500.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:11:37.74-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162650.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:30:15.598-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162650.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:30:32.32-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162650.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:30:41.274-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162650.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:31:28.001-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162650.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:33:56.558-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162650.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:33:59.35-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162650.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:51:23.952-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162700.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:51:53.163-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162700.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:57:16.986-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162700.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:10:12.926-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162700.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:10:17.13-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162700.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:10:21.055-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162700.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:10:21.056-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162700.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:28:47.462-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162700.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:06.132-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162500.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:06.133-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162520.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:06.135-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162180.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:06.959-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162150.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:07.767-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162150.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:08.515-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162150.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:50:09.318-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162150.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:52:55.764-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:04:28.942-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:22:58.302-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162990.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:23:06.726-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:31:19.162-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:32:02.003-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:34:04.39-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163050.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:34:48.495-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:36:18.929-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:37:16.418-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:39:00.492-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:16:41.316-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163400.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:16:53.516-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:27:12.22-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163350.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:27:35.499-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163370.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:30:42.174-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:38.891-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:40.17-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:41.223-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:42.18-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:43.052-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:44.664-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:45.401-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:48.337-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:48.335-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:50.34-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:32:01.895-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:32:30.561-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163350.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:32:37.598-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163350.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:33:18.324-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:33:38.847-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:34:09.079-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163150.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:35:23.594-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:35:56.979-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163300.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:36:17.057-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163160.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:44:34.581-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163150.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:44:42.258-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163150.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:44:47.928-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163150.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:44:55.967-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163150.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:53:27.329-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162830.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:56:58.248-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162900.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:57:41.933-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:58:04.562-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163020.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:58:58.14-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:59:46.538-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163250.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:59:55.313-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163250.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:00:02.131-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163250.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:01:49.22-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163480.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:02:09.47-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163460.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:02:36.165-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163460.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:42.311-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163250.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:50.63-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163250.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:19:04.189-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:20:31.653-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:20:31.655-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163000.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:27:01.574-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162890.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:28:38.089-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162910.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "MR46D": [
+      {
+        "fecha_hora": "2026-07-22T13:48:49.593-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.4,
+        "nominales": 50000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:49:14.716-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.4,
+        "nominales": 49882,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:45:59.417-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.4,
+        "nominales": 48725,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:42:50.502-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.09,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:04:53.669-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.33,
+        "nominales": 29000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:43:01.187-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.09,
+        "nominales": 26967,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:46:14.274-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.33,
+        "nominales": 26955,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:46:21.332-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.3,
+        "nominales": 21638,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:26:11.766-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.37,
+        "nominales": 20000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:17:21.36-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.37,
+        "nominales": 19888,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:17:21.361-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.34,
+        "nominales": 19543,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:01:46.463-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.33,
+        "nominales": 19000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:01:13.784-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.33,
+        "nominales": 14981,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:54:14.109-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.37,
+        "nominales": 11251,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:42:50.528-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 85.09,
+        "nominales": 11212,
+        "lado": "VENTA"
+      }
+    ],
+    "MR46O": [
+      {
+        "fecha_hora": "2026-07-22T15:00:01.714-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 129220.0,
+        "nominales": 11370,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:42:50.562-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 128890.0,
+        "nominales": 11212,
+        "lado": "VENTA"
+      }
+    ],
+    "MR47O": [
+      {
+        "fecha_hora": "2026-07-22T15:08:14.992-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 66640.0,
+        "nominales": 24522,
+        "lado": "COMPRA"
+      }
+    ],
+    "NPCDD": [
+      {
+        "fecha_hora": "2026-07-22T15:31:58.086-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 101.55,
+        "nominales": 10418,
+        "lado": "VENTA"
+      }
+    ],
+    "OLC6D": [
+      {
+        "fecha_hora": "2026-07-22T16:33:25.16-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.2,
+        "nominales": 20000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:33:25.177-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.2,
+        "nominales": 20000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:52:35.028-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.3,
+        "nominales": 11982,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:56:30.541-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.3,
+        "nominales": 11680,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:33:25.197-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.2,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "OLC7D": [
+      {
+        "fecha_hora": "2026-07-22T15:35:07.411-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.0,
+        "nominales": 19430,
+        "lado": "VENTA"
+      }
+    ],
+    "OTS5D": [
+      {
+        "fecha_hora": "2026-07-22T12:52:36.164-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.2,
+        "nominales": 23000,
+        "lado": "VENTA"
+      }
+    ],
+    "PECND": [
+      {
+        "fecha_hora": "2026-07-22T16:14:06.179-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 70.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "PLC2D": [
+      {
+        "fecha_hora": "2026-07-22T13:51:13.294-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.6,
+        "nominales": 19814,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:55:48.918-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.6,
+        "nominales": 18000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:45:54.287-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.45,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "PLC2O": [
+      {
+        "fecha_hora": "2026-07-22T12:41:18.267-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162100.0,
+        "nominales": 20000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:34:05.438-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162250.0,
+        "nominales": 16724,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:45:54.273-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162100.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "PLC3D": [
+      {
+        "fecha_hora": "2026-07-22T11:17:33.974-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.0,
+        "nominales": 17028,
+        "lado": "COMPRA"
+      }
+    ],
+    "PLC3O": [
+      {
+        "fecha_hora": "2026-07-22T11:04:47.248-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 161200.0,
+        "nominales": 13507,
+        "lado": "VENTA"
+      }
+    ],
+    "PLC4D": [
+      {
+        "fecha_hora": "2026-07-22T14:54:23.132-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.3,
+        "nominales": 50000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:56:45.044-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.5,
+        "nominales": 42000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:33:00.618-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.1,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:56:45.094-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.5,
+        "nominales": 29000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:57:26.717-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.3,
+        "nominales": 21000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:39:16.791-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.35,
+        "nominales": 17000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:39:16.844-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.35,
+        "nominales": 17000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:39:11.128-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.3,
+        "nominales": 16000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:39:11.121-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.3,
+        "nominales": 11000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:39:16.792-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.35,
+        "nominales": 11000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:56:45.043-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.5,
+        "nominales": 11000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:27:27.066-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 111.45,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:40:01.839-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.6,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:28:32.001-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.45,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "PLC4O": [
+      {
+        "fecha_hora": "2026-07-22T12:21:49.156-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168100.0,
+        "nominales": 68000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:54:23.124-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168450.0,
+        "nominales": 50000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:48:27.853-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168450.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:56:45.051-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168400.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:57:26.751-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168050.0,
+        "nominales": 21000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:56:45.118-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168400.0,
+        "nominales": 21000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:27:56.634-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168580.0,
+        "nominales": 20000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:21:49.449-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168100.0,
+        "nominales": 18000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:48:27.856-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168450.0,
+        "nominales": 14000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:39:11.127-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168230.0,
+        "nominales": 12000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:56:45.051-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168400.0,
+        "nominales": 12000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:56:45.059-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168400.0,
+        "nominales": 11000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:39:16.8-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168300.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:40:01.83-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168930.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:07:51.83-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168400.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:29:33.419-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168290.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "PLC5D": [
+      {
+        "fecha_hora": "2026-07-22T11:49:38.843-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.4,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:31:26.948-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 109.25,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "PLC5O": [
+      {
+        "fecha_hora": "2026-07-22T11:49:35.671-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 164960.0,
+        "nominales": 24000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:49:38.779-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 164960.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "PLC6D": [
+      {
+        "fecha_hora": "2026-07-22T14:29:15.76-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 105.6,
+        "nominales": 37238,
+        "lado": "VENTA"
+      }
+    ],
+    "PLC6O": [
+      {
+        "fecha_hora": "2026-07-22T11:11:52.632-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 159120.0,
+        "nominales": 14000,
+        "lado": "VENTA"
+      }
+    ],
+    "PLC7D": [
+      {
+        "fecha_hora": "2026-07-22T13:49:07.443-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 44000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:21:53.838-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 42000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:49:31.989-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 33000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:24:02.725-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:24:37.71-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:54:41.884-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 29000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:23:57.109-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 28000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:32:35.227-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 26000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:32:46.115-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 26000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:38:14.604-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 25000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:41:54.767-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 25000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:22:19.086-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.6,
+        "nominales": 23000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:33:01.077-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 22000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:37:29.552-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 20000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:49:31.991-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 19000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:49:31.988-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 16000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:26:44.644-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 16000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:29:03.945-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 15000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T10:43:25.633-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.75,
+        "nominales": 14000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:49:58.367-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.6,
+        "nominales": 13000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:16:10.295-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 13000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:18:37.578-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.8,
+        "nominales": 13000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:31:28.421-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 13000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:45:56.084-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 12000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:24:37.709-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 12000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T10:32:42.02-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.45,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:10:36.135-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.55,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:36:16.313-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:38:23.228-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:39:36.549-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:40:25.827-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:15:27.72-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:42:02.46-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:49:07.443-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:14:12.323-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.65,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:06.214-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:06.381-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:06.708-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:34.538-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:06:55.054-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "PLC7O": [
+      {
+        "fecha_hora": "2026-07-22T13:02:53.08-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155150.0,
+        "nominales": 170000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:46:54.076-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155160.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:02:53.08-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155150.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:13:54.439-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 154700.0,
+        "nominales": 24000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:42:17.11-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155360.0,
+        "nominales": 20000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:47:44.545-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155650.0,
+        "nominales": 19000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:46:38.118-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 157000.0,
+        "nominales": 18000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:41:38.638-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155160.0,
+        "nominales": 17000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:12:42.627-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155020.0,
+        "nominales": 16000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:36:50.171-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155100.0,
+        "nominales": 16000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:58:53.052-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155340.0,
+        "nominales": 16000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:16:36.163-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 154550.0,
+        "nominales": 15000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:47:02.721-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 157000.0,
+        "nominales": 13000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:45:25.751-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156990.0,
+        "nominales": 12000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:47:02.451-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 157000.0,
+        "nominales": 12000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:48:56.785-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 157000.0,
+        "nominales": 11000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:40:01.266-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 154600.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:28:13.727-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155140.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:14:23.082-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155490.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:14:23.108-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155490.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:14:23.74-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155490.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:14:23.543-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155490.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:05.489-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155600.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:06.461-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155600.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:06.468-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 155420.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:06.48-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155600.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:09:14.384-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155300.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:45:25.751-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156980.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:46:24.558-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156980.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:47:39.371-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 157000.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "PN35D": [
+      {
+        "fecha_hora": "2026-07-22T16:16:41.615-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 108.05,
+        "nominales": 18649,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:16:41.689-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 108.05,
+        "nominales": 18649,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:16:41.067-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 108.05,
+        "nominales": 12232,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:53:54.55-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 107.75,
+        "nominales": 11436,
+        "lado": "VENTA"
+      }
+    ],
+    "PN35O": [
+      {
+        "fecha_hora": "2026-07-22T13:55:12.52-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163100.0,
+        "nominales": 60383,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:16:41.804-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163510.0,
+        "nominales": 18649,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:16:41.048-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163500.0,
+        "nominales": 12232,
+        "lado": "COMPRA"
+      }
+    ],
+    "PN36D": [
+      {
+        "fecha_hora": "2026-07-22T16:30:37.091-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 108.8,
+        "nominales": 10942,
+        "lado": "COMPRA"
+      }
+    ],
+    "PN38D": [
+      {
+        "fecha_hora": "2026-07-22T14:19:41.313-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 108.6,
+        "nominales": 42000,
+        "lado": "DESCONOCIDO"
+      }
+    ],
+    "PN38O": [
+      {
+        "fecha_hora": "2026-07-22T14:04:04.561-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163840.0,
+        "nominales": 48862,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:56:37.835-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 164170.0,
+        "nominales": 12320,
+        "lado": "VENTA"
+      }
+    ],
+    "PN41D": [
+      {
+        "fecha_hora": "2026-07-22T11:46:49.805-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.05,
+        "nominales": 20260,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:46:49.825-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.05,
+        "nominales": 20260,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:46:50.318-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.05,
+        "nominales": 20260,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:46:50.339-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.0,
+        "nominales": 20260,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:46:50.382-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.75,
+        "nominales": 13514,
+        "lado": "DESCONOCIDO"
+      }
+    ],
+    "PN41O": [
+      {
+        "fecha_hora": "2026-07-22T11:46:50.033-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167900.0,
+        "nominales": 20260,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:46:50.05-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167900.0,
+        "nominales": 20260,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:37:55.561-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165900.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "PN43O": [
+      {
+        "fecha_hora": "2026-07-22T16:36:57.668-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 162830.0,
+        "nominales": 11000,
+        "lado": "COMPRA"
+      }
+    ],
+    "PNXCD": [
+      {
+        "fecha_hora": "2026-07-22T12:09:35.675-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.9,
+        "nominales": 14000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:16:02.894-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.05,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "PNXCO": [
+      {
+        "fecha_hora": "2026-07-22T14:16:07.302-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 172560.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "PQCSD": [
+      {
+        "fecha_hora": "2026-07-22T12:30:18.658-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 105.05,
+        "nominales": 13473,
+        "lado": "VENTA"
+      }
+    ],
+    "RC2CD": [
+      {
+        "fecha_hora": "2026-07-22T13:07:33.931-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.8,
+        "nominales": 250000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:25:51.382-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.25,
+        "nominales": 30000,
+        "lado": "VENTA"
+      }
+    ],
+    "RUCDD": [
+      {
+        "fecha_hora": "2026-07-22T13:55:49.625-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 108.1,
+        "nominales": 15662,
+        "lado": "COMPRA"
+      }
+    ],
+    "SBC1D": [
+      {
+        "fecha_hora": "2026-07-22T13:21:55.44-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 73.71,
+        "nominales": 15000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:31:55.831-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 73.5,
+        "nominales": 10974,
+        "lado": "VENTA"
+      }
+    ],
+    "SNEBD": [
+      {
+        "fecha_hora": "2026-07-22T11:00:04.278-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 67.1,
+        "nominales": 19464,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:37:27.155-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 67.5,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "SNEBO": [
+      {
+        "fecha_hora": "2026-07-22T11:00:04.304-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 101500.0,
+        "nominales": 19464,
+        "lado": "VENTA"
+      }
+    ],
+    "T662D": [
+      {
+        "fecha_hora": "2026-07-22T11:08:52.801-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 101.65,
+        "nominales": 40000,
+        "lado": "VENTA"
+      }
+    ],
+    "TLCMD": [
+      {
+        "fecha_hora": "2026-07-22T12:41:55.337-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.35,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:58:49.132-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.35,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:59:20.446-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.35,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:58:49.131-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.35,
+        "nominales": 15000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T10:47:50.11-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.25,
+        "nominales": 12000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T10:46:19.941-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.3,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:36:42.752-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.3,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:45:48.672-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.4,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "TLCMO": [
+      {
+        "fecha_hora": "2026-07-22T15:31:34.969-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171480.0,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:08:55.473-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171010.0,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:08:30.023-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171010.0,
+        "nominales": 28000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:46.04-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171480.0,
+        "nominales": 26000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:00:45.979-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 170600.0,
+        "nominales": 21000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:32:01.126-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171480.0,
+        "nominales": 17000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:09:18.721-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171010.0,
+        "nominales": 16000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:31:34.967-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171480.0,
+        "nominales": 14000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:14:31.33-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171650.0,
+        "nominales": 11000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:36:42.742-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171350.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "TLCOD": [
+      {
+        "fecha_hora": "2026-07-22T14:15:38.144-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 104.8,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "TLCOO": [
+      {
+        "fecha_hora": "2026-07-22T13:22:35.413-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 159510.0,
+        "nominales": 12794,
+        "lado": "VENTA"
+      }
+    ],
+    "TLCPD": [
+      {
+        "fecha_hora": "2026-07-22T15:51:40.997-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.2,
+        "nominales": 78726,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:21:50.182-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.0,
+        "nominales": 60298,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:51:40.995-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.15,
+        "nominales": 43632,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:13:15.703-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.0,
+        "nominales": 30399,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:23:14.909-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.0,
+        "nominales": 26843,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:11:05.621-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.15,
+        "nominales": 26000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:52:16.943-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.05,
+        "nominales": 25684,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:33:45.509-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.15,
+        "nominales": 24504,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:30:47.255-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.0,
+        "nominales": 23116,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:43:06.564-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.15,
+        "nominales": 19735,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:28:23.792-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.15,
+        "nominales": 18797,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:47:03.087-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.2,
+        "nominales": 17418,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:47:03.089-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.15,
+        "nominales": 14424,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:19:56.706-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.15,
+        "nominales": 12779,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:40:20.992-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.05,
+        "nominales": 12728,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:54:50.181-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.25,
+        "nominales": 12450,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:18:49.312-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.15,
+        "nominales": 11484,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:34:12.507-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.2,
+        "nominales": 10978,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T10:42:57.681-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 112.9,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T10:57:34.081-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:47:03.09-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.2,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:51:40.992-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.2,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:28:34.64-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.25,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "TLCPO": [
+      {
+        "fecha_hora": "2026-07-22T13:48:25.145-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 170850.0,
+        "nominales": 40000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:13:15.699-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 170890.0,
+        "nominales": 33692,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:11:05.611-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171500.0,
+        "nominales": 26000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:52:16.951-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 170850.0,
+        "nominales": 25684,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:20:00.559-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171200.0,
+        "nominales": 19585,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:28:23.786-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 171360.0,
+        "nominales": 18797,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:47:03.098-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 170900.0,
+        "nominales": 14419,
+        "lado": "COMPRA"
+      }
+    ],
+    "TLCTD": [
+      {
+        "fecha_hora": "2026-07-22T14:11:12.397-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.05,
+        "nominales": 23017,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:58:16.129-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 108.65,
+        "nominales": 18696,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:16:37.021-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.05,
+        "nominales": 17560,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:27:17.875-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.0,
+        "nominales": 13357,
+        "lado": "COMPRA"
+      }
+    ],
+    "TLCTO": [
+      {
+        "fecha_hora": "2026-07-22T16:00:16.049-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 164960.0,
+        "nominales": 52726,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:00:05.495-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 164960.0,
+        "nominales": 12124,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:43:45.872-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165110.0,
+        "nominales": 11512,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:17:50.146-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 164700.0,
+        "nominales": 11120,
+        "lado": "COMPRA"
+      }
+    ],
+    "TSC3D": [
+      {
+        "fecha_hora": "2026-07-22T11:48:16.322-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.5,
+        "nominales": 40000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:21:36.35-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.95,
+        "nominales": 17000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:09:49.642-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 114.85,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:48:16.321-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.55,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:54:46.254-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.95,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:11:57.301-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 115.05,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:13:05.553-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 115.05,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:30:17.28-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 114.85,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "TSC3O": [
+      {
+        "fecha_hora": "2026-07-22T14:16:13.692-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 174140.0,
+        "nominales": 12000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:07:38.659-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173570.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:53:57.465-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173200.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:09:39.321-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173780.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "TSC4D": [
+      {
+        "fecha_hora": "2026-07-22T12:14:11.842-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 108.8,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:30:33.876-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 108.6,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:22:09.031-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "TSC4O": [
+      {
+        "fecha_hora": "2026-07-22T14:36:24.906-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 164980.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:38:43.963-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165080.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "TTC9D": [
+      {
+        "fecha_hora": "2026-07-22T15:21:53.965-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.5,
+        "nominales": 45000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:12:31.744-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 105.9,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:17:37.111-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 105.9,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "TTCAO": [
+      {
+        "fecha_hora": "2026-07-22T12:06:03.858-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 163170.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "TTCBD": [
+      {
+        "fecha_hora": "2026-07-22T15:33:41.659-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 104.9,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:43:11.989-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 104.9,
+        "nominales": 19843,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:40:01.908-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 104.75,
+        "nominales": 15000,
+        "lado": "VENTA"
+      }
+    ],
+    "TTCDD": [
+      {
+        "fecha_hora": "2026-07-22T15:34:52.52-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.35,
+        "nominales": 20000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:09:57.38-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.35,
+        "nominales": 13000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:15:34.838-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.5,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "TTCDO": [
+      {
+        "fecha_hora": "2026-07-22T15:55:37.279-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 164900.0,
+        "nominales": 300000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:55:28.913-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 164900.0,
+        "nominales": 299000,
+        "lado": "VENTA"
+      }
+    ],
+    "VBC2O": [
+      {
+        "fecha_hora": "2026-07-22T14:52:44.75-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 157060.0,
+        "nominales": 25871,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:51:50.021-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 156590.0,
+        "nominales": 25634,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:50:33.838-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 157060.0,
+        "nominales": 25596,
+        "lado": "COMPRA"
+      }
+    ],
+    "VSCRD": [
+      {
+        "fecha_hora": "2026-07-22T15:12:25.8-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.75,
+        "nominales": 11880,
+        "lado": "COMPRA"
+      }
+    ],
+    "VSCRO": [
+      {
+        "fecha_hora": "2026-07-22T15:12:25.798-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 169200.0,
+        "nominales": 11963,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:12:25.808-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 169200.0,
+        "nominales": 11880,
+        "lado": "COMPRA"
+      }
+    ],
+    "VSCTD": [
+      {
+        "fecha_hora": "2026-07-22T13:40:44.014-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.55,
+        "nominales": 50000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:41:27.196-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.15,
+        "nominales": 20000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T10:31:46.57-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:26:14.389-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 108.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:10:27.846-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.15,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:10:30.5-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.2,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:56:56.77-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.4,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:57:26.378-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.4,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:40:44.015-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.45,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:34:24.541-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.15,
+        "nominales": 10000,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:02:13.75-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:02:18.024-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:41:59.543-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:43:00.903-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "VSCTO": [
+      {
+        "fecha_hora": "2026-07-22T16:41:59.526-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165930.0,
+        "nominales": 12000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:07:53.271-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 166840.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:17:53.153-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165070.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:32:16.029-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165070.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:41:59.525-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165930.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:52:13.014-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165950.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "VSCUD": [
+      {
+        "fecha_hora": "2026-07-22T11:35:44.712-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.1,
+        "nominales": 15100,
+        "lado": "VENTA"
+      }
+    ],
+    "VSCUO": [
+      {
+        "fecha_hora": "2026-07-22T15:55:11.709-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 166250.0,
+        "nominales": 10324,
+        "lado": "VENTA"
+      }
+    ],
+    "VSCVD": [
+      {
+        "fecha_hora": "2026-07-22T15:58:43.63-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.95,
+        "nominales": 45000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:43:35.472-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 111.6,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:45:23.108-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.95,
+        "nominales": 27000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:03:25.866-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.9,
+        "nominales": 18000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:58:43.629-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.95,
+        "nominales": 15000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:08:22.196-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.95,
+        "nominales": 13000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:09:32.475-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.9,
+        "nominales": 13000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:36:35.253-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.7,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:52:24.941-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:52:24.94-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 111.75,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "VSCVO": [
+      {
+        "fecha_hora": "2026-07-22T12:11:43.885-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 169090.0,
+        "nominales": 20000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:44:14.883-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 168370.0,
+        "nominales": 18000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:48:59.523-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 169100.0,
+        "nominales": 15000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:42:41.444-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 169240.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "VSCXD": [
+      {
+        "fecha_hora": "2026-07-22T13:59:55.057-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.5,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:56:13.196-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.45,
+        "nominales": 29000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:34:13.848-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.7,
+        "nominales": 21000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:29:52.107-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.95,
+        "nominales": 21000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:56:13.347-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.45,
+        "nominales": 18000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:00:19.309-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.5,
+        "nominales": 15000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:30:52.58-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.65,
+        "nominales": 13000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:58:50.118-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.55,
+        "nominales": 13000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:14:45.456-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.7,
+        "nominales": 12000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:59:18.8-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.5,
+        "nominales": 12000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:05:34.413-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.45,
+        "nominales": 11000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:52:09.737-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.6,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:00:38.23-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 109.6,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:00:54.332-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.5,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:28:38.546-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 109.4,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "VSCXO": [
+      {
+        "fecha_hora": "2026-07-22T13:55:06.6-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165700.0,
+        "nominales": 43000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:56:13.106-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165700.0,
+        "nominales": 35000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:56:13.288-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165700.0,
+        "nominales": 21000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:52:10.566-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165700.0,
+        "nominales": 19000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:15:12.991-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165700.0,
+        "nominales": 17000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:54:18.529-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165500.0,
+        "nominales": 14000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:05:34.381-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165700.0,
+        "nominales": 14000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:32:42.936-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165450.0,
+        "nominales": 13000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:32:42.936-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165450.0,
+        "nominales": 11000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:54:18.529-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165500.0,
+        "nominales": 11000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:52:09.745-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165490.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:28:47.75-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165600.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:33:26.871-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 165990.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "YCAMD": [
+      {
+        "fecha_hora": "2026-07-22T15:03:33.943-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.95,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:03:33.943-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.9,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:05:09.262-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 106.95,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "YCAMO": [
+      {
+        "fecha_hora": "2026-07-22T14:38:42.068-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 153550.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:38:42.701-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 153550.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "YFCJO": [
+      {
+        "fecha_hora": "2026-07-22T15:00:40.691-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 166500.0,
+        "nominales": 14000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:16:30.082-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167200.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "YFCMO": [
+      {
+        "fecha_hora": "2026-07-22T15:53:13.729-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156600.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "YM34D": [
+      {
+        "fecha_hora": "2026-07-22T14:13:20.405-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.7,
+        "nominales": 179999,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:30:12.455-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.8,
+        "nominales": 122621,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:29:05.927-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.6,
+        "nominales": 73800,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:50:16.094-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.45,
+        "nominales": 69999,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:01:47.043-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.5,
+        "nominales": 50000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:01:47.041-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.55,
+        "nominales": 41694,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:51:13.389-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.55,
+        "nominales": 31422,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:51:13.422-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.55,
+        "nominales": 31422,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:02:48.865-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.45,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:27:14.917-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.35,
+        "nominales": 18526,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:15:24.902-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.5,
+        "nominales": 15000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:28:04.051-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.55,
+        "nominales": 14800,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:22:43.469-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.6,
+        "nominales": 12004,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:21:16.315-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.2,
+        "nominales": 11416,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:53:00.794-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.5,
+        "nominales": 10508,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:33:49.045-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.8,
+        "nominales": 10319,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:22:45.773-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 110.55,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "YM34O": [
+      {
+        "fecha_hora": "2026-07-22T13:10:30.454-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167220.0,
+        "nominales": 35040,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:08:20.785-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167240.0,
+        "nominales": 29379,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:15:57.846-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167210.0,
+        "nominales": 29266,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:08:05.45-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167200.0,
+        "nominales": 24421,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:10:27.292-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167210.0,
+        "nominales": 24171,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:15:11.963-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167150.0,
+        "nominales": 22900,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:16:54.129-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167150.0,
+        "nominales": 22096,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:16:54.128-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167140.0,
+        "nominales": 19804,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:10:45.262-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167100.0,
+        "nominales": 17851,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:42:30.242-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167380.0,
+        "nominales": 15439,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:33:49.054-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167300.0,
+        "nominales": 13593,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:58:24.425-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 166940.0,
+        "nominales": 12386,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:17:13.634-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167120.0,
+        "nominales": 11967,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:02:27.429-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167120.0,
+        "nominales": 11951,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:35:10.359-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167380.0,
+        "nominales": 11922,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:34:53.135-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 167400.0,
+        "nominales": 11796,
+        "lado": "COMPRA"
+      }
+    ],
+    "YM35D": [
+      {
+        "fecha_hora": "2026-07-22T11:44:16.568-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 160000,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:34:13.133-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 29000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:42:15.966-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 102.7,
+        "nominales": 12856,
+        "lado": "COMPRA"
+      }
+    ],
+    "YM35O": [
+      {
+        "fecha_hora": "2026-07-22T15:42:15.954-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155720.0,
+        "nominales": 30000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:42:15.95-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 155560.0,
+        "nominales": 12856,
+        "lado": "COMPRA"
+      }
+    ],
+    "YM37O": [
+      {
+        "fecha_hora": "2026-07-22T15:34:25.667-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 157280.0,
+        "nominales": 12716,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:34:26.808-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 157280.0,
+        "nominales": 11884,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:17:07.206-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156800.0,
+        "nominales": 10000,
+        "lado": "VENTA"
+      }
+    ],
+    "YM38D": [
+      {
+        "fecha_hora": "2026-07-22T15:11:15.368-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.4,
+        "nominales": 23801,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:24:32.593-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 103.65,
+        "nominales": 16897,
+        "lado": "VENTA"
+      }
+    ],
+    "YM38O": [
+      {
+        "fecha_hora": "2026-07-22T16:42:44.166-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 156350.0,
+        "nominales": 10232,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:42:44.2-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 156350.0,
+        "nominales": 10232,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:42:44.213-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156540.0,
+        "nominales": 10232,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:42:44.229-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 156350.0,
+        "nominales": 10232,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:42:44.182-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156500.0,
+        "nominales": 10232,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:42:44.261-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 156350.0,
+        "nominales": 10232,
+        "lado": "DESCONOCIDO"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:42:44.249-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156490.0,
+        "nominales": 10232,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:42:44.278-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 156490.0,
+        "nominales": 10232,
+        "lado": "VENTA"
+      }
+    ],
+    "YM39D": [
+      {
+        "fecha_hora": "2026-07-22T13:03:57.781-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 113.0,
+        "nominales": 22843,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:07:02.288-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 112.6,
+        "nominales": 22531,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:09:31.633-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 112.6,
+        "nominales": 16209,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:15:58.146-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 112.6,
+        "nominales": 15000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:15:58.122-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 112.6,
+        "nominales": 12353,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:07:02.291-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 112.6,
+        "nominales": 11755,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:07:02.349-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 112.6,
+        "nominales": 11247,
+        "lado": "COMPRA"
+      }
+    ],
+    "YM39O": [
+      {
+        "fecha_hora": "2026-07-22T13:07:02.296-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 170000.0,
+        "nominales": 22531,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:15:58.154-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 169940.0,
+        "nominales": 15000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:15:58.165-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 169940.0,
+        "nominales": 14267,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:15:58.114-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 169940.0,
+        "nominales": 12353,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:07:02.309-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 170000.0,
+        "nominales": 11755,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:07:02.332-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 170000.0,
+        "nominales": 11247,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:50:40.139-03:00",
+        "plazo": "CI",
+        "moneda": "ARS",
+        "precio": 169000.0,
+        "nominales": 10998,
+        "lado": "COMPRA"
+      }
+    ],
+    "YM41D": [
+      {
+        "fecha_hora": "2026-07-22T11:17:15.896-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 101.8,
+        "nominales": 15000,
+        "lado": "COMPRA"
+      }
+    ],
+    "YMCID": [
+      {
+        "fecha_hora": "2026-07-22T11:47:44.768-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 93.4,
+        "nominales": 30000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:47:44.767-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 93.4,
+        "nominales": 28121,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T11:11:40.946-03:00",
+        "plazo": "CI",
+        "moneda": "USD",
+        "precio": 93.7,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "YMCIO": [
+      {
+        "fecha_hora": "2026-07-22T12:08:59.406-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 141130.0,
+        "nominales": 14171,
+        "lado": "VENTA"
+      }
+    ],
+    "YMCJD": [
+      {
+        "fecha_hora": "2026-07-22T12:34:22.501-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 108.5,
+        "nominales": 13651,
+        "lado": "COMPRA"
+      }
+    ],
+    "YMCXD": [
+      {
+        "fecha_hora": "2026-07-22T16:30:48.688-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.6,
+        "nominales": 17355,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:58:37.304-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.7,
+        "nominales": 13484,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:09:59.294-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.65,
+        "nominales": 12912,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T16:31:34.263-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.6,
+        "nominales": 12742,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:03:56.143-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.25,
+        "nominales": 12000,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:18:15.944-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.2,
+        "nominales": 11478,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:21:42.662-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.5,
+        "nominales": 10766,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:09:59.331-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.65,
+        "nominales": 10531,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T12:57:15.046-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 114.7,
+        "nominales": 10440,
+        "lado": "COMPRA"
+      }
+    ],
+    "YMCXO": [
+      {
+        "fecha_hora": "2026-07-22T15:13:54.616-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173500.0,
+        "nominales": 41862,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:39:41.029-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173400.0,
+        "nominales": 17301,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:15:24.118-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173500.0,
+        "nominales": 17129,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T13:04:08.816-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173200.0,
+        "nominales": 14290,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:21:42.652-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173520.0,
+        "nominales": 10766,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T15:29:20.918-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173480.0,
+        "nominales": 10279,
+        "lado": "VENTA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:29:40.564-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173350.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:36:41.576-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173380.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      },
+      {
+        "fecha_hora": "2026-07-22T14:39:15.421-03:00",
+        "plazo": "24hs",
+        "moneda": "ARS",
+        "precio": 173400.0,
+        "nominales": 10000,
+        "lado": "COMPRA"
+      }
+    ],
+    "ZPC3D": [
+      {
+        "fecha_hora": "2026-07-22T14:25:08.169-03:00",
+        "plazo": "24hs",
+        "moneda": "USD",
+        "precio": 104.0,
+        "nominales": 14050,
+        "lado": "COMPRA"
+      }
+    ]
+  }
+}
