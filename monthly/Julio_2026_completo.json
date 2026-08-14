@@ -31,23 +31,23 @@
     "top_compradores_netos": [
       {
         "ticker": "PLC7D-24hs",
-        "flujo_neto_nominal": 43813280
+        "flujo_neto_nominal": 45674280
       },
       {
         "ticker": "PLC7O-24hs",
-        "flujo_neto_nominal": 23971980
+        "flujo_neto_nominal": 24390980
+      },
+      {
+        "ticker": "MGCRD-24hs",
+        "flujo_neto_nominal": 7057530
       },
       {
         "ticker": "VSCXD-24hs",
         "flujo_neto_nominal": 6588590
       },
       {
-        "ticker": "MGCRD-24hs",
-        "flujo_neto_nominal": 6511530
-      },
-      {
         "ticker": "MGCRO-24hs",
-        "flujo_neto_nominal": 6106430
+        "flujo_neto_nominal": 6057430
       },
       {
         "ticker": "VSCXO-24hs",
@@ -81,7 +81,7 @@
       },
       {
         "ticker": "YM42D-24hs",
-        "flujo_neto_nominal": -1760036
+        "flujo_neto_nominal": -1939229
       },
       {
         "ticker": "OLC6D-24hs",
@@ -3370,16 +3370,16 @@
       },
       "total_operaciones": 4877,
       "volumen_nominal": {
-        "compra": 3761795,
-        "venta": 1020282
+        "compra": 4053661,
+        "venta": 1137103
       },
       "monto_moneda": {
         "compra": 418961599.6,
         "venta": 117267801.85
       },
-      "flujo_neto_nominal": 2741513,
+      "flujo_neto_nominal": 2916558,
       "dias_operado": 22,
-      "dias_comprador": 21,
+      "dias_comprador": 22,
       "dias_vendedor": 0,
       "dias_neutro": 0,
       "poc_dominante_mes": 103.35,
@@ -3389,7 +3389,7 @@
         "max": 105.0
       },
       "variacion_mensual_pct": 1.02,
-      "poc_pct_promedio": 43.68
+      "poc_pct_promedio": 39.5
     },
     "EAC4D-CI": {
       "operaciones": {
@@ -3399,18 +3399,18 @@
       },
       "total_operaciones": 182,
       "volumen_nominal": {
-        "compra": 77011,
+        "compra": 90291,
         "venta": 58316
       },
       "monto_moneda": {
         "compra": 9349107.0,
         "venta": 5985706.45
       },
-      "flujo_neto_nominal": 18695,
+      "flujo_neto_nominal": 31975,
       "dias_operado": 21,
-      "dias_comprador": 14,
+      "dias_comprador": 16,
       "dias_vendedor": 5,
-      "dias_neutro": 2,
+      "dias_neutro": 1,
       "poc_dominante_mes": 104.0,
       "poc_dominante_nominales": 24406,
       "rango_precio_mes": {
@@ -3418,7 +3418,7 @@
         "max": 105.4
       },
       "variacion_mensual_pct": 0.44,
-      "poc_pct_promedio": 75.75
+      "poc_pct_promedio": 76.96
     },
     "EAC4O-24hs": {
       "operaciones": {
@@ -3428,16 +3428,16 @@
       },
       "total_operaciones": 4539,
       "volumen_nominal": {
-        "compra": 2772531,
-        "venta": 995560
+        "compra": 2917352,
+        "venta": 1048544
       },
       "monto_moneda": {
         "compra": 459346962430.0,
         "venta": 164705307010.0
       },
-      "flujo_neto_nominal": 1776971,
+      "flujo_neto_nominal": 1868808,
       "dias_operado": 22,
-      "dias_comprador": 19,
+      "dias_comprador": 20,
       "dias_vendedor": 2,
       "dias_neutro": 0,
       "poc_dominante_mes": 156000.0,
@@ -3447,7 +3447,7 @@
         "max": 166000.0
       },
       "variacion_mensual_pct": -1.13,
-      "poc_pct_promedio": 40.53
+      "poc_pct_promedio": 36.65
     },
     "EAC4O-CI": {
       "operaciones": {
@@ -3457,18 +3457,18 @@
       },
       "total_operaciones": 349,
       "volumen_nominal": {
-        "compra": 92927,
-        "venta": 22239
+        "compra": 94690,
+        "venta": 22806
       },
       "monto_moneda": {
         "compra": 14976689420.0,
         "venta": 3568408660.0
       },
-      "flujo_neto_nominal": 70688,
+      "flujo_neto_nominal": 71884,
       "dias_operado": 21,
-      "dias_comprador": 16,
+      "dias_comprador": 18,
       "dias_vendedor": 3,
-      "dias_neutro": 2,
+      "dias_neutro": 1,
       "poc_dominante_mes": 158020.0,
       "poc_dominante_nominales": 20000,
       "rango_precio_mes": {
@@ -3476,7 +3476,7 @@
         "max": 165500.0
       },
       "variacion_mensual_pct": -0.35,
-      "poc_pct_promedio": 66.36
+      "poc_pct_promedio": 67.39
     },
     "EMC1D-24hs": {
       "operaciones": {
@@ -6734,16 +6734,16 @@
       },
       "total_operaciones": 1572,
       "volumen_nominal": {
-        "compra": 10779350,
-        "venta": 4267820
+        "compra": 11852350,
+        "venta": 4794820
       },
       "monto_moneda": {
         "compra": 1271666910.0,
         "venta": 513616068.0
       },
-      "flujo_neto_nominal": 6511530,
+      "flujo_neto_nominal": 7057530,
       "dias_operado": 22,
-      "dias_comprador": 18,
+      "dias_comprador": 19,
       "dias_vendedor": 3,
       "dias_neutro": 0,
       "poc_dominante_mes": 107.2,
@@ -6753,7 +6753,7 @@
         "max": 108.75
       },
       "variacion_mensual_pct": 0.75,
-      "poc_pct_promedio": 38.86
+      "poc_pct_promedio": 37.38
     },
     "MGCRD-CI": {
       "operaciones": {
@@ -6763,18 +6763,18 @@
       },
       "total_operaciones": 71,
       "volumen_nominal": {
-        "compra": 375000,
-        "venta": 219000
+        "compra": 431000,
+        "venta": 239000
       },
       "monto_moneda": {
         "compra": 46259050.0,
         "venta": 25633350.0
       },
-      "flujo_neto_nominal": 156000,
+      "flujo_neto_nominal": 192000,
       "dias_operado": 18,
-      "dias_comprador": 9,
+      "dias_comprador": 11,
       "dias_vendedor": 5,
-      "dias_neutro": 7,
+      "dias_neutro": 6,
       "poc_dominante_mes": 106.6,
       "poc_dominante_nominales": 88000,
       "rango_precio_mes": {
@@ -6782,7 +6782,7 @@
         "max": 110.45
       },
       "variacion_mensual_pct": 1.03,
-      "poc_pct_promedio": 68.66
+      "poc_pct_promedio": 70.5
     },
     "MGCRO-24hs": {
       "operaciones": {
@@ -6792,17 +6792,17 @@
       },
       "total_operaciones": 1195,
       "volumen_nominal": {
-        "compra": 10094810,
-        "venta": 3988380
+        "compra": 10755810,
+        "venta": 4698380
       },
       "monto_moneda": {
         "compra": 1757275885200.0,
         "venta": 765425162000.0
       },
-      "flujo_neto_nominal": 6106430,
+      "flujo_neto_nominal": 6057430,
       "dias_operado": 22,
       "dias_comprador": 20,
-      "dias_vendedor": 1,
+      "dias_vendedor": 2,
       "dias_neutro": 0,
       "poc_dominante_mes": 163800.0,
       "poc_dominante_nominales": 971000,
@@ -6811,7 +6811,7 @@
         "max": 166290.0
       },
       "variacion_mensual_pct": 0.81,
-      "poc_pct_promedio": 32.27
+      "poc_pct_promedio": 28.83
     },
     "MGCRO-CI": {
       "operaciones": {
@@ -6821,18 +6821,18 @@
       },
       "total_operaciones": 33,
       "volumen_nominal": {
-        "compra": 139000,
-        "venta": 183000
+        "compra": 167000,
+        "venta": 213000
       },
       "monto_moneda": {
         "compra": 27274840000.0,
         "venta": 34722800000.0
       },
-      "flujo_neto_nominal": -44000,
+      "flujo_neto_nominal": -46000,
       "dias_operado": 11,
-      "dias_comprador": 2,
-      "dias_vendedor": 5,
-      "dias_neutro": 14,
+      "dias_comprador": 3,
+      "dias_vendedor": 6,
+      "dias_neutro": 13,
       "poc_dominante_mes": 163090.0,
       "poc_dominante_nominales": 156000,
       "rango_precio_mes": {
@@ -6840,7 +6840,7 @@
         "max": 165820.0
       },
       "variacion_mensual_pct": 1.33,
-      "poc_pct_promedio": 95.65
+      "poc_pct_promedio": 92.51
     },
     "MGCTD-24hs": {
       "operaciones": {
@@ -7314,17 +7314,17 @@
       },
       "total_operaciones": 1913,
       "volumen_nominal": {
-        "compra": 1538041,
-        "venta": 2046582
+        "compra": 1658319,
+        "venta": 2334525
       },
       "monto_moneda": {
         "compra": 141050376.57,
         "venta": 198173642.34
       },
-      "flujo_neto_nominal": -508541,
+      "flujo_neto_nominal": -676206,
       "dias_operado": 22,
       "dias_comprador": 7,
-      "dias_vendedor": 14,
+      "dias_vendedor": 15,
       "dias_neutro": 0,
       "poc_dominante_mes": 85.0,
       "poc_dominante_nominales": 1024312,
@@ -7333,7 +7333,7 @@
         "max": 85.9
       },
       "variacion_mensual_pct": -1.15,
-      "poc_pct_promedio": 39.55
+      "poc_pct_promedio": 35.65
     },
     "MR46D-CI": {
       "operaciones": {
@@ -7344,17 +7344,17 @@
       "total_operaciones": 62,
       "volumen_nominal": {
         "compra": 29668,
-        "venta": 244951
+        "venta": 245535
       },
       "monto_moneda": {
         "compra": 2521414.57,
         "venta": 20709198.83
       },
-      "flujo_neto_nominal": -215283,
+      "flujo_neto_nominal": -215867,
       "dias_operado": 16,
       "dias_comprador": 4,
-      "dias_vendedor": 11,
-      "dias_neutro": 6,
+      "dias_vendedor": 12,
+      "dias_neutro": 5,
       "poc_dominante_mes": 84.1,
       "poc_dominante_nominales": 155823,
       "rango_precio_mes": {
@@ -7372,17 +7372,17 @@
       },
       "total_operaciones": 2111,
       "volumen_nominal": {
-        "compra": 1698653,
-        "venta": 1855969
+        "compra": 2111959,
+        "venta": 1982113
       },
       "monto_moneda": {
         "compra": 273449682440.0,
         "venta": 255598196420.0
       },
-      "flujo_neto_nominal": -157316,
+      "flujo_neto_nominal": 129846,
       "dias_operado": 22,
       "dias_comprador": 6,
-      "dias_vendedor": 15,
+      "dias_vendedor": 16,
       "dias_neutro": 0,
       "poc_dominante_mes": 129500.0,
       "poc_dominante_nominales": 616344,
@@ -7391,7 +7391,7 @@
         "max": 131980.0
       },
       "variacion_mensual_pct": -2.8,
-      "poc_pct_promedio": 40.07
+      "poc_pct_promedio": 36.89
     },
     "MR46O-CI": {
       "operaciones": {
@@ -7402,16 +7402,16 @@
       "total_operaciones": 134,
       "volumen_nominal": {
         "compra": 46157,
-        "venta": 63785
+        "venta": 66713
       },
       "monto_moneda": {
         "compra": 6034387780.0,
         "venta": 8505735710.0
       },
-      "flujo_neto_nominal": -17628,
+      "flujo_neto_nominal": -20556,
       "dias_operado": 19,
       "dias_comprador": 2,
-      "dias_vendedor": 14,
+      "dias_vendedor": 15,
       "dias_neutro": 5,
       "poc_dominante_mes": 131990.0,
       "poc_dominante_nominales": 25481,
@@ -7420,7 +7420,7 @@
         "max": 131990.0
       },
       "variacion_mensual_pct": -0.68,
-      "poc_pct_promedio": 73.55
+      "poc_pct_promedio": 71.61
     },
     "MR47D-24hs": {
       "operaciones": {
@@ -7430,17 +7430,17 @@
       },
       "total_operaciones": 1062,
       "volumen_nominal": {
-        "compra": 232501,
-        "venta": 251859
+        "compra": 253277,
+        "venta": 307422
       },
       "monto_moneda": {
         "compra": 10615949.66,
         "venta": 12635628.09
       },
-      "flujo_neto_nominal": -19358,
+      "flujo_neto_nominal": -54145,
       "dias_operado": 22,
       "dias_comprador": 10,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 0,
       "poc_dominante_mes": 41.0,
       "poc_dominante_nominales": 53826,
@@ -7449,7 +7449,7 @@
         "max": 45.38
       },
       "variacion_mensual_pct": 10.69,
-      "poc_pct_promedio": 45.43
+      "poc_pct_promedio": 40.48
     },
     "MR47D-CI": {
       "operaciones": {
@@ -7488,17 +7488,17 @@
       },
       "total_operaciones": 1815,
       "volumen_nominal": {
-        "compra": 602875,
-        "venta": 410332
+        "compra": 620053,
+        "venta": 448924
       },
       "monto_moneda": {
         "compra": 40379736370.0,
         "venta": 28679321080.0
       },
-      "flujo_neto_nominal": 192543,
+      "flujo_neto_nominal": 171129,
       "dias_operado": 22,
       "dias_comprador": 9,
-      "dias_vendedor": 12,
+      "dias_vendedor": 13,
       "dias_neutro": 0,
       "poc_dominante_mes": 64000.0,
       "poc_dominante_nominales": 154051,
@@ -7507,7 +7507,7 @@
         "max": 70500.0
       },
       "variacion_mensual_pct": 8.94,
-      "poc_pct_promedio": 37.88
+      "poc_pct_promedio": 35.22
     },
     "MR47O-CI": {
       "operaciones": {
@@ -7517,16 +7517,16 @@
       },
       "total_operaciones": 53,
       "volumen_nominal": {
-        "compra": 1601,
-        "venta": 3801
+        "compra": 1971,
+        "venta": 4133
       },
       "monto_moneda": {
         "compra": 123472490.0,
         "venta": 255533430.0
       },
-      "flujo_neto_nominal": -2200,
+      "flujo_neto_nominal": -2162,
       "dias_operado": 16,
-      "dias_comprador": 4,
+      "dias_comprador": 5,
       "dias_vendedor": 9,
       "dias_neutro": 8,
       "poc_dominante_mes": 59090.0,
@@ -7536,7 +7536,7 @@
         "max": 66100.0
       },
       "variacion_mensual_pct": -0.44,
-      "poc_pct_promedio": 83.6
+      "poc_pct_promedio": 81.67
     },
     "MSSFD-24hs": {
       "operaciones": {
@@ -10098,17 +10098,17 @@
       },
       "total_operaciones": 7129,
       "volumen_nominal": {
-        "compra": 68908050,
-        "venta": 25094770
+        "compra": 71198050,
+        "venta": 25523770
       },
       "monto_moneda": {
         "compra": 7220996667.5,
         "venta": 2587701915.5
       },
-      "flujo_neto_nominal": 43813280,
+      "flujo_neto_nominal": 45674280,
       "dias_operado": 22,
-      "dias_comprador": 20,
-      "dias_vendedor": 1,
+      "dias_comprador": 22,
+      "dias_vendedor": 0,
       "dias_neutro": 0,
       "poc_dominante_mes": 101.05,
       "poc_dominante_nominales": 18371530,
@@ -10117,7 +10117,7 @@
         "max": 105.0
       },
       "variacion_mensual_pct": 1.38,
-      "poc_pct_promedio": 38.11
+      "poc_pct_promedio": 37.6
     },
     "PLC7D-CI": {
       "operaciones": {
@@ -10127,18 +10127,18 @@
       },
       "total_operaciones": 245,
       "volumen_nominal": {
-        "compra": 2854000,
-        "venta": 1495000
+        "compra": 2910000,
+        "venta": 1508000
       },
       "monto_moneda": {
         "compra": 294812750.0,
         "venta": 152670400.0
       },
-      "flujo_neto_nominal": 1359000,
+      "flujo_neto_nominal": 1402000,
       "dias_operado": 21,
-      "dias_comprador": 14,
+      "dias_comprador": 16,
       "dias_vendedor": 4,
-      "dias_neutro": 3,
+      "dias_neutro": 2,
       "poc_dominante_mes": 101.1,
       "poc_dominante_nominales": 2205000,
       "rango_precio_mes": {
@@ -10146,7 +10146,7 @@
         "max": 103.8
       },
       "variacion_mensual_pct": 1.24,
-      "poc_pct_promedio": 59.6
+      "poc_pct_promedio": 59.37
     },
     "PLC7O-24hs": {
       "operaciones": {
@@ -10156,16 +10156,16 @@
       },
       "total_operaciones": 5885,
       "volumen_nominal": {
-        "compra": 40193100,
-        "venta": 16221120
+        "compra": 41180100,
+        "venta": 16789120
       },
       "monto_moneda": {
         "compra": 6375687265000.0,
         "venta": 2593664084000.0
       },
-      "flujo_neto_nominal": 23971980,
+      "flujo_neto_nominal": 24390980,
       "dias_operado": 22,
-      "dias_comprador": 20,
+      "dias_comprador": 21,
       "dias_vendedor": 1,
       "dias_neutro": 0,
       "poc_dominante_mes": 154000.0,
@@ -10175,7 +10175,7 @@
         "max": 159000.0
       },
       "variacion_mensual_pct": 0.4,
-      "poc_pct_promedio": 34.85
+      "poc_pct_promedio": 31.23
     },
     "PLC7O-CI": {
       "operaciones": {
@@ -10185,18 +10185,18 @@
       },
       "total_operaciones": 234,
       "volumen_nominal": {
-        "compra": 808000,
-        "venta": 787000
+        "compra": 846000,
+        "venta": 802000
       },
       "monto_moneda": {
         "compra": 130978490000.0,
         "venta": 123364710000.0
       },
-      "flujo_neto_nominal": 21000,
+      "flujo_neto_nominal": 44000,
       "dias_operado": 21,
-      "dias_comprador": 13,
+      "dias_comprador": 15,
       "dias_vendedor": 5,
-      "dias_neutro": 3,
+      "dias_neutro": 2,
       "poc_dominante_mes": 153800.0,
       "poc_dominante_nominales": 414000,
       "rango_precio_mes": {
@@ -10204,7 +10204,7 @@
         "max": 158900.0
       },
       "variacion_mensual_pct": -2.47,
-      "poc_pct_promedio": 47.98
+      "poc_pct_promedio": 48.58
     },
     "PN34D-24hs": {
       "operaciones": {
@@ -15434,16 +15434,16 @@
       },
       "total_operaciones": 5158,
       "volumen_nominal": {
-        "compra": 1591500,
-        "venta": 1521520
+        "compra": 1658027,
+        "venta": 1570016
       },
       "monto_moneda": {
         "compra": 182591080.5,
         "venta": 172861680.1
       },
-      "flujo_neto_nominal": 69980,
+      "flujo_neto_nominal": 88011,
       "dias_operado": 22,
-      "dias_comprador": 12,
+      "dias_comprador": 13,
       "dias_vendedor": 9,
       "dias_neutro": 0,
       "poc_dominante_mes": 108.85,
@@ -15453,7 +15453,7 @@
         "max": 113.05
       },
       "variacion_mensual_pct": 2.4,
-      "poc_pct_promedio": 30.35
+      "poc_pct_promedio": 30.0
     },
     "VSCRD-CI": {
       "operaciones": {
@@ -15463,16 +15463,16 @@
       },
       "total_operaciones": 646,
       "volumen_nominal": {
-        "compra": 84930,
-        "venta": 45975
+        "compra": 87310,
+        "venta": 46621
       },
       "monto_moneda": {
         "compra": 9648125.45,
         "venta": 5086144.35
       },
-      "flujo_neto_nominal": 38955,
+      "flujo_neto_nominal": 40689,
       "dias_operado": 21,
-      "dias_comprador": 14,
+      "dias_comprador": 15,
       "dias_vendedor": 6,
       "dias_neutro": 1,
       "poc_dominante_mes": 109.2,
@@ -15482,7 +15482,7 @@
         "max": 114.0
       },
       "variacion_mensual_pct": 2.39,
-      "poc_pct_promedio": 55.99
+      "poc_pct_promedio": 55.97
     },
     "VSCRO-24hs": {
       "operaciones": {
@@ -15492,16 +15492,16 @@
       },
       "total_operaciones": 7069,
       "volumen_nominal": {
-        "compra": 1530534,
-        "venta": 1907225
+        "compra": 1609290,
+        "venta": 1950441
       },
       "monto_moneda": {
         "compra": 269598392420.0,
         "venta": 326566672430.0
       },
-      "flujo_neto_nominal": -376691,
+      "flujo_neto_nominal": -341151,
       "dias_operado": 22,
-      "dias_comprador": 9,
+      "dias_comprador": 10,
       "dias_vendedor": 12,
       "dias_neutro": 0,
       "poc_dominante_mes": 167190.0,
@@ -15511,7 +15511,7 @@
         "max": 175190.0
       },
       "variacion_mensual_pct": 1.65,
-      "poc_pct_promedio": 20.04
+      "poc_pct_promedio": 19.51
     },
     "VSCRO-CI": {
       "operaciones": {
@@ -15521,16 +15521,16 @@
       },
       "total_operaciones": 1372,
       "volumen_nominal": {
-        "compra": 72341,
-        "venta": 51765
+        "compra": 72848,
+        "venta": 52152
       },
       "monto_moneda": {
         "compra": 12162517610.0,
         "venta": 8687752950.0
       },
-      "flujo_neto_nominal": 20576,
+      "flujo_neto_nominal": 20696,
       "dias_operado": 21,
-      "dias_comprador": 10,
+      "dias_comprador": 11,
       "dias_vendedor": 10,
       "dias_neutro": 1,
       "poc_dominante_mes": 165380.0,
@@ -15540,7 +15540,7 @@
         "max": 174990.0
       },
       "variacion_mensual_pct": 1.1,
-      "poc_pct_promedio": 48.56
+      "poc_pct_promedio": 48.4
     },
     "VSCTD-24hs": {
       "operaciones": {
@@ -15550,17 +15550,17 @@
       },
       "total_operaciones": 197,
       "volumen_nominal": {
-        "compra": 929400,
-        "venta": 924800
+        "compra": 979400,
+        "venta": 1004800
       },
       "monto_moneda": {
         "compra": 106396340.0,
         "venta": 108982810.0
       },
-      "flujo_neto_nominal": 4600,
+      "flujo_neto_nominal": -25400,
       "dias_operado": 21,
       "dias_comprador": 9,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 1,
       "poc_dominante_mes": 108.8,
       "poc_dominante_nominales": 250000,
@@ -15569,7 +15569,7 @@
         "max": 110.15
       },
       "variacion_mensual_pct": 1.49,
-      "poc_pct_promedio": 50.4
+      "poc_pct_promedio": 49.1
     },
     "VSCTD-CI": {
       "operaciones": {
@@ -15580,16 +15580,16 @@
       "total_operaciones": 19,
       "volumen_nominal": {
         "compra": 100000,
-        "venta": 73000
+        "venta": 83000
       },
       "monto_moneda": {
         "compra": 10856000.0,
         "venta": 8929850.0
       },
-      "flujo_neto_nominal": 27000,
+      "flujo_neto_nominal": 17000,
       "dias_operado": 10,
       "dias_comprador": 6,
-      "dias_vendedor": 3,
+      "dias_vendedor": 4,
       "dias_neutro": 12,
       "poc_dominante_mes": 107.75,
       "poc_dominante_nominales": 50000,
@@ -15598,7 +15598,7 @@
         "max": 110.45
       },
       "variacion_mensual_pct": 3.03,
-      "poc_pct_promedio": 98.15
+      "poc_pct_promedio": 98.33
     },
     "VSCTO-24hs": {
       "operaciones": {
@@ -15608,16 +15608,16 @@
       },
       "total_operaciones": 137,
       "volumen_nominal": {
-        "compra": 859100,
-        "venta": 488000
+        "compra": 953100,
+        "venta": 498000
       },
       "monto_moneda": {
         "compra": 157565364000.0,
         "venta": 82375110000.0
       },
-      "flujo_neto_nominal": 371100,
+      "flujo_neto_nominal": 455100,
       "dias_operado": 16,
-      "dias_comprador": 8,
+      "dias_comprador": 9,
       "dias_vendedor": 5,
       "dias_neutro": 8,
       "poc_dominante_mes": 165000.0,
@@ -15627,7 +15627,7 @@
         "max": 167490.0
       },
       "variacion_mensual_pct": 1.02,
-      "poc_pct_promedio": 60.67
+      "poc_pct_promedio": 60.78
     },
     "VSCTO-CI": {
       "operaciones": {
@@ -15666,16 +15666,16 @@
       },
       "total_operaciones": 885,
       "volumen_nominal": {
-        "compra": 2748406,
-        "venta": 222688
+        "compra": 2749974,
+        "venta": 223314
       },
       "monto_moneda": {
         "compra": 304604425.5,
         "venta": 24493716.7
       },
-      "flujo_neto_nominal": 2525718,
+      "flujo_neto_nominal": 2526660,
       "dias_operado": 22,
-      "dias_comprador": 15,
+      "dias_comprador": 16,
       "dias_vendedor": 6,
       "dias_neutro": 0,
       "poc_dominante_mes": 110.9,
@@ -15685,7 +15685,7 @@
         "max": 113.85
       },
       "variacion_mensual_pct": 2.33,
-      "poc_pct_promedio": 48.75
+      "poc_pct_promedio": 49.62
     },
     "VSCUD-CI": {
       "operaciones": {
@@ -15695,16 +15695,16 @@
       },
       "total_operaciones": 92,
       "volumen_nominal": {
-        "compra": 14708,
+        "compra": 14787,
         "venta": 4387
       },
       "monto_moneda": {
         "compra": 1631624.15,
         "venta": 481649.1
       },
-      "flujo_neto_nominal": 10321,
+      "flujo_neto_nominal": 10400,
       "dias_operado": 16,
-      "dias_comprador": 12,
+      "dias_comprador": 13,
       "dias_vendedor": 2,
       "dias_neutro": 7,
       "poc_dominante_mes": 108.35,
@@ -15714,7 +15714,7 @@
         "max": 113.95
       },
       "variacion_mensual_pct": 2.66,
-      "poc_pct_promedio": 81.64
+      "poc_pct_promedio": 82.78
     },
     "VSCUO-24hs": {
       "operaciones": {
@@ -15724,16 +15724,16 @@
       },
       "total_operaciones": 887,
       "volumen_nominal": {
-        "compra": 244578,
-        "venta": 161942
+        "compra": 249398,
+        "venta": 166189
       },
       "monto_moneda": {
         "compra": 41746513790.0,
         "venta": 27636937590.0
       },
-      "flujo_neto_nominal": 82636,
+      "flujo_neto_nominal": 83209,
       "dias_operado": 22,
-      "dias_comprador": 9,
+      "dias_comprador": 10,
       "dias_vendedor": 12,
       "dias_neutro": 0,
       "poc_dominante_mes": 164000.0,
@@ -15743,7 +15743,7 @@
         "max": 174460.0
       },
       "variacion_mensual_pct": 3.65,
-      "poc_pct_promedio": 43.72
+      "poc_pct_promedio": 42.74
     },
     "VSCUO-CI": {
       "operaciones": {
@@ -15927,17 +15927,17 @@
       },
       "total_operaciones": 44,
       "volumen_nominal": {
-        "compra": 10538,
-        "venta": 1703
+        "compra": 12881,
+        "venta": 205084
       },
       "monto_moneda": {
         "compra": 1324488.0,
         "venta": 20529937.2
       },
-      "flujo_neto_nominal": 8835,
+      "flujo_neto_nominal": -192203,
       "dias_operado": 8,
       "dias_comprador": 5,
-      "dias_vendedor": 2,
+      "dias_vendedor": 3,
       "dias_neutro": 14,
       "poc_dominante_mes": 100.1,
       "poc_dominante_nominales": 199999,
@@ -15946,7 +15946,7 @@
         "max": 104.55
       },
       "variacion_mensual_pct": -3.16,
-      "poc_pct_promedio": 94.25
+      "poc_pct_promedio": 94.62
     },
     "VSCWO-24hs": {
       "operaciones": {
@@ -15985,16 +15985,16 @@
       },
       "total_operaciones": 32,
       "volumen_nominal": {
-        "compra": 8143,
+        "compra": 8144,
         "venta": 753
       },
       "monto_moneda": {
         "compra": 1259691830.0,
         "venta": 115447210.0
       },
-      "flujo_neto_nominal": 7390,
+      "flujo_neto_nominal": 7391,
       "dias_operado": 8,
-      "dias_comprador": 6,
+      "dias_comprador": 7,
       "dias_vendedor": 1,
       "dias_neutro": 14,
       "poc_dominante_mes": 151530.0,
@@ -16004,7 +16004,7 @@
         "max": 159000.0
       },
       "variacion_mensual_pct": -4.02,
-      "poc_pct_promedio": 81.23
+      "poc_pct_promedio": 83.57
     },
     "VSCXD-24hs": {
       "operaciones": {
@@ -16130,17 +16130,17 @@
       },
       "total_operaciones": 545,
       "volumen_nominal": {
-        "compra": 249284,
-        "venta": 857525
+        "compra": 252974,
+        "venta": 909563
       },
       "monto_moneda": {
         "compra": 26186306.4,
         "venta": 94108792.2
       },
-      "flujo_neto_nominal": -608241,
+      "flujo_neto_nominal": -656589,
       "dias_operado": 22,
       "dias_comprador": 5,
-      "dias_vendedor": 16,
+      "dias_vendedor": 17,
       "dias_neutro": 0,
       "poc_dominante_mes": 103.45,
       "poc_dominante_nominales": 378302,
@@ -16149,7 +16149,7 @@
         "max": 104.5
       },
       "variacion_mensual_pct": 0.73,
-      "poc_pct_promedio": 68.17
+      "poc_pct_promedio": 69.19
     },
     "XMC1D-CI": {
       "operaciones": {
@@ -16188,17 +16188,17 @@
       },
       "total_operaciones": 348,
       "volumen_nominal": {
-        "compra": 247247,
-        "venta": 116585
+        "compra": 268979,
+        "venta": 138838
       },
       "monto_moneda": {
         "compra": 42088147310.0,
         "venta": 21834986900.0
       },
-      "flujo_neto_nominal": 130662,
+      "flujo_neto_nominal": 130141,
       "dias_operado": 21,
       "dias_comprador": 9,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 1,
       "poc_dominante_mes": 156000.0,
       "poc_dominante_nominales": 140061,
@@ -16207,7 +16207,7 @@
         "max": 161360.0
       },
       "variacion_mensual_pct": -1.3,
-      "poc_pct_promedio": 72.0
+      "poc_pct_promedio": 70.93
     },
     "XMC1O-CI": {
       "operaciones": {
@@ -16246,16 +16246,16 @@
       },
       "total_operaciones": 22,
       "volumen_nominal": {
-        "compra": 94000,
+        "compra": 124000,
         "venta": 58000
       },
       "monto_moneda": {
         "compra": 13298600.0,
         "venta": 6192300.0
       },
-      "flujo_neto_nominal": 36000,
+      "flujo_neto_nominal": 66000,
       "dias_operado": 7,
-      "dias_comprador": 4,
+      "dias_comprador": 5,
       "dias_vendedor": 2,
       "dias_neutro": 15,
       "poc_dominante_mes": 107.0,
@@ -16265,7 +16265,7 @@
         "max": 110.0
       },
       "variacion_mensual_pct": -0.8,
-      "poc_pct_promedio": 80.37
+      "poc_pct_promedio": 78.41
     },
     "YCAMD-CI": {
       "operaciones": {
@@ -16362,17 +16362,17 @@
       },
       "total_operaciones": 450,
       "volumen_nominal": {
-        "compra": 74903,
-        "venta": 42010
+        "compra": 78747,
+        "venta": 65217
       },
       "monto_moneda": {
         "compra": 8209459.95,
         "venta": 6712216.2
       },
-      "flujo_neto_nominal": 32893,
+      "flujo_neto_nominal": 13530,
       "dias_operado": 21,
       "dias_comprador": 14,
-      "dias_vendedor": 6,
+      "dias_vendedor": 7,
       "dias_neutro": 1,
       "poc_dominante_mes": 103.0,
       "poc_dominante_nominales": 18278,
@@ -16381,7 +16381,7 @@
         "max": 107.2
       },
       "variacion_mensual_pct": 1.69,
-      "poc_pct_promedio": 55.02
+      "poc_pct_promedio": 54.16
     },
     "YFCGD-CI": {
       "operaciones": {
@@ -16420,17 +16420,17 @@
       },
       "total_operaciones": 401,
       "volumen_nominal": {
-        "compra": 22526,
-        "venta": 17076
+        "compra": 23449,
+        "venta": 19081
       },
       "monto_moneda": {
         "compra": 3712538060.0,
         "venta": 2986160090.0
       },
-      "flujo_neto_nominal": 5450,
+      "flujo_neto_nominal": 4368,
       "dias_operado": 22,
       "dias_comprador": 12,
-      "dias_vendedor": 8,
+      "dias_vendedor": 9,
       "dias_neutro": 1,
       "poc_dominante_mes": 156010.0,
       "poc_dominante_nominales": 3000,
@@ -16439,7 +16439,7 @@
         "max": 163980.0
       },
       "variacion_mensual_pct": -0.62,
-      "poc_pct_promedio": 54.83
+      "poc_pct_promedio": 53.85
     },
     "YFCGO-CI": {
       "operaciones": {
@@ -16478,17 +16478,17 @@
       },
       "total_operaciones": 153,
       "volumen_nominal": {
-        "compra": 25706,
-        "venta": 28492
+        "compra": 25922,
+        "venta": 41447
       },
       "monto_moneda": {
         "compra": 2713842.75,
         "venta": 4281977.65
       },
-      "flujo_neto_nominal": -2786,
+      "flujo_neto_nominal": -15525,
       "dias_operado": 20,
       "dias_comprador": 16,
-      "dias_vendedor": 3,
+      "dias_vendedor": 4,
       "dias_neutro": 2,
       "poc_dominante_mes": 103.9,
       "poc_dominante_nominales": 10011,
@@ -16497,7 +16497,7 @@
         "max": 107.0
       },
       "variacion_mensual_pct": 0.87,
-      "poc_pct_promedio": 74.83
+      "poc_pct_promedio": 72.44
     },
     "YFCID-CI": {
       "operaciones": {
@@ -16537,16 +16537,16 @@
       "total_operaciones": 117,
       "volumen_nominal": {
         "compra": 11135,
-        "venta": 3486
+        "venta": 6536
       },
       "monto_moneda": {
         "compra": 1787893470.0,
         "venta": 1007626460.0
       },
-      "flujo_neto_nominal": 7649,
+      "flujo_neto_nominal": 4599,
       "dias_operado": 20,
       "dias_comprador": 16,
-      "dias_vendedor": 3,
+      "dias_vendedor": 4,
       "dias_neutro": 2,
       "poc_dominante_mes": 153860.0,
       "poc_dominante_nominales": 3037,
@@ -16555,7 +16555,7 @@
         "max": 163920.0
       },
       "variacion_mensual_pct": 0.6,
-      "poc_pct_promedio": 77.49
+      "poc_pct_promedio": 78.53
     },
     "YFCIO-CI": {
       "operaciones": {
@@ -16710,16 +16710,16 @@
       },
       "total_operaciones": 194,
       "volumen_nominal": {
-        "compra": 79640,
-        "venta": 388748
+        "compra": 94891,
+        "venta": 390777
       },
       "monto_moneda": {
         "compra": 9720571.65,
         "venta": 39974013.2
       },
-      "flujo_neto_nominal": -309108,
+      "flujo_neto_nominal": -295886,
       "dias_operado": 22,
-      "dias_comprador": 11,
+      "dias_comprador": 12,
       "dias_vendedor": 10,
       "dias_neutro": 0,
       "poc_dominante_mes": 102.35,
@@ -16729,7 +16729,7 @@
         "max": 103.2
       },
       "variacion_mensual_pct": 0.49,
-      "poc_pct_promedio": 75.16
+      "poc_pct_promedio": 73.38
     },
     "YFCKD-CI": {
       "operaciones": {
@@ -16768,17 +16768,17 @@
       },
       "total_operaciones": 150,
       "volumen_nominal": {
-        "compra": 10526,
-        "venta": 63743
+        "compra": 13211,
+        "venta": 75120
       },
       "monto_moneda": {
         "compra": 2092046810.0,
         "venta": 11643695930.0
       },
-      "flujo_neto_nominal": -53217,
+      "flujo_neto_nominal": -61909,
       "dias_operado": 21,
       "dias_comprador": 13,
-      "dias_vendedor": 7,
+      "dias_vendedor": 8,
       "dias_neutro": 1,
       "poc_dominante_mes": 154940.0,
       "poc_dominante_nominales": 46078,
@@ -16787,7 +16787,7 @@
         "max": 163000.0
       },
       "variacion_mensual_pct": 2.39,
-      "poc_pct_promedio": 77.97
+      "poc_pct_promedio": 76.21
     },
     "YFCKO-CI": {
       "operaciones": {
@@ -16826,17 +16826,17 @@
       },
       "total_operaciones": 430,
       "volumen_nominal": {
-        "compra": 70714,
-        "venta": 82597
+        "compra": 71918,
+        "venta": 85923
       },
       "monto_moneda": {
         "compra": 7587437.45,
         "venta": 9000605.3
       },
-      "flujo_neto_nominal": -11883,
+      "flujo_neto_nominal": -14005,
       "dias_operado": 21,
       "dias_comprador": 12,
-      "dias_vendedor": 8,
+      "dias_vendedor": 9,
       "dias_neutro": 1,
       "poc_dominante_mes": 104.5,
       "poc_dominante_nominales": 43639,
@@ -16845,7 +16845,7 @@
         "max": 106.75
       },
       "variacion_mensual_pct": 0.71,
-      "poc_pct_promedio": 52.78
+      "poc_pct_promedio": 52.37
     },
     "YFCLD-CI": {
       "operaciones": {
@@ -16884,16 +16884,16 @@
       },
       "total_operaciones": 531,
       "volumen_nominal": {
-        "compra": 76161,
-        "venta": 141582
+        "compra": 90599,
+        "venta": 143148
       },
       "monto_moneda": {
         "compra": 14484939880.0,
         "venta": 22782203820.0
       },
-      "flujo_neto_nominal": -65421,
+      "flujo_neto_nominal": -52549,
       "dias_operado": 21,
-      "dias_comprador": 12,
+      "dias_comprador": 13,
       "dias_vendedor": 8,
       "dias_neutro": 1,
       "poc_dominante_mes": 159140.0,
@@ -16903,7 +16903,7 @@
         "max": 164860.0
       },
       "variacion_mensual_pct": 2.81,
-      "poc_pct_promedio": 51.81
+      "poc_pct_promedio": 52.06
     },
     "YFCLO-CI": {
       "operaciones": {
@@ -16942,17 +16942,17 @@
       },
       "total_operaciones": 339,
       "volumen_nominal": {
-        "compra": 587500,
-        "venta": 207572
+        "compra": 587609,
+        "venta": 208524
       },
       "monto_moneda": {
         "compra": 61243165.3,
         "venta": 21629454.3
       },
-      "flujo_neto_nominal": 379928,
+      "flujo_neto_nominal": 379085,
       "dias_operado": 22,
       "dias_comprador": 5,
-      "dias_vendedor": 16,
+      "dias_vendedor": 17,
       "dias_neutro": 0,
       "poc_dominante_mes": 104.25,
       "poc_dominante_nominales": 502817,
@@ -16961,7 +16961,7 @@
         "max": 105.0
       },
       "variacion_mensual_pct": 0.58,
-      "poc_pct_promedio": 65.97
+      "poc_pct_promedio": 67.05
     },
     "YFCMD-CI": {
       "operaciones": {
@@ -17000,17 +17000,17 @@
       },
       "total_operaciones": 246,
       "volumen_nominal": {
-        "compra": 45074,
-        "venta": 111092
+        "compra": 45082,
+        "venta": 141092
       },
       "monto_moneda": {
         "compra": 7134116600.0,
         "venta": 22206060400.0
       },
-      "flujo_neto_nominal": -66018,
+      "flujo_neto_nominal": -96010,
       "dias_operado": 22,
       "dias_comprador": 10,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 0,
       "poc_dominante_mes": 157680.0,
       "poc_dominante_nominales": 38052,
@@ -17019,7 +17019,7 @@
         "max": 162000.0
       },
       "variacion_mensual_pct": -0.99,
-      "poc_pct_promedio": 57.49
+      "poc_pct_promedio": 59.42
     },
     "YFCMO-CI": {
       "operaciones": {
@@ -17058,17 +17058,17 @@
       },
       "total_operaciones": 412,
       "volumen_nominal": {
-        "compra": 153902,
-        "venta": 502532
+        "compra": 165119,
+        "venta": 539456
       },
       "monto_moneda": {
         "compra": 17023704.5,
         "venta": 55247952.7
       },
-      "flujo_neto_nominal": -348630,
+      "flujo_neto_nominal": -374337,
       "dias_operado": 22,
       "dias_comprador": 6,
-      "dias_vendedor": 15,
+      "dias_vendedor": 16,
       "dias_neutro": 0,
       "poc_dominante_mes": 101.85,
       "poc_dominante_nominales": 156572,
@@ -17077,7 +17077,7 @@
         "max": 104.0
       },
       "variacion_mensual_pct": -0.29,
-      "poc_pct_promedio": 65.33
+      "poc_pct_promedio": 64.23
     },
     "YFCND-CI": {
       "operaciones": {
@@ -17116,16 +17116,16 @@
       },
       "total_operaciones": 340,
       "volumen_nominal": {
-        "compra": 163635,
-        "venta": 304366
+        "compra": 164929,
+        "venta": 305323
       },
       "monto_moneda": {
         "compra": 25743499480.0,
         "venta": 47586912280.0
       },
-      "flujo_neto_nominal": -140731,
+      "flujo_neto_nominal": -140394,
       "dias_operado": 22,
-      "dias_comprador": 11,
+      "dias_comprador": 12,
       "dias_vendedor": 10,
       "dias_neutro": 0,
       "poc_dominante_mes": 155800.0,
@@ -17135,7 +17135,7 @@
         "max": 159660.0
       },
       "variacion_mensual_pct": -0.57,
-      "poc_pct_promedio": 69.69
+      "poc_pct_promedio": 68.17
     },
     "YFCNO-CI": {
       "operaciones": {
@@ -17174,17 +17174,17 @@
       },
       "total_operaciones": 256,
       "volumen_nominal": {
-        "compra": 120353,
-        "venta": 432066
+        "compra": 127818,
+        "venta": 456887
       },
       "monto_moneda": {
         "compra": 13834418.75,
         "venta": 49176885.4
       },
-      "flujo_neto_nominal": -311713,
+      "flujo_neto_nominal": -329069,
       "dias_operado": 22,
       "dias_comprador": 8,
-      "dias_vendedor": 12,
+      "dias_vendedor": 13,
       "dias_neutro": 1,
       "poc_dominante_mes": 107.6,
       "poc_dominante_nominales": 170764,
@@ -17193,7 +17193,7 @@
         "max": 112.05
       },
       "variacion_mensual_pct": 0.79,
-      "poc_pct_promedio": 68.81
+      "poc_pct_promedio": 69.12
     },
     "YFCOD-CI": {
       "operaciones": {
@@ -17232,17 +17232,17 @@
       },
       "total_operaciones": 220,
       "volumen_nominal": {
-        "compra": 95889,
-        "venta": 78292
+        "compra": 97645,
+        "venta": 103489
       },
       "monto_moneda": {
         "compra": 16032513750.0,
         "venta": 16897055470.0
       },
-      "flujo_neto_nominal": 17597,
+      "flujo_neto_nominal": -5844,
       "dias_operado": 22,
       "dias_comprador": 12,
-      "dias_vendedor": 9,
+      "dias_vendedor": 10,
       "dias_neutro": 0,
       "poc_dominante_mes": 163500.0,
       "poc_dominante_nominales": 38713,
@@ -17251,7 +17251,7 @@
         "max": 167700.0
       },
       "variacion_mensual_pct": -1.22,
-      "poc_pct_promedio": 60.6
+      "poc_pct_promedio": 59.92
     },
     "YFCOO-CI": {
       "operaciones": {
@@ -17406,17 +17406,17 @@
       },
       "total_operaciones": 1472,
       "volumen_nominal": {
-        "compra": 1694668,
-        "venta": 1752421
+        "compra": 1696801,
+        "venta": 1757545
       },
       "monto_moneda": {
         "compra": 174471463.4,
         "venta": 180971527.55
       },
-      "flujo_neto_nominal": -57753,
+      "flujo_neto_nominal": -60744,
       "dias_operado": 22,
       "dias_comprador": 9,
-      "dias_vendedor": 12,
+      "dias_vendedor": 13,
       "dias_neutro": 0,
       "poc_dominante_mes": 103.1,
       "poc_dominante_nominales": 701645,
@@ -17425,7 +17425,7 @@
         "max": 105.4
       },
       "variacion_mensual_pct": 0.05,
-      "poc_pct_promedio": 55.04
+      "poc_pct_promedio": 55.38
     },
     "YM35D-CI": {
       "operaciones": {
@@ -17464,17 +17464,17 @@
       },
       "total_operaciones": 1306,
       "volumen_nominal": {
-        "compra": 445386,
-        "venta": 562243
+        "compra": 445607,
+        "venta": 563070
       },
       "monto_moneda": {
         "compra": 69638813900.0,
         "venta": 88022495960.0
       },
-      "flujo_neto_nominal": -116857,
+      "flujo_neto_nominal": -117463,
       "dias_operado": 22,
       "dias_comprador": 8,
-      "dias_vendedor": 13,
+      "dias_vendedor": 14,
       "dias_neutro": 0,
       "poc_dominante_mes": 155570.0,
       "poc_dominante_nominales": 130000,
@@ -17483,7 +17483,7 @@
         "max": 160300.0
       },
       "variacion_mensual_pct": 0.23,
-      "poc_pct_promedio": 50.33
+      "poc_pct_promedio": 49.73
     },
     "YM35O-CI": {
       "operaciones": {
@@ -17494,16 +17494,16 @@
       "total_operaciones": 104,
       "volumen_nominal": {
         "compra": 26754,
-        "venta": 2781
+        "venta": 3056
       },
       "monto_moneda": {
         "compra": 4180762010.0,
         "venta": 474677280.0
       },
-      "flujo_neto_nominal": 23973,
+      "flujo_neto_nominal": 23698,
       "dias_operado": 21,
       "dias_comprador": 15,
-      "dias_vendedor": 5,
+      "dias_vendedor": 6,
       "dias_neutro": 1,
       "poc_dominante_mes": 157050.0,
       "poc_dominante_nominales": 17788,
@@ -17512,7 +17512,7 @@
         "max": 163980.0
       },
       "variacion_mensual_pct": -4.53,
-      "poc_pct_promedio": 85.05
+      "poc_pct_promedio": 85.76
     },
     "YM37D-24hs": {
       "operaciones": {
@@ -17522,17 +17522,17 @@
       },
       "total_operaciones": 2653,
       "volumen_nominal": {
-        "compra": 1262870,
-        "venta": 1289184
+        "compra": 1275149,
+        "venta": 1371444
       },
       "monto_moneda": {
         "compra": 133155655.35,
         "venta": 142589612.6
       },
-      "flujo_neto_nominal": -26314,
+      "flujo_neto_nominal": -96295,
       "dias_operado": 22,
       "dias_comprador": 10,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 0,
       "poc_dominante_mes": 103.9,
       "poc_dominante_nominales": 344756,
@@ -17541,7 +17541,7 @@
         "max": 106.0
       },
       "variacion_mensual_pct": 0.77,
-      "poc_pct_promedio": 54.02
+      "poc_pct_promedio": 53.64
     },
     "YM37D-CI": {
       "operaciones": {
@@ -17580,16 +17580,16 @@
       },
       "total_operaciones": 2951,
       "volumen_nominal": {
-        "compra": 766571,
-        "venta": 1631559
+        "compra": 880868,
+        "venta": 1650904
       },
       "monto_moneda": {
         "compra": 139520513140.0,
         "venta": 262602200640.0
       },
-      "flujo_neto_nominal": -864988,
+      "flujo_neto_nominal": -770036,
       "dias_operado": 22,
-      "dias_comprador": 5,
+      "dias_comprador": 6,
       "dias_vendedor": 16,
       "dias_neutro": 0,
       "poc_dominante_mes": 157600.0,
@@ -17599,7 +17599,7 @@
         "max": 163000.0
       },
       "variacion_mensual_pct": 0.1,
-      "poc_pct_promedio": 45.8
+      "poc_pct_promedio": 45.06
     },
     "YM37O-CI": {
       "operaciones": {
@@ -17610,16 +17610,16 @@
       "total_operaciones": 231,
       "volumen_nominal": {
         "compra": 34074,
-        "venta": 58948
+        "venta": 59088
       },
       "monto_moneda": {
         "compra": 5428693500.0,
         "venta": 9352129310.0
       },
-      "flujo_neto_nominal": -24874,
+      "flujo_neto_nominal": -25014,
       "dias_operado": 20,
       "dias_comprador": 7,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 3,
       "poc_dominante_mes": 157380.0,
       "poc_dominante_nominales": 11981,
@@ -17628,7 +17628,7 @@
         "max": 163000.0
       },
       "variacion_mensual_pct": 1.33,
-      "poc_pct_promedio": 68.58
+      "poc_pct_promedio": 70.05
     },
     "YM38D-24hs": {
       "operaciones": {
@@ -17638,17 +17638,17 @@
       },
       "total_operaciones": 1848,
       "volumen_nominal": {
-        "compra": 824624,
-        "venta": 1647641
+        "compra": 846305,
+        "venta": 1732304
       },
       "monto_moneda": {
         "compra": 88691113.3,
         "venta": 181335812.9
       },
-      "flujo_neto_nominal": -823017,
+      "flujo_neto_nominal": -885999,
       "dias_operado": 22,
       "dias_comprador": 7,
-      "dias_vendedor": 14,
+      "dias_vendedor": 15,
       "dias_neutro": 0,
       "poc_dominante_mes": 105.4,
       "poc_dominante_nominales": 313891,
@@ -17657,7 +17657,7 @@
         "max": 108.0
       },
       "variacion_mensual_pct": -1.14,
-      "poc_pct_promedio": 44.91
+      "poc_pct_promedio": 44.71
     },
     "YM38D-CI": {
       "operaciones": {
@@ -17667,17 +17667,17 @@
       },
       "total_operaciones": 260,
       "volumen_nominal": {
-        "compra": 235213,
-        "venta": 188725
+        "compra": 235678,
+        "venta": 189625
       },
       "monto_moneda": {
         "compra": 24620028.5,
         "venta": 19815990.0
       },
-      "flujo_neto_nominal": 46488,
+      "flujo_neto_nominal": 46053,
       "dias_operado": 20,
       "dias_comprador": 9,
-      "dias_vendedor": 8,
+      "dias_vendedor": 9,
       "dias_neutro": 4,
       "poc_dominante_mes": 104.3,
       "poc_dominante_nominales": 234452,
@@ -17686,7 +17686,7 @@
         "max": 107.0
       },
       "variacion_mensual_pct": -1.33,
-      "poc_pct_promedio": 81.47
+      "poc_pct_promedio": 80.7
     },
     "YM38O-24hs": {
       "operaciones": {
@@ -17696,17 +17696,17 @@
       },
       "total_operaciones": 1862,
       "volumen_nominal": {
-        "compra": 931462,
-        "venta": 1409685
+        "compra": 969946,
+        "venta": 1469491
       },
       "monto_moneda": {
         "compra": 154445195620.0,
         "venta": 233698976390.0
       },
-      "flujo_neto_nominal": -478223,
+      "flujo_neto_nominal": -499545,
       "dias_operado": 22,
       "dias_comprador": 8,
-      "dias_vendedor": 13,
+      "dias_vendedor": 14,
       "dias_neutro": 0,
       "poc_dominante_mes": 159000.0,
       "poc_dominante_nominales": 242779,
@@ -17715,7 +17715,7 @@
         "max": 165000.0
       },
       "variacion_mensual_pct": -1.73,
-      "poc_pct_promedio": 42.23
+      "poc_pct_promedio": 42.05
     },
     "YM38O-CI": {
       "operaciones": {
@@ -17725,16 +17725,16 @@
       },
       "total_operaciones": 169,
       "volumen_nominal": {
-        "compra": 24793,
-        "venta": 11198
+        "compra": 29082,
+        "venta": 14367
       },
       "monto_moneda": {
         "compra": 4676152100.0,
         "venta": 2275428140.0
       },
-      "flujo_neto_nominal": 13595,
+      "flujo_neto_nominal": 14715,
       "dias_operado": 19,
-      "dias_comprador": 16,
+      "dias_comprador": 17,
       "dias_vendedor": 2,
       "dias_neutro": 3,
       "poc_dominante_mes": 156350.0,
@@ -17744,7 +17744,7 @@
         "max": 166740.0
       },
       "variacion_mensual_pct": 0.62,
-      "poc_pct_promedio": 70.89
+      "poc_pct_promedio": 68.61
     },
     "YM39D-24hs": {
       "operaciones": {
@@ -17754,16 +17754,16 @@
       },
       "total_operaciones": 4350,
       "volumen_nominal": {
-        "compra": 6002352,
-        "venta": 3012528
+        "compra": 6222451,
+        "venta": 3133653
       },
       "monto_moneda": {
         "compra": 705604949.5,
         "venta": 355518799.55
       },
-      "flujo_neto_nominal": 2989824,
+      "flujo_neto_nominal": 3088798,
       "dias_operado": 22,
-      "dias_comprador": 15,
+      "dias_comprador": 16,
       "dias_vendedor": 6,
       "dias_neutro": 0,
       "poc_dominante_mes": 112.6,
@@ -17773,7 +17773,7 @@
         "max": 117.35
       },
       "variacion_mensual_pct": -1.62,
-      "poc_pct_promedio": 38.98
+      "poc_pct_promedio": 39.07
     },
     "YM39D-CI": {
       "operaciones": {
@@ -17783,16 +17783,16 @@
       },
       "total_operaciones": 235,
       "volumen_nominal": {
-        "compra": 72008,
-        "venta": 37889
+        "compra": 1582136,
+        "venta": 128238
       },
       "monto_moneda": {
         "compra": 183722521.35,
         "venta": 14738098.15
       },
-      "flujo_neto_nominal": 34119,
+      "flujo_neto_nominal": 1453898,
       "dias_operado": 21,
-      "dias_comprador": 14,
+      "dias_comprador": 15,
       "dias_vendedor": 6,
       "dias_neutro": 1,
       "poc_dominante_mes": 116.25,
@@ -17802,7 +17802,7 @@
         "max": 118.5
       },
       "variacion_mensual_pct": -2.76,
-      "poc_pct_promedio": 60.15
+      "poc_pct_promedio": 61.75
     },
     "YM39O-24hs": {
       "operaciones": {
@@ -17812,16 +17812,16 @@
       },
       "total_operaciones": 4443,
       "volumen_nominal": {
-        "compra": 1356593,
-        "venta": 1506569
+        "compra": 1446562,
+        "venta": 1595148
       },
       "monto_moneda": {
         "compra": 250014933250.0,
         "venta": 275555389490.0
       },
-      "flujo_neto_nominal": -149976,
+      "flujo_neto_nominal": -148586,
       "dias_operado": 22,
-      "dias_comprador": 11,
+      "dias_comprador": 12,
       "dias_vendedor": 10,
       "dias_neutro": 0,
       "poc_dominante_mes": 170000.0,
@@ -17831,7 +17831,7 @@
         "max": 183890.0
       },
       "variacion_mensual_pct": -2.13,
-      "poc_pct_promedio": 25.65
+      "poc_pct_promedio": 25.18
     },
     "YM39O-CI": {
       "operaciones": {
@@ -17841,17 +17841,17 @@
       },
       "total_operaciones": 392,
       "volumen_nominal": {
-        "compra": 83660,
-        "venta": 65013
+        "compra": 83717,
+        "venta": 109490
       },
       "monto_moneda": {
         "compra": 14512728570.0,
         "venta": 18958081970.0
       },
-      "flujo_neto_nominal": 18647,
+      "flujo_neto_nominal": -25773,
       "dias_operado": 21,
       "dias_comprador": 12,
-      "dias_vendedor": 8,
+      "dias_vendedor": 9,
       "dias_neutro": 1,
       "poc_dominante_mes": 174000.0,
       "poc_dominante_nominales": 39420,
@@ -17860,7 +17860,7 @@
         "max": 179500.0
       },
       "variacion_mensual_pct": -4.14,
-      "poc_pct_promedio": 50.25
+      "poc_pct_promedio": 51.92
     },
     "YM40D-24hs": {
       "operaciones": {
@@ -17870,16 +17870,16 @@
       },
       "total_operaciones": 515,
       "volumen_nominal": {
-        "compra": 196041,
-        "venta": 448995
+        "compra": 217125,
+        "venta": 456081
       },
       "monto_moneda": {
         "compra": 23137525.0,
         "venta": 48343009.2
       },
-      "flujo_neto_nominal": -252954,
+      "flujo_neto_nominal": -238956,
       "dias_operado": 22,
-      "dias_comprador": 6,
+      "dias_comprador": 7,
       "dias_vendedor": 15,
       "dias_neutro": 0,
       "poc_dominante_mes": 106.05,
@@ -17889,7 +17889,7 @@
         "max": 108.0
       },
       "variacion_mensual_pct": 1.62,
-      "poc_pct_promedio": 61.02
+      "poc_pct_promedio": 60.01
     },
     "YM40D-CI": {
       "operaciones": {
@@ -17899,16 +17899,16 @@
       },
       "total_operaciones": 44,
       "volumen_nominal": {
-        "compra": 31962,
-        "venta": 14501
+        "compra": 34800,
+        "venta": 14941
       },
       "monto_moneda": {
         "compra": 3689221.8,
         "venta": 1574569.05
       },
-      "flujo_neto_nominal": 17461,
+      "flujo_neto_nominal": 19859,
       "dias_operado": 9,
-      "dias_comprador": 5,
+      "dias_comprador": 6,
       "dias_vendedor": 3,
       "dias_neutro": 13,
       "poc_dominante_mes": 105.5,
@@ -17918,7 +17918,7 @@
         "max": 107.5
       },
       "variacion_mensual_pct": 2.63,
-      "poc_pct_promedio": 87.46
+      "poc_pct_promedio": 87.36
     },
     "YM40O-24hs": {
       "operaciones": {
@@ -17928,17 +17928,17 @@
       },
       "total_operaciones": 429,
       "volumen_nominal": {
-        "compra": 119062,
-        "venta": 122782
+        "compra": 137727,
+        "venta": 145145
       },
       "monto_moneda": {
         "compra": 22237154950.0,
         "venta": 23372454260.0
       },
-      "flujo_neto_nominal": -3720,
+      "flujo_neto_nominal": -7418,
       "dias_operado": 22,
       "dias_comprador": 10,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 0,
       "poc_dominante_mes": 161000.0,
       "poc_dominante_nominales": 30219,
@@ -17947,7 +17947,7 @@
         "max": 165000.0
       },
       "variacion_mensual_pct": 0.19,
-      "poc_pct_promedio": 51.09
+      "poc_pct_promedio": 49.77
     },
     "YM40O-CI": {
       "operaciones": {
@@ -17986,16 +17986,16 @@
       },
       "total_operaciones": 668,
       "volumen_nominal": {
-        "compra": 230385,
-        "venta": 430117
+        "compra": 233025,
+        "venta": 431881
       },
       "monto_moneda": {
         "compra": 23758055.95,
         "venta": 43870839.9
       },
-      "flujo_neto_nominal": -199732,
+      "flujo_neto_nominal": -198856,
       "dias_operado": 22,
-      "dias_comprador": 7,
+      "dias_comprador": 8,
       "dias_vendedor": 14,
       "dias_neutro": 0,
       "poc_dominante_mes": 101.6,
@@ -18005,7 +18005,7 @@
         "max": 103.6
       },
       "variacion_mensual_pct": -1.7,
-      "poc_pct_promedio": 54.47
+      "poc_pct_promedio": 54.26
     },
     "YM41D-CI": {
       "operaciones": {
@@ -18044,17 +18044,17 @@
       },
       "total_operaciones": 524,
       "volumen_nominal": {
-        "compra": 233071,
-        "venta": 232109
+        "compra": 233359,
+        "venta": 243857
       },
       "monto_moneda": {
         "compra": 36020261010.0,
         "venta": 37632640990.0
       },
-      "flujo_neto_nominal": 962,
+      "flujo_neto_nominal": -10498,
       "dias_operado": 22,
       "dias_comprador": 10,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 0,
       "poc_dominante_mes": 154600.0,
       "poc_dominante_nominales": 141707,
@@ -18063,7 +18063,7 @@
         "max": 161380.0
       },
       "variacion_mensual_pct": -2.03,
-      "poc_pct_promedio": 55.53
+      "poc_pct_promedio": 56.72
     },
     "YM41O-CI": {
       "operaciones": {
@@ -18073,17 +18073,17 @@
       },
       "total_operaciones": 41,
       "volumen_nominal": {
-        "compra": 4260,
-        "venta": 2808
+        "compra": 4261,
+        "venta": 2878
       },
       "monto_moneda": {
         "compra": 679648550.0,
         "venta": 437809920.0
       },
-      "flujo_neto_nominal": 1452,
+      "flujo_neto_nominal": 1383,
       "dias_operado": 16,
       "dias_comprador": 11,
-      "dias_vendedor": 4,
+      "dias_vendedor": 5,
       "dias_neutro": 6,
       "poc_dominante_mes": 160010.0,
       "poc_dominante_nominales": 3253,
@@ -18092,7 +18092,7 @@
         "max": 162300.0
       },
       "variacion_mensual_pct": 2.08,
-      "poc_pct_promedio": 99.04
+      "poc_pct_promedio": 98.84
     },
     "YM42D-24hs": {
       "operaciones": {
@@ -18102,17 +18102,17 @@
       },
       "total_operaciones": 2472,
       "volumen_nominal": {
-        "compra": 2259311,
-        "venta": 4019347
+        "compra": 2294903,
+        "venta": 4234132
       },
       "monto_moneda": {
         "compra": 242934369.9,
         "venta": 447499731.05
       },
-      "flujo_neto_nominal": -1760036,
+      "flujo_neto_nominal": -1939229,
       "dias_operado": 22,
       "dias_comprador": 8,
-      "dias_vendedor": 13,
+      "dias_vendedor": 14,
       "dias_neutro": 0,
       "poc_dominante_mes": 105.65,
       "poc_dominante_nominales": 1162584,
@@ -18121,7 +18121,7 @@
         "max": 109.6
       },
       "variacion_mensual_pct": 0.43,
-      "poc_pct_promedio": 49.02
+      "poc_pct_promedio": 48.23
     },
     "YM42D-CI": {
       "operaciones": {
@@ -18132,16 +18132,16 @@
       "total_operaciones": 134,
       "volumen_nominal": {
         "compra": 52671,
-        "venta": 133726
+        "venta": 134224
       },
       "monto_moneda": {
         "compra": 5576231.4,
         "venta": 14124306.05
       },
-      "flujo_neto_nominal": -81055,
+      "flujo_neto_nominal": -81553,
       "dias_operado": 18,
       "dias_comprador": 5,
-      "dias_vendedor": 12,
+      "dias_vendedor": 13,
       "dias_neutro": 4,
       "poc_dominante_mes": 105.2,
       "poc_dominante_nominales": 30000,
@@ -18150,7 +18150,7 @@
         "max": 108.9
       },
       "variacion_mensual_pct": 0.48,
-      "poc_pct_promedio": 79.57
+      "poc_pct_promedio": 78.48
     },
     "YM42O-24hs": {
       "operaciones": {
@@ -18160,17 +18160,17 @@
       },
       "total_operaciones": 1992,
       "volumen_nominal": {
-        "compra": 1089993,
-        "venta": 938732
+        "compra": 1118221,
+        "venta": 1088243
       },
       "monto_moneda": {
         "compra": 180309391510.0,
         "venta": 174916452190.0
       },
-      "flujo_neto_nominal": 151261,
+      "flujo_neto_nominal": 29978,
       "dias_operado": 22,
       "dias_comprador": 11,
-      "dias_vendedor": 10,
+      "dias_vendedor": 11,
       "dias_neutro": 0,
       "poc_dominante_mes": 162170.0,
       "poc_dominante_nominales": 94168,
@@ -18179,7 +18179,7 @@
         "max": 167000.0
       },
       "variacion_mensual_pct": -1.26,
-      "poc_pct_promedio": 34.05
+      "poc_pct_promedio": 34.85
     },
     "YM42O-CI": {
       "operaciones": {
@@ -18189,17 +18189,17 @@
       },
       "total_operaciones": 247,
       "volumen_nominal": {
-        "compra": 51314,
-        "venta": 60802
+        "compra": 51316,
+        "venta": 60808
       },
       "monto_moneda": {
         "compra": 8251942410.0,
         "venta": 9787061940.0
       },
-      "flujo_neto_nominal": -9488,
+      "flujo_neto_nominal": -9492,
       "dias_operado": 19,
       "dias_comprador": 7,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 3,
       "poc_dominante_mes": 161630.0,
       "poc_dominante_nominales": 19941,
@@ -18208,7 +18208,7 @@
         "max": 165490.0
       },
       "variacion_mensual_pct": -0.89,
-      "poc_pct_promedio": 71.12
+      "poc_pct_promedio": 70.01
     },
     "YMCID-24hs": {
       "operaciones": {
@@ -18218,16 +18218,16 @@
       },
       "total_operaciones": 6304,
       "volumen_nominal": {
-        "compra": 2116590,
-        "venta": 1848481
+        "compra": 2305848,
+        "venta": 1988654
       },
       "monto_moneda": {
         "compra": 214812497.19,
         "venta": 185177183.25
       },
-      "flujo_neto_nominal": 268109,
+      "flujo_neto_nominal": 317194,
       "dias_operado": 22,
-      "dias_comprador": 13,
+      "dias_comprador": 14,
       "dias_vendedor": 8,
       "dias_neutro": 0,
       "poc_dominante_mes": 93.0,
@@ -18237,7 +18237,7 @@
         "max": 95.4
       },
       "variacion_mensual_pct": 1.14,
-      "poc_pct_promedio": 21.62
+      "poc_pct_promedio": 23.18
     },
     "YMCID-CI": {
       "operaciones": {
@@ -18247,17 +18247,17 @@
       },
       "total_operaciones": 735,
       "volumen_nominal": {
-        "compra": 153336,
-        "venta": 157336
+        "compra": 154445,
+        "venta": 159562
       },
       "monto_moneda": {
         "compra": 14394634.91,
         "venta": 14838296.83
       },
-      "flujo_neto_nominal": -4000,
+      "flujo_neto_nominal": -5117,
       "dias_operado": 21,
       "dias_comprador": 12,
-      "dias_vendedor": 8,
+      "dias_vendedor": 9,
       "dias_neutro": 1,
       "poc_dominante_mes": 93.1,
       "poc_dominante_nominales": 59761,
@@ -18266,7 +18266,7 @@
         "max": 95.5
       },
       "variacion_mensual_pct": 1.42,
-      "poc_pct_promedio": 48.69
+      "poc_pct_promedio": 48.13
     },
     "YMCIO-24hs": {
       "operaciones": {
@@ -18276,16 +18276,16 @@
       },
       "total_operaciones": 10075,
       "volumen_nominal": {
-        "compra": 2759875,
-        "venta": 2299903
+        "compra": 2870346,
+        "venta": 2368007
       },
       "monto_moneda": {
         "compra": 406095979020.0,
         "venta": 334948933060.0
       },
-      "flujo_neto_nominal": 459972,
+      "flujo_neto_nominal": 502339,
       "dias_operado": 22,
-      "dias_comprador": 12,
+      "dias_comprador": 13,
       "dias_vendedor": 9,
       "dias_neutro": 0,
       "poc_dominante_mes": 142090.0,
@@ -18295,7 +18295,7 @@
         "max": 145000.0
       },
       "variacion_mensual_pct": 1.02,
-      "poc_pct_promedio": 19.22
+      "poc_pct_promedio": 18.88
     },
     "YMCIO-CI": {
       "operaciones": {
@@ -18305,17 +18305,17 @@
       },
       "total_operaciones": 1453,
       "volumen_nominal": {
-        "compra": 258486,
-        "venta": 322797
+        "compra": 261565,
+        "venta": 332842
       },
       "monto_moneda": {
         "compra": 36999204710.0,
         "venta": 47023895610.0
       },
-      "flujo_neto_nominal": -64311,
+      "flujo_neto_nominal": -71277,
       "dias_operado": 21,
       "dias_comprador": 9,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 1,
       "poc_dominante_mes": 143120.0,
       "poc_dominante_nominales": 46090,
@@ -18324,7 +18324,7 @@
         "max": 146000.0
       },
       "variacion_mensual_pct": 1.14,
-      "poc_pct_promedio": 36.65
+      "poc_pct_promedio": 37.0
     },
     "YMCJD-24hs": {
       "operaciones": {
@@ -18334,17 +18334,17 @@
       },
       "total_operaciones": 4560,
       "volumen_nominal": {
-        "compra": 1637779,
-        "venta": 1575303
+        "compra": 1646248,
+        "venta": 1712090
       },
       "monto_moneda": {
         "compra": 177763433.6,
         "venta": 184651599.1
       },
-      "flujo_neto_nominal": 62476,
+      "flujo_neto_nominal": -65842,
       "dias_operado": 22,
       "dias_comprador": 11,
-      "dias_vendedor": 10,
+      "dias_vendedor": 11,
       "dias_neutro": 0,
       "poc_dominante_mes": 108.6,
       "poc_dominante_nominales": 257852,
@@ -18353,7 +18353,7 @@
         "max": 109.75
       },
       "variacion_mensual_pct": 0.47,
-      "poc_pct_promedio": 29.14
+      "poc_pct_promedio": 29.6
     },
     "YMCJD-CI": {
       "operaciones": {
@@ -18363,17 +18363,17 @@
       },
       "total_operaciones": 506,
       "volumen_nominal": {
-        "compra": 85729,
-        "venta": 144498
+        "compra": 86750,
+        "venta": 154808
       },
       "monto_moneda": {
         "compra": 9352026.45,
         "venta": 16623827.6
       },
-      "flujo_neto_nominal": -58769,
+      "flujo_neto_nominal": -68058,
       "dias_operado": 21,
       "dias_comprador": 8,
-      "dias_vendedor": 12,
+      "dias_vendedor": 13,
       "dias_neutro": 1,
       "poc_dominante_mes": 106.6,
       "poc_dominante_nominales": 48948,
@@ -18382,7 +18382,7 @@
         "max": 109.25
       },
       "variacion_mensual_pct": 0.33,
-      "poc_pct_promedio": 56.06
+      "poc_pct_promedio": 56.6
     },
     "YMCJO-24hs": {
       "operaciones": {
@@ -18392,17 +18392,17 @@
       },
       "total_operaciones": 7834,
       "volumen_nominal": {
-        "compra": 1583835,
-        "venta": 1497453
+        "compra": 1607146,
+        "venta": 1551953
       },
       "monto_moneda": {
         "compra": 263461919280.0,
         "venta": 254272111100.0
       },
-      "flujo_neto_nominal": 86382,
+      "flujo_neto_nominal": 55193,
       "dias_operado": 22,
       "dias_comprador": 11,
-      "dias_vendedor": 10,
+      "dias_vendedor": 11,
       "dias_neutro": 0,
       "poc_dominante_mes": 162200.0,
       "poc_dominante_nominales": 112719,
@@ -18411,7 +18411,7 @@
         "max": 168580.0
       },
       "variacion_mensual_pct": -0.1,
-      "poc_pct_promedio": 24.17
+      "poc_pct_promedio": 23.61
     },
     "YMCJO-CI": {
       "operaciones": {
@@ -18421,17 +18421,17 @@
       },
       "total_operaciones": 1470,
       "volumen_nominal": {
-        "compra": 156289,
-        "venta": 155457
+        "compra": 156745,
+        "venta": 161608
       },
       "monto_moneda": {
         "compra": 25697483320.0,
         "venta": 26449422850.0
       },
-      "flujo_neto_nominal": 832,
+      "flujo_neto_nominal": -4863,
       "dias_operado": 21,
       "dias_comprador": 8,
-      "dias_vendedor": 12,
+      "dias_vendedor": 13,
       "dias_neutro": 1,
       "poc_dominante_mes": 163640.0,
       "poc_dominante_nominales": 27177,
@@ -18440,7 +18440,7 @@
         "max": 169000.0
       },
       "variacion_mensual_pct": -0.1,
-      "poc_pct_promedio": 25.33
+      "poc_pct_promedio": 24.89
     },
     "YMCXD-24hs": {
       "operaciones": {
@@ -18566,16 +18566,16 @@
       },
       "total_operaciones": 1705,
       "volumen_nominal": {
-        "compra": 563805,
-        "venta": 499581
+        "compra": 603954,
+        "venta": 511413
       },
       "monto_moneda": {
         "compra": 63023893.95,
         "venta": 53286785.4
       },
-      "flujo_neto_nominal": 64224,
+      "flujo_neto_nominal": 92541,
       "dias_operado": 22,
-      "dias_comprador": 11,
+      "dias_comprador": 12,
       "dias_vendedor": 10,
       "dias_neutro": 0,
       "poc_dominante_mes": 104.05,
@@ -18585,7 +18585,7 @@
         "max": 108.1
       },
       "variacion_mensual_pct": 0.1,
-      "poc_pct_promedio": 35.56
+      "poc_pct_promedio": 35.03
     },
     "YMCYD-CI": {
       "operaciones": {
@@ -18624,16 +18624,16 @@
       },
       "total_operaciones": 1238,
       "volumen_nominal": {
-        "compra": 358829,
-        "venta": 895471
+        "compra": 380523,
+        "venta": 902924
       },
       "monto_moneda": {
         "compra": 60427249170.0,
         "venta": 143383887040.0
       },
-      "flujo_neto_nominal": -536642,
+      "flujo_neto_nominal": -522401,
       "dias_operado": 22,
-      "dias_comprador": 14,
+      "dias_comprador": 15,
       "dias_vendedor": 7,
       "dias_neutro": 0,
       "poc_dominante_mes": 159270.0,
@@ -18643,7 +18643,7 @@
         "max": 165110.0
       },
       "variacion_mensual_pct": -1.86,
-      "poc_pct_promedio": 40.65
+      "poc_pct_promedio": 41.04
     },
     "YMCYO-CI": {
       "operaciones": {
@@ -18653,17 +18653,17 @@
       },
       "total_operaciones": 124,
       "volumen_nominal": {
-        "compra": 26160,
-        "venta": 14988
+        "compra": 26164,
+        "venta": 15084
       },
       "monto_moneda": {
         "compra": 4200525000.0,
         "venta": 2411942700.0
       },
-      "flujo_neto_nominal": 11172,
+      "flujo_neto_nominal": 11080,
       "dias_operado": 20,
       "dias_comprador": 8,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 2,
       "poc_dominante_mes": 159300.0,
       "poc_dominante_nominales": 10126,
@@ -18672,7 +18672,7 @@
         "max": 164500.0
       },
       "variacion_mensual_pct": -1.79,
-      "poc_pct_promedio": 69.08
+      "poc_pct_promedio": 70.42
     },
     "YMCZD-24hs": {
       "operaciones": {
@@ -18682,16 +18682,16 @@
       },
       "total_operaciones": 137,
       "volumen_nominal": {
-        "compra": 107847,
-        "venta": 16109
+        "compra": 113716,
+        "venta": 18882
       },
       "monto_moneda": {
         "compra": 12195631.4,
         "venta": 2014267.8
       },
-      "flujo_neto_nominal": 91738,
+      "flujo_neto_nominal": 94834,
       "dias_operado": 22,
-      "dias_comprador": 17,
+      "dias_comprador": 18,
       "dias_vendedor": 4,
       "dias_neutro": 0,
       "poc_dominante_mes": 108.95,
@@ -18701,7 +18701,7 @@
         "max": 109.25
       },
       "variacion_mensual_pct": 0.46,
-      "poc_pct_promedio": 81.66
+      "poc_pct_promedio": 82.08
     },
     "YMCZD-CI": {
       "operaciones": {
@@ -18740,16 +18740,16 @@
       },
       "total_operaciones": 116,
       "volumen_nominal": {
-        "compra": 23028,
-        "venta": 6082
+        "compra": 23311,
+        "venta": 6354
       },
       "monto_moneda": {
         "compra": 3833420180.0,
         "venta": 1027386180.0
       },
-      "flujo_neto_nominal": 16946,
+      "flujo_neto_nominal": 16957,
       "dias_operado": 20,
-      "dias_comprador": 15,
+      "dias_comprador": 16,
       "dias_vendedor": 3,
       "dias_neutro": 3,
       "poc_dominante_mes": 164790.0,
@@ -18759,7 +18759,7 @@
         "max": 166660.0
       },
       "variacion_mensual_pct": -2.56,
-      "poc_pct_promedio": 71.47
+      "poc_pct_promedio": 72.8
     },
     "YMCZO-CI": {
       "operaciones": {
@@ -18798,16 +18798,16 @@
       },
       "total_operaciones": 23,
       "volumen_nominal": {
-        "compra": 11979,
+        "compra": 12940,
         "venta": 569
       },
       "monto_moneda": {
         "compra": 1321082.5,
         "venta": 57784.0
       },
-      "flujo_neto_nominal": 11410,
+      "flujo_neto_nominal": 12371,
       "dias_operado": 10,
-      "dias_comprador": 7,
+      "dias_comprador": 8,
       "dias_vendedor": 2,
       "dias_neutro": 12,
       "poc_dominante_mes": 103.0,
@@ -18817,7 +18817,7 @@
         "max": 105.0
       },
       "variacion_mensual_pct": 0.39,
-      "poc_pct_promedio": 99.81
+      "poc_pct_promedio": 99.83
     },
     "ZPC2D-CI": {
       "operaciones": {
@@ -19030,17 +19030,17 @@
       },
       "total_operaciones": 803,
       "volumen_nominal": {
-        "compra": 283472,
-        "venta": 461802
+        "compra": 299046,
+        "venta": 483808
       },
       "monto_moneda": {
         "compra": 31269255.05,
         "venta": 50499292.45
       },
-      "flujo_neto_nominal": -178330,
+      "flujo_neto_nominal": -184762,
       "dias_operado": 22,
       "dias_comprador": 10,
-      "dias_vendedor": 11,
+      "dias_vendedor": 12,
       "dias_neutro": 0,
       "poc_dominante_mes": 104.45,
       "poc_dominante_nominales": 185428,
@@ -19049,7 +19049,7 @@
         "max": 106.0
       },
       "variacion_mensual_pct": 0.43,
-      "poc_pct_promedio": 49.35
+      "poc_pct_promedio": 48.44
     },
     "ZZC1D-CI": {
       "operaciones": {
@@ -19088,16 +19088,16 @@
       },
       "total_operaciones": 538,
       "volumen_nominal": {
-        "compra": 148513,
-        "venta": 175951
+        "compra": 166341,
+        "venta": 178409
       },
       "monto_moneda": {
         "compra": 26466726770.0,
         "venta": 28218199170.0
       },
-      "flujo_neto_nominal": -27438,
+      "flujo_neto_nominal": -12068,
       "dias_operado": 22,
-      "dias_comprador": 10,
+      "dias_comprador": 11,
       "dias_vendedor": 11,
       "dias_neutro": 0,
       "poc_dominante_mes": 158000.0,
@@ -19107,7 +19107,7 @@
         "max": 164000.0
       },
       "variacion_mensual_pct": 1.2,
-      "poc_pct_promedio": 47.5
+      "poc_pct_promedio": 48.22
     },
     "ZZC1O-CI": {
       "operaciones": {
@@ -23211,7 +23211,7 @@
       ]
     },
     "ON CAMUZZI CL.1 V.21/02/27 U$S CG (ZZC1D)": {
-      "flujo_neto_nominal": -215275,
+      "flujo_neto_nominal": -206337,
       "total_operaciones": 1485,
       "tickers": [
         "ZZC1D-24hs",
@@ -23441,7 +23441,7 @@
       ]
     },
     "ON GEN. MEDITERRANEA (CT ROCA) MR46 V31/12/34 U$S CG (MR46D)": {
-      "flujo_neto_nominal": -898768,
+      "flujo_neto_nominal": -782783,
       "total_operaciones": 4220,
       "tickers": [
         "MR46O-24hs",
@@ -23451,7 +23451,7 @@
       ]
     },
     "ON GEN. MEDITERRANEA (CT ROCA) MR47 V30/06/36 U$S CG (MR47D)": {
-      "flujo_neto_nominal": 147568,
+      "flujo_neto_nominal": 91405,
       "total_operaciones": 2953,
       "tickers": [
         "MR47O-24hs",
@@ -23631,7 +23631,7 @@
       ]
     },
     "ON MINERA EXAR CL.1 V.11/11/27 U$S CG (XMC1D)": {
-      "flujo_neto_nominal": -475514,
+      "flujo_neto_nominal": -524383,
       "total_operaciones": 950,
       "tickers": [
         "XMC1D-24hs",
@@ -23671,7 +23671,7 @@
       ]
     },
     "ON MSU GREEN ENERGY S A 9,75 % VTO. 16/6/2036 (EAC4D)": {
-      "flujo_neto_nominal": 4607867,
+      "flujo_neto_nominal": 4889225,
       "total_operaciones": 9947,
       "tickers": [
         "EAC4O-24hs",
@@ -23791,7 +23791,7 @@
       ]
     },
     "ON PAMPA ENERGIA S.A. CL. XXVI V. 14/11/37 (MGCRD)": {
-      "flujo_neto_nominal": 12729960,
+      "flujo_neto_nominal": 13260960,
       "total_operaciones": 2871,
       "tickers": [
         "MGCRO-24hs",
@@ -23971,7 +23971,7 @@
       ]
     },
     "ON PLAZA LOGISTICA CL.2 V02/06/27 U$S CG (ZPC2D)": {
-      "flujo_neto_nominal": 11709,
+      "flujo_neto_nominal": 12670,
       "total_operaciones": 31,
       "tickers": [
         "ZPC2O-24hs",
@@ -24031,7 +24031,7 @@
       ]
     },
     "ON PLUSPETROL PLC7 V30/09/37 U$S CG (PLC7D)": {
-      "flujo_neto_nominal": 69165260,
+      "flujo_neto_nominal": 71511260,
       "total_operaciones": 13493,
       "tickers": [
         "PLC7D-24hs",
@@ -24311,7 +24311,7 @@
       ]
     },
     "ON VISTA ENERGY ARGENTINA CL.30 15/03/27 USD (VSCWD)": {
-      "flujo_neto_nominal": -1714569,
+      "flujo_neto_nominal": -1915606,
       "total_operaciones": 1365,
       "tickers": [
         "VSCWO-24hs",
@@ -24321,7 +24321,7 @@
       ]
     },
     "ON VISTA ENERGY CL. XXVII V.10/12/35 (VSCTD)": {
-      "flujo_neto_nominal": 376700,
+      "flujo_neto_nominal": 420700,
       "total_operaciones": 357,
       "tickers": [
         "VSCTD-24hs",
@@ -24341,7 +24341,7 @@
       ]
     },
     "ON VISTA ENERGY CL.26 V10/10/31 U$S CG (VSCRD)": {
-      "flujo_neto_nominal": -247180,
+      "flujo_neto_nominal": -191755,
       "total_operaciones": 14245,
       "tickers": [
         "VSCRD-24hs",
@@ -24351,7 +24351,7 @@
       ]
     },
     "ON VISTA ENERGY CL.28 V07/03/30 U$S CG (VSCUD)": {
-      "flujo_neto_nominal": 2631132,
+      "flujo_neto_nominal": 2632726,
       "total_operaciones": 2017,
       "tickers": [
         "VSCUD-24hs",
@@ -24361,7 +24361,7 @@
       ]
     },
     "ON YPF CL. 53 REGS 6,95% 21/07/2027 (YCAMD)": {
-      "flujo_neto_nominal": 69000,
+      "flujo_neto_nominal": 99000,
       "total_operaciones": 29,
       "tickers": [
         "YCAMD-24hs",
@@ -24381,7 +24381,7 @@
       ]
     },
     "ON YPF CL.41 08/01/27 USD (YM41D)": {
-      "flujo_neto_nominal": -226027,
+      "flujo_neto_nominal": -236680,
       "total_operaciones": 1292,
       "tickers": [
         "YM41D-24hs",
@@ -24391,7 +24391,7 @@
       ]
     },
     "ON YPF CL.42 02/03/29 USD (YM42D)": {
-      "flujo_neto_nominal": -1699318,
+      "flujo_neto_nominal": -2000296,
       "total_operaciones": 4845,
       "tickers": [
         "YM42D-CI",
@@ -24401,7 +24401,7 @@
       ]
     },
     "ON YPF CL40 V..28/08/2028 U$S CG (YM40D)": {
-      "flujo_neto_nominal": -236865,
+      "flujo_neto_nominal": -224167,
       "total_operaciones": 1014,
       "tickers": [
         "YM40O-24hs",
@@ -24411,7 +24411,7 @@
       ]
     },
     "ON YPF CLASE 32 U$S VTO 10/10/28 C.G (YMCYD)": {
-      "flujo_neto_nominal": -437356,
+      "flujo_neto_nominal": -394890,
       "total_operaciones": 3159,
       "tickers": [
         "YMCYO-24hs",
@@ -24421,7 +24421,7 @@
       ]
     },
     "ON YPF CLASE 33 U$S VTO 10/10/28 C.G (YMCZD)": {
-      "flujo_neto_nominal": 123259,
+      "flujo_neto_nominal": 126366,
       "total_operaciones": 259,
       "tickers": [
         "YMCZO-24hs",
@@ -24431,7 +24431,7 @@
       ]
     },
     "ON YPF CLASE 35 VTO 27/02/27 U$S C.G (YM35D)": {
-      "flujo_neto_nominal": -194274,
+      "flujo_neto_nominal": -198146,
       "total_operaciones": 2952,
       "tickers": [
         "YM35O-24hs",
@@ -24441,7 +24441,7 @@
       ]
     },
     "ON YPF CLASE 37 VTO 07/05/27 U$S C.G (YM37D)": {
-      "flujo_neto_nominal": -988160,
+      "flujo_neto_nominal": -963329,
       "total_operaciones": 6049,
       "tickers": [
         "YM37O-24hs",
@@ -24451,7 +24451,7 @@
       ]
     },
     "ON YPF CLASE 38 VTO.22/07/2027 U$S CG (YM38D)": {
-      "flujo_neto_nominal": -1241157,
+      "flujo_neto_nominal": -1324776,
       "total_operaciones": 4139,
       "tickers": [
         "YM38O-24hs",
@@ -24461,7 +24461,7 @@
       ]
     },
     "ON YPF CLASE 39 VTO 22/07/30 U$S CG (YM39D)": {
-      "flujo_neto_nominal": 2892614,
+      "flujo_neto_nominal": 4368337,
       "total_operaciones": 9420,
       "tickers": [
         "YM39D-24hs",
@@ -24471,7 +24471,7 @@
       ]
     },
     "ON YPF ENER.ELEC. C.15 V.27/02/27 U$S CG (YFCGD)": {
-      "flujo_neto_nominal": 49351,
+      "flujo_neto_nominal": 28906,
       "total_operaciones": 914,
       "tickers": [
         "YFCGO-24hs",
@@ -24481,7 +24481,7 @@
       ]
     },
     "ON YPF ENER.ELEC. C.17 V.13/06/27 U$S CG (YFCID)": {
-      "flujo_neto_nominal": 51904,
+      "flujo_neto_nominal": 36115,
       "total_operaciones": 386,
       "tickers": [
         "YFCIO-24hs",
@@ -24491,7 +24491,7 @@
       ]
     },
     "ON YPF ENER.ELEC. C.19 V.21/11/26 U$S CG (YFCKD)": {
-      "flujo_neto_nominal": -357544,
+      "flujo_neto_nominal": -353014,
       "total_operaciones": 391,
       "tickers": [
         "YFCKO-24hs",
@@ -24501,7 +24501,7 @@
       ]
     },
     "ON YPF ENER.ELEC. C.20 V.21/11/28 U$S CG (YFCLD)": {
-      "flujo_neto_nominal": -77008,
+      "flujo_neto_nominal": -66258,
       "total_operaciones": 1004,
       "tickers": [
         "YFCLO-24hs",
@@ -24511,7 +24511,7 @@
       ]
     },
     "ON YPF ENER.ELEC. C.21 V.20/05/27 U$S CG (YFCMD)": {
-      "flujo_neto_nominal": 354569,
+      "flujo_neto_nominal": 323734,
       "total_operaciones": 692,
       "tickers": [
         "YFCMD-24hs",
@@ -24521,7 +24521,7 @@
       ]
     },
     "ON YPF ENERGIA ELECTRICA CL.22 USD (YFCND)": {
-      "flujo_neto_nominal": -470815,
+      "flujo_neto_nominal": -496185,
       "total_operaciones": 772,
       "tickers": [
         "YFCND-24hs",
@@ -24531,7 +24531,7 @@
       ]
     },
     "ON YPF ENERGIA ELECTRICA CL.23 15/12/28 USD (YFCOD)": {
-      "flujo_neto_nominal": -281232,
+      "flujo_neto_nominal": -322029,
       "total_operaciones": 518,
       "tickers": [
         "YFCOD-24hs",
@@ -24551,7 +24551,7 @@
       ]
     },
     "ON YPF S.A. REGS 1,5% V.30/09/2033 (YMCJD)": {
-      "flujo_neto_nominal": 90921,
+      "flujo_neto_nominal": -83570,
       "total_operaciones": 14370,
       "tickers": [
         "YMCJD-24hs",
@@ -24561,7 +24561,7 @@
       ]
     },
     "ON YPF SA REGS 2,5% V30/06/2029 C.XVII (YMCID)": {
-      "flujo_neto_nominal": 659770,
+      "flujo_neto_nominal": 743139,
       "total_operaciones": 18567,
       "tickers": [
         "YMCIO-CI",
@@ -42050,13 +42050,13 @@
         "mep": 1525.47
       },
       "2026-07-07": {
-        "buy_qty": 15719,
-        "sell_qty": 3235,
-        "flujo_neto": 12484,
+        "buy_qty": 200439,
+        "sell_qty": 87916,
+        "flujo_neto": 112523,
         "monto_ars": 18519830230.0,
         "monto_usd": 18160509.2,
         "poc_price": 103.05,
-        "poc_pct": 77.78962331201137,
+        "poc_pct": 4.989657117783489,
         "variantes": {
           "D": {
             "last_price": 101.9,
@@ -42308,8 +42308,21 @@
         "monto_ars": 15965030900.0,
         "monto_usd": 26594643.3,
         "poc_price": 103.75,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 24.523725777294256,
+        "variantes": {
+          "D": {
+            "last_price": 104.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 156270.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": false,
         "es_gainer": true,
@@ -58279,13 +58292,13 @@
         "mep": 1525.47
       },
       "2026-07-07": {
-        "buy_qty": 34000,
-        "sell_qty": 18000,
-        "flujo_neto": 16000,
+        "buy_qty": 705000,
+        "sell_qty": 452000,
+        "flujo_neto": 253000,
         "monto_ars": 97555400000.0,
         "monto_usd": 65469800.0,
         "poc_price": 163300.0,
-        "poc_pct": 71.42857142857143,
+        "poc_pct": 3.502626970227671,
         "variantes": {
           "D": {
             "last_price": 106.6,
@@ -58537,8 +58550,21 @@
         "monto_ars": 143470380000.0,
         "monto_usd": 129102400.0,
         "poc_price": 107.5,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 50.46179680940386,
+        "variantes": {
+          "O": {
+            "last_price": 162450.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "D": {
+            "last_price": 108.95,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -60768,13 +60794,13 @@
         "mep": 1525.47
       },
       "2026-07-07": {
-        "buy_qty": 5188,
-        "sell_qty": 26395,
-        "flujo_neto": -21207,
+        "buy_qty": 491757,
+        "sell_qty": 310071,
+        "flujo_neto": 181686,
         "monto_ars": 58100200710.0,
         "monto_usd": 30996906.31,
         "poc_price": 85.1,
-        "poc_pct": 84.95670995670996,
+        "poc_pct": 0.5722514790397036,
         "variantes": {
           "D": {
             "last_price": 84.12,
@@ -61026,8 +61052,21 @@
         "monto_ars": 13663616030.0,
         "monto_usd": 6354226.51,
         "poc_price": 128800.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 24.77863288303512,
+        "variantes": {
+          "O": {
+            "last_price": 128310.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "D": {
+            "last_price": 85.35,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": false,
         "es_vendedor_neto": true,
         "es_gainer": false,
@@ -61373,13 +61412,13 @@
         "mep": 1525.47
       },
       "2026-07-07": {
-        "buy_qty": 1239,
-        "sell_qty": 3801,
-        "flujo_neto": -2562,
+        "buy_qty": 9165,
+        "sell_qty": 45328,
+        "flujo_neto": -36163,
         "monto_ars": 835004170.0,
         "monto_usd": 1702958.62,
         "poc_price": 40.1,
-        "poc_pct": 90.826916638768,
+        "poc_pct": 6.557099697885197,
         "variantes": {
           "D": {
             "last_price": 41.06,
@@ -61631,8 +61670,21 @@
         "monto_ars": 2894819600.0,
         "monto_usd": 1582015.86,
         "poc_price": 64000.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 54.273571188905045,
+        "variantes": {
+          "O": {
+            "last_price": 62100.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "D": {
+            "last_price": 42.35,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -74426,13 +74478,13 @@
         "mep": 1525.47
       },
       "2026-07-07": {
-        "buy_qty": 64000,
-        "sell_qty": 40000,
-        "flujo_neto": 24000,
+        "buy_qty": 1527000,
+        "sell_qty": 351000,
+        "flujo_neto": 1176000,
         "monto_ars": 87178900000.0,
         "monto_usd": 133654350.0,
         "poc_price": 154800.0,
-        "poc_pct": 38.23529411764706,
+        "poc_pct": 1.9817073170731707,
         "variantes": {
           "D": {
             "last_price": 101.0,
@@ -74684,8 +74736,21 @@
         "monto_ars": 172273530000.0,
         "monto_usd": 157364000.0,
         "poc_price": 102.4,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 63.21138211382114,
+        "variantes": {
+          "D": {
+            "last_price": 102.8,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 154400.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": false,
         "es_gainer": true,
@@ -102511,8 +102576,21 @@
         "monto_ars": 22745376810.0,
         "monto_usd": 13439806.65,
         "poc_price": 112.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 8.401812170200698,
+        "variantes": {
+          "D": {
+            "last_price": 112.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 171000.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": false,
         "es_gainer": true,
@@ -103116,8 +103194,21 @@
         "monto_ars": 20992420000.0,
         "monto_usd": 15237500.0,
         "poc_price": 163800.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 23.076923076923077,
+        "variantes": {
+          "D": {
+            "last_price": 108.45,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 164400.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -103721,8 +103812,21 @@
         "monto_ars": 1519098230.0,
         "monto_usd": 253640.8,
         "poc_price": 165780.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 22.058012573067167,
+        "variantes": {
+          "D": {
+            "last_price": 113.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 169080.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": false,
         "es_gainer": true,
@@ -104944,8 +105048,21 @@
         "monto_ars": 152600.0,
         "monto_usd": 20595803.35,
         "poc_price": 100.1,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 97.21714530147187,
+        "variantes": {
+          "D": {
+            "last_price": 101.2,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 152600.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -106167,8 +106284,21 @@
         "monto_ars": 6856395010.0,
         "monto_usd": 5830112.85,
         "poc_price": 103.55,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 90.54267696953548,
+        "variantes": {
+          "O": {
+            "last_price": 156200.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "D": {
+            "last_price": 103.55,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": false,
         "es_vendedor_neto": true,
         "es_gainer": false,
@@ -106772,8 +106902,15 @@
         "monto_ars": 0.0,
         "monto_usd": 3261500.0,
         "poc_price": 108.7,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 66.66666666666666,
+        "variantes": {
+          "D": {
+            "last_price": 108.7,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": false,
         "es_gainer": true,
@@ -107377,8 +107514,21 @@
         "monto_ars": 478825310.0,
         "monto_usd": 2775987.45,
         "poc_price": 102.55,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 36.96721008465491,
+        "variantes": {
+          "O": {
+            "last_price": 155470.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "D": {
+            "last_price": 103.1,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": false,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -107982,8 +108132,21 @@
         "monto_ars": 474992820.0,
         "monto_usd": 1348272.35,
         "poc_price": 100.65,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 27.08981854073343,
+        "variantes": {
+          "D": {
+            "last_price": 105.45,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 154400.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": false,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -109205,8 +109368,21 @@
         "monto_ars": 2631345180.0,
         "monto_usd": 1773782.75,
         "poc_price": 153610.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 36.022220936288406,
+        "variantes": {
+          "D": {
+            "last_price": 102.35,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 153610.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -109810,8 +109986,21 @@
         "monto_ars": 2541739420.0,
         "monto_usd": 477473.5,
         "poc_price": 158630.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 57.135716070982255,
+        "variantes": {
+          "O": {
+            "last_price": 159500.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "D": {
+            "last_price": 105.8,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -110415,8 +110604,21 @@
         "monto_ars": 4706461120.0,
         "monto_usd": 110303.3,
         "poc_price": 156840.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 99.97334044254865,
+        "variantes": {
+          "D": {
+            "last_price": 104.5,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 157640.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": false,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -111020,8 +111222,21 @@
         "monto_ars": 367123640.0,
         "monto_usd": 4955711.45,
         "poc_price": 102.3,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 41.203722854188214,
+        "variantes": {
+          "D": {
+            "last_price": 102.8,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 155200.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -111625,8 +111840,21 @@
         "monto_ars": 4367687340.0,
         "monto_usd": 3487900.75,
         "poc_price": 107.7,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 75.72322368828594,
+        "variantes": {
+          "O": {
+            "last_price": 161910.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "D": {
+            "last_price": 109.6,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": false,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -112848,8 +113076,21 @@
         "monto_ars": 234968190.0,
         "monto_usd": 746223.55,
         "poc_price": 102.7,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 62.45004822929585,
+        "variantes": {
+          "O": {
+            "last_price": 154530.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "D": {
+            "last_price": 102.75,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": false,
         "es_vendedor_neto": true,
         "es_gainer": false,
@@ -113453,8 +113694,21 @@
         "monto_ars": 21006391390.0,
         "monto_usd": 9839779.25,
         "poc_price": 104.1,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 29.469029197408002,
+        "variantes": {
+          "O": {
+            "last_price": 155580.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "D": {
+            "last_price": 104.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": false,
@@ -114058,8 +114312,21 @@
         "monto_ars": 16596544050.0,
         "monto_usd": 11189329.15,
         "poc_price": 103.65,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 40.365229820206125,
+        "variantes": {
+          "D": {
+            "last_price": 107.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 161800.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -114663,8 +114930,21 @@
         "monto_ars": 38415956710.0,
         "monto_usd": 224203757.15,
         "poc_price": 116.25,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 93.72205911112749,
+        "variantes": {
+          "O": {
+            "last_price": 170250.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "D": {
+            "last_price": 116.9,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -115268,8 +115548,21 @@
         "monto_ars": 6578697990.0,
         "monto_usd": 3347910.8,
         "poc_price": 106.5,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 22.011796821682754,
+        "variantes": {
+          "D": {
+            "last_price": 106.5,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 161000.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -115873,8 +116166,21 @@
         "monto_ars": 1847232800.0,
         "monto_usd": 448004.4,
         "poc_price": 152560.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 81.67996011964108,
+        "variantes": {
+          "D": {
+            "last_price": 101.75,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 152520.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -116478,8 +116784,21 @@
         "monto_ars": 28996757740.0,
         "monto_usd": 26540300.15,
         "poc_price": 159700.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 31.532449066807256,
+        "variantes": {
+          "D": {
+            "last_price": 105.6,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 159630.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": false,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -117083,8 +117402,21 @@
         "monto_ars": 28492497580.0,
         "monto_usd": 31369997.35,
         "poc_price": 93.21,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 55.92647312081358,
+        "variantes": {
+          "D": {
+            "last_price": 94.48,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 141490.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -117688,8 +118020,21 @@
         "monto_ars": 13965055670.0,
         "monto_usd": 17037807.7,
         "poc_price": 108.7,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 39.15023283647795,
+        "variantes": {
+          "D": {
+            "last_price": 108.7,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 164500.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": false,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -118911,8 +119256,21 @@
         "monto_ars": 4587273130.0,
         "monto_usd": 5411026.0,
         "poc_price": 156500.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 23.9029645447375,
+        "variantes": {
+          "O": {
+            "last_price": 157090.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "D": {
+            "last_price": 104.1,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
@@ -119516,8 +119874,21 @@
         "monto_ars": 88637560.0,
         "monto_usd": 915895.55,
         "poc_price": 106.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 90.87016894237445,
+        "variantes": {
+          "D": {
+            "last_price": 106.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 159610.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": false,
         "es_gainer": false,
@@ -120121,8 +120492,15 @@
         "monto_ars": 0.0,
         "monto_usd": 99944.0,
         "poc_price": 104.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 100.0,
+        "variantes": {
+          "D": {
+            "last_price": 104.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": false,
         "es_gainer": true,
@@ -121316,8 +121694,21 @@
         "monto_ars": 3277031390.0,
         "monto_usd": 3925748.25,
         "poc_price": 157500.0,
-        "poc_pct": null,
-        "variantes": {},
+        "poc_pct": 29.3214475784992,
+        "variantes": {
+          "D": {
+            "last_price": 104.65,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          },
+          "O": {
+            "last_price": 159100.0,
+            "var_day": null,
+            "tir": null,
+            "parity": null
+          }
+        },
         "es_comprador_neto": true,
         "es_vendedor_neto": true,
         "es_gainer": true,
